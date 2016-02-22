@@ -1,0 +1,3895 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    [
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Au bon marché",
+          "address": "12 Place du châtelet, 45000 Orléans"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Mezzanine",
+          "address": "39 Rue de l'Aiguillerie 34000 Montpellier"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ravioli Nord Est",
+          "address": "115 Rue Saint-Denis 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Batbat",
+          "address": "8 Rue des Filatiers, 31000 Toulouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Ondines",
+          "address": "19 rue St-Bazile 13001 Marseille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Green is better",
+          "address": "35 Rue du Président Poincaré, 59140 Dunkerque"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Un sourire dans l'assiette",
+          "address": "Caen\n"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cantine vegan du Centre Culturel Libertaire",
+          "address": "4 rue de Colmar 59000 LILLE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cigkoftem — Lyon",
+          "address": "17 avenue Jean Jaurès, 69003 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "PIGUT Stages gourmands de cuisine bio végétale",
+          "address": "Rue de Charenton 75012 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lulu Graine d'un Monde",
+          "address": "12 Rue de la Poste, 21000 Dijon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Houé",
+          "address": "15 Rue du Vieux Faubourg 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les petits zozios",
+          "address": "35 rue des Jardins, 57000 Metz"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Caprice café",
+          "address": "12 avenue Jean Moulin, 75014 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La révolution verte",
+          "address": "5 Rue du Théâtre, 66000 Perpignan"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les demoiselles de Montpellier",
+          "address": "2, rue de la Carbonnerie, 34000 Montpellier"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La pause verte",
+          "address": "Aubenas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les trois cuillères",
+          "address": "38 rue Bourbonnoux 18000 Bourges"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "BIOfresh",
+          "address": "36 rue de l'arsenal 68100 Mulhouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Rimal",
+          "address": "94 bd Malesherbes, 75017 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Alounak",
+          "address": "3, rue Alsace Lorraine, 06000 Nice"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'éphémère",
+          "address": "228 Avenue du Maine, 75014 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Liquium",
+          "address": "71 Rue Jeanne d'Arc, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ob-La-Di Café",
+          "address": "54 rue de Saintonge, 75003 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le tricycle",
+          "address": "51 rue de Paradis, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Habibi 2.0",
+          "address": "100 rue du commerce 37000 Tours"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Casse-Noisette",
+          "address": "92 rue Docteur Vigne 76600 Le Havre"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Oh Terroir (version Fast Good)",
+          "address": "3 rue des Halles 45000 Orléans"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le GREEN se met au Vert",
+          "address": "24, avenue Francois Mitterrand 57000 Metz"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Petites Gouttes",
+          "address": "12 esplanade Nathalie Sarraute, 75018 PARIS"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Twinkie",
+          "address": "167 Rue Saint-Denis, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "I Live Coffee",
+          "address": "Esplanadna St, 32, Kiev, Ukraine"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chez Lou",
+          "address": "4 rue de Pouilly, 51100 Reims"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Velicious",
+          "address": "43 rue Geiler, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Granny Smith",
+          "address": "4, Rue Louis Revon, 74000 Annecy"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Wally's coffee",
+          "address": "19 place Philippe Lebon, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Distrito Francés",
+          "address": "10 rue du faubourg Saint Martin, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Aux idées reçues",
+          "address": "15 rue de st antheme 42600 moingt (Monbrison)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ooh la la Obanyaki",
+          "address": "Vaucluse, Gard, Hérault"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Furahaa Candy",
+          "address": "44, rue Monsieur le Prince 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Potager de Charlotte",
+          "address": "12 Rue de la Tour d'Auvergne, 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Terra Culinaria Gastronomie Végétale",
+          "address": "36 Place du Marché Saint Honoré 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pizza Jazz",
+          "address": "56 rue des Stations, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bo Bun",
+          "address": "19-21 rue de la Boucherie Liège, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yoom — Maison de la Chine",
+          "address": "76 rue Bonaparte 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yoom — Galeries Lafayette",
+          "address": "40 boulevard Haussmann 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yoom — Rue des Martyrs",
+          "address": "20 rue des Martyrs 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yoom — Batignolles",
+          "address": "59 rue des Dames 75017 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yoom — St Germain des Prés",
+          "address": "5 rue Grégoire de Tours 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veganopolis Café",
+          "address": "Avenue des Bains 4C, 1007 Lausanne, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La guinguette d'Angèle",
+          "address": "34 rue Coquillière 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La vie en fruits",
+          "address": "116 Boulevard Saint-Germain, 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bears & Raccoons",
+          "address": "21 Rue Richard Lenoir, 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Veganovore",
+          "address": "55 rue de Paradis 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le J'Âm",
+          "address": "10, rue Charles Vienot - BP 42430, Papeete"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Fior di pizza",
+          "address": "2 Grand Rue, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veg'Art",
+          "address": "123 rue d'Oberkampf 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Carmen Ragosta",
+          "address": "8 rue de la grange aux belles 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Fahima Tandoori",
+          "address": "36 Rue de Marseille, 69007 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pure Cafe",
+          "address": "5 Chome-5-２１ Minamiaoyama, Minato, Tokyo 107-0062, Japon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Caprice Café",
+          "address": "12 Avenue Jean Moulin, 75014 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La boucherie végétarienne",
+          "address": "10 place d'aligre, 75012 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le So",
+          "address": "93 Rue Montmartre, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Passe le mic",
+          "address": "Chemin des Mineurs, Goyave, Guadeloupe"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Coutinelle",
+          "address": "25 rue de l'université 34070 Montpellier"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Smooth'Sea",
+          "address": "Rue Benoît Cassin, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Snack",
+          "address": "Rue Théodore Samson, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Escale Créole",
+          "address": "419 Route du Bois-Joli, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "100% le bar à jus",
+          "address": "2 rue Saint Jean 68000 Colmar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Psychédélice",
+          "address": "1003 avenue de l'océean, 40170 Contis Plage"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Eatme — Poissonnière",
+          "address": "58 Rue du Faubourg Poissonnière, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Eatme — Washington",
+          "address": "35 Rue de Washington, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Eatme — Anjou",
+          "address": "29 Rue d'Anjou, Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Eatme — Montorgueil",
+          "address": "38 Rue Léopold Bellan, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Fée Nature — Paris 10",
+          "address": "40 bis, rue du faubourg Poissonnière 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Fée Nature — Paris 2",
+          "address": "69 rue d'Argout 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Keck's Café",
+          "address": "16 Rue d'Allier, 03200 Vichy"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Slize",
+          "address": "52 avenue de la République, 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Végé saveurs",
+          "address": "29 rue de Charenton 75012 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Aix en Provence",
+          "address": "5 place Richelme, 13100 Aix en Provence"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Barão Natural",
+          "address": "Rua João Moura, 861. Pinheiros. São Paulo - SP. Brasil"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cigkoftem — Strasbourg",
+          "address": "3 Place du Vieux Marché aux Vins, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lacocina",
+          "address": "2 Grand Rue, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "D'île en île",
+          "address": "104 avenue Mourain, l'Herbaudière, Noirmoutier"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La baie du dragon",
+          "address": "8 Place Notre Dame du Mont, 13006 Marseille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Integral",
+          "address": "c/La Jonquera, 30 Figueres, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veggana",
+          "address": "c/ Rutlla, 108 Girona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "B12",
+          "address": "Plaça del vi, 11 Girona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bionectar",
+          "address": "Carrer Eiximenis, 8 Girona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Super Naturelle",
+          "address": "34 Rue Ramey, 75018 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Laauma",
+          "address": "Sonntagstraße 26, 10245 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "The Bowl",
+          "address": "Warschauer Str. 33, 10243 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kapunka",
+          "address": "59 Rue de Richelieu, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Aux Arts etc",
+          "address": "15 Quai de Montebello, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Las Vegans",
+          "address": "30 Boulevard de Bonne Nouvelle, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Table des Roy",
+          "address": "4 Rue des Trois Croissants, 44000 Nantes"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Nick's Pizza",
+          "address": "24 Rue du Faubourg Montmartre, 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Aneth et Ciboulette",
+          "address": "2 boulevard des 4 Arpents ZA le Débucher 28260 Anet"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Crêpe de la joie",
+          "address": "4 rue du Fer à Moulin 75005 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Terroirs Bio",
+          "address": "9 Rue Alain Barbe Torte, 44000 Nantes"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le café chinois",
+          "address": "7 Rue de Béarn, 75003 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Almodóvar Hotel",
+          "address": "Boxhagener Str. 83, 10245 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Crêperie Saint Germain",
+          "address": "33 rue St André des Arts 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "AntiCafé — Louvre",
+          "address": "10 rue de Richelieu 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Anticafé — Olympiades",
+          "address": "59 Rue Nationale 75013 PARIS"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Color Vegan",
+          "address": "23 rue pailleron 69004 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Goveg vegan shop",
+          "address": "Rue Hors-Château 14, 4000 Liège, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Trésors Partagés",
+          "address": "10 Rue des 3 Croissants, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Pierrafeu",
+          "address": "Chemin de Ledenon, 30210 Saint-Bonnet-du-Gard, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Paint It Green Vegan",
+          "address": "78 rue Compans, Paris XIX"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le cri de la carotte",
+          "address": "304 Avenue de Muret, 31300 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Un Monde Vegan",
+          "address": "64 Rue Notre Dame de Nazareth, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Saint Ouen",
+          "address": "150 Boulevard Victor Hugo, 93400 Saint-Ouen, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "What the cake ?",
+          "address": "51 Rue du Fossé des Tanneurs, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Toraya Paris",
+          "address": "10 Rue Saint-Florentin, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Charles Chocolatier",
+          "address": "15 Rue Montorgueil, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "In the Garden",
+          "address": "39 Rue Saint-Maur, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Cloitre Gourmand",
+          "address": "21 Cloître Notre Dame, 28000 Chartres, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Bonheur est dans le Thé",
+          "address": "7 Rue Sadi Carnot, 86000 Poitiers, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Charbon Rouge",
+          "address": "25 Rue Marbeuf, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cantine Merci",
+          "address": "111 Boulevard Beaumarchais, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Cerise Gourmande",
+          "address": "49 Rue de l'Hôtel de ville, 95300 Pontoise, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soup & Juice — Levallois",
+          "address": "34 Avenue de l'Europe, 92300 Levallois-Perret, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soup & Juice - Rue d'Amsterdam",
+          "address": "55 Rue d'Amsterdam, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soup & Juice — Champs Elysées",
+          "address": "133 Avenue des Champs-Élysées, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soup & Juice — Rue de Londres",
+          "address": "4 Rue de Londres, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soup & Juice — Kléber",
+          "address": "54 Avenue Kléber, 75116 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Provence",
+          "address": "66 Rue de Provence, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Bourse",
+          "address": "121 Rue Réaumur, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Haussmann",
+          "address": "17 Boulevard Haussmann, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Louvre",
+          "address": "3 Place du Louvre, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cojean — Madeleine",
+          "address": "6 Rue de Sèze, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Bar à Soupes",
+          "address": "33 Rue de Charonne, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Trois 8",
+          "address": "11 Rue Victor Letalle, 75020 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Be Yourself !",
+          "address": "2 Square Morisson, 59800 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Liberty Eiscafé & Bistro",
+          "address": "Fischmarkt 11, 22767 Hamburg, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Maison Bastille",
+          "address": "34 Rue Amelot, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "My free kitchen",
+          "address": "1bis Rue Bleue, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lily of the Valley",
+          "address": "12 Rue Dupetit-Thouars, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lula Lifestyle Shop",
+          "address": "216 Rue Saint-Maur, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "We Are Juice",
+          "address": "34 Rue des Jeuneurs, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Shake Café",
+          "address": "Via degli Avelli, 2, 50123 Firenze, Italie"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Der Eisbärliner",
+          "address": "Gärtnerstraße 11, 10245 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Eissalon Tanne B",
+          "address": "Eisenbahnstraße 48, 10997 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chaostheorie",
+          "address": "Lychener Straße 4, 10437 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pennycakes",
+          "address": "Alter Militärring 68, 50933 Köln, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ms. Cupcake",
+          "address": "408 Coldharbour Lane, London SW9 8LF, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les bien-aimés",
+          "address": "2 Rue de la Paix, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ze Music All",
+          "address": "18 Rue Rivotte, 25000 Besançon, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Délices de Plume",
+          "address": "1 Rue Fongate, 13001 Marseille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Coffee Makers",
+          "address": "151 Rue de Paris, 59800 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Noisette",
+          "address": "21 Boulevard Pasteur, 34090 Montpellier, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Rose Café",
+          "address": "210 Boulevard Lemire Ouest, Drummondville, QC J2B 8A9, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pancake Night Fever",
+          "address": "23 Rue Gemare, 14000 Caen, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Grom",
+          "address": "81 Rue de Seine, 75006 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bistrot et Chocolat",
+          "address": "8 Rue de la Râpe, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Naked Food",
+          "address": "22 Rue des Capucines, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vegan Folie's",
+          "address": "53-55 Rue Mouffetard, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Haricot Rouge",
+          "address": "10 Rue Baudrairie, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'Entrechoc",
+          "address": "15 Place Valencia, 56000 Vannes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chocolatitudes",
+          "address": "57 Rue Daguerre, 75014 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bob's Cold Press",
+          "address": "10 Passage Rochebrune, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sugar Blue Café",
+          "address": "4 Rue de l'Arche Sèche, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Causerie Pause Bio",
+          "address": "3 Rue Jean-François Haché, 38000 Grenoble, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Gagao",
+          "address": "20 Rue des Frères, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Juice it",
+          "address": "8 Rue de la Vrillière, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Causerie des Mondes",
+          "address": "16 Rue Vauban, 21000 Dijon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Phenix",
+          "address": "24 Rue de la Cloche Verte, 16000 Angoulême, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cookies and Scream",
+          "address": "The Market Hall, Camden Lock Place, London NW1 8AF, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "The Coffee Pot",
+          "address": "41 Rue des Lois, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Matamata Coffee Bar",
+          "address": "58 Rue d'Argout, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Den Coffeeshop",
+          "address": "Centre Commercial Saint Georges, 51 bis, rue du Rempart St Etienne, 31000 Toulouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Colombus Café",
+          "address": "10 Rue du Taur, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "92,5° Coffee Shop",
+          "address": "Cours des 50 Otages, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Panasia",
+          "address": "130 Avenue Victor Hugo, 92100 Boulogne-Billancourt, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Zumo — Passage du Havre",
+          "address": "10 Passage du Havre, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Zumo — Italie",
+          "address": "30 Avenue d'Italie, 75013 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bob's Juice Bar",
+          "address": "15 Rue Lucien Sampaix, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "AntiCafé — Beaubourg",
+          "address": "79 Rue Quincampoix, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bubble Tea Cup",
+          "address": "164 Rue Saint-Martin, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bubbolitas",
+          "address": "17 Rue Quincampoix, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Maharajah",
+          "address": "13 Rue de Thillois, 51100 Reims, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ayutthaya",
+          "address": "5 Rue Houdon, 75018 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Green Bear Coffee",
+          "address": "17 Rue Glandeves, 13001 Marseille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Made In France",
+          "address": "26 Rue des Drapiers, 67000 Strasbourg, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mitsou",
+          "address": "3 Rue du Commandant Rivière, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lao Lane Xang",
+          "address": "102 Avenue d'Ivry, 75013 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "le 42",
+          "address": "42 Rue Louis Blanc, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Belle Verte",
+          "address": "50 Rue d'Aubuisson, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Terre Mère",
+          "address": "Rue de la Régence 21, 4000 Liège, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Pause Quinoa",
+          "address": "33 Rue du Jeu des Enfants, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Speakeasy",
+          "address": "7 Rue Lamartine, 06000 Nice"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lekker Gec",
+          "address": "Kon. Maria Hendrikaplein 6, 9000 Gent, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Komkommertijd",
+          "address": "Reep 14, 9000 Gent, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Basilic Instant",
+          "address": "93 Rue des Granges, 25000 Besançon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Saveurs Nature",
+          "address": "7 Rue Paul Massot, 66000 Perpignan"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La faim des haricots",
+          "address": "3 Rue du Puits Vert, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Toutes Les Couleurs",
+          "address": "26 Rue Imbert Colomes, 69001 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Can Tin(e)",
+          "address": "66 Rue du Faubourg Poissonnière, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Red Gold and Green",
+          "address": "43 Rue Paul Bert, 93400 Saint-Ouen"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Millefeuilles",
+          "address": "Leteurrie, 35420 Saint-Georges-de-Reintembault"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "My Bo Bun",
+          "address": "73 Rue de la Victoire, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Rise Up 'N' Shine",
+          "address": "49 Cours de l'Argonne, 33000 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Helveg Café",
+          "address": "Avenue de Miremont 31, 1206 Genève, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Roi Falafel",
+          "address": "30 Rue Palais Grillet, 69002 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Macéo",
+          "address": "15 Rue des Petits Champs, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soline",
+          "address": "89 Rue Paul Bert, 69003 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Saint-Germain des Champs",
+          "address": "12 Rue du Vau Saint-Germain, 35000 Rennes"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Shanti",
+          "address": "69 Rue Berbisey, 21000 Dijon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Liza",
+          "address": "14 Rue de la Banque, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vert Midi - Quincampoix",
+          "address": "9 Rue aux Ours, 75003 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vert Midi - St Marc",
+          "address": "1 Rue Saint-Marc, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "An Com",
+          "address": "14 Rue Blondel, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Monthaï",
+          "address": "84 Rue Montorgueil, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mussubï",
+          "address": "89 Rue d'Hauteville, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kawaii Café",
+          "address": "20 Rue de Nemours, 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kok Ping",
+          "address": "4 Rue Balzac, 75008 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pause",
+          "address": "34 Place des Reflets, 92400 Courbevoie"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ase Theodros",
+          "address": "7 Rue de la Collégiale, 75005 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Aquarius",
+          "address": "40 Rue de Gergovie, 75014 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dietetic shop",
+          "address": "11 Rue Delambre, 75014 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Greedy Guts",
+          "address": "15 Rue de Bras, 14000 Caen"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Graine",
+          "address": "7 Place Saint-Augustin, 75008 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "2 sous de table",
+          "address": "56 Rue de Gand, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Carottes et Gingembre",
+          "address": "36 Rue des Bancs, 17400 Saint-Jean-d'Angély"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Avalon",
+          "address": "Geldmunt 32, 9000 Gent, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut - Leuven",
+          "address": "Tiensestraat 65, 3000 Leuven, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Saï Bobun",
+          "address": "9 Rue de Ponthieu, 75008 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yaafa",
+          "address": "17 Rue d'Algérie, 69001 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Vert en Couleur",
+          "address": "8, place Aristide Briand, Reims"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Toutofu",
+          "address": "25 Rue Ordener, 75018 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Food Avenue",
+          "address": "77 Place Drouet d'Erlon, 51100 Reims"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "In bocca al lupo",
+          "address": "14 Rue Francoeur, 75018 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'Escale du Liban",
+          "address": "1 Rue Ferdinand Duval, 75004 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut — Menton",
+          "address": "649 Promenade du Soleil, 06500 Menton, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — St Martin",
+          "address": "327 Rue Saint-Martin, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — St Ambroise",
+          "address": "18 Rue Saint-Ambroise, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — Haussmann",
+          "address": "182 Boulevard Haussmann, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — République",
+          "address": "4 Rue Beaurepaire, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — Montorgueil",
+          "address": "64 Rue Montmartre, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — La Fayette",
+          "address": "26 Rue la Fayette, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Elgi — Bourse",
+          "address": "10 rue saint-marc, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Puits de Légumes",
+          "address": "18 Rue du Cardinal Lemoine, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Comptoir Méditerranée",
+          "address": "42 Rue du Cardinal Lemoine, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "King Falafel Palace",
+          "address": "26 Rue des Rosiers, 75004 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pica Tapas",
+          "address": "117 Rue Solférino, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hobbes",
+          "address": "31 Avenue Simon Bolivar, 75019 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le bistrot de l'île",
+          "address": "17 Rue la Tour d'Auvergne, 44200 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pulp Kitchen",
+          "address": "106 Rue de l'Hôpital Militaire, 59000 Lille"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Joy In Food",
+          "address": "2 Rue Truffaut, 75017 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hope café",
+          "address": "64 Rue Lamarck, 75018 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Allen's Market",
+          "address": "33 Rue du Château d'Eau, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Joe Allen",
+          "address": "30 Rue Pierre Lescot, 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Tugalik",
+          "address": "29 Rue Saint-Placide, 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Gazzetta",
+          "address": "29 Rue de Cotte, 75012 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Saravanaa Bhavan",
+          "address": "170 Rue du Faubourg Saint-Denis, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Guen Mai",
+          "address": "6 Rue Cardinale, 75006 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Grenier de Notre-Dame",
+          "address": "18 Rue de la Bûcherie, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ma grand-mère m'a dit",
+          "address": "1 Rue Falguière, 75015 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bioburger",
+          "address": "46 Passage Choiseul, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Bio d'Adam et Ève",
+          "address": "41 Rue Saint Honoré, 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Saveurs Végét'Halles",
+          "address": "41 Rue des Bourdonnais, 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pousse-Pousse",
+          "address": "5 Rue Notre Dame de Lorette, 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Comptoir Général",
+          "address": "80 Quai de Jemmapes, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Green Garden",
+          "address": "20 Rue nationale 75013 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris St Honoré",
+          "address": "18 Place du Marché Saint-Honoré, 75001 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris Montorgueil",
+          "address": "2 Rue des Petits Carreaux, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris Varenne",
+          "address": "25 Rue de Varenne, 75007 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "42 Degrés",
+          "address": "109 Rue du Faubourg Poissonnière, 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Pinson — Poissonière",
+          "address": "58 Rue du Faubourg Poissonnière, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Potager du Marais",
+          "address": "24 Rue Rambuteau, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "M.O.B. Marais",
+          "address": "30 Rue Charlot, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sol Semilla",
+          "address": "23 Rue des Vinaigriers, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Soya",
+          "address": "20 Rue de la Pierre Levée, 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "My Kitch'n",
+          "address": "82 rue Lemercier, 75017, Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Ginger",
+          "address": "9 Rue Jacques Cœur, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut — Paris",
+          "address": "92 Boulevard Beaumarchais, 75011 Paris 11e arrondissement"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mum Dim Sum",
+          "address": "14 Boulevard de Courcelles, 75017 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chipotle Mexican Grill — Montmartre",
+          "address": "18-20 Boulevard Montmartre, 75009 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Pinson — Forez",
+          "address": "6 Rue du Forez, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bob's Kitchen",
+          "address": "74 Rue des Gravilliers, 75003 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Tien Hiang",
+          "address": "14 Rue Bichat, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Gentle Gourmet Café",
+          "address": "24 Boulevard de la Bastille, 75012 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Blue Elephant",
+          "address": "45 Rue de la Roquette, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'as du Fallafel",
+          "address": "32-34 Rue des Rosiers, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "VG",
+          "address": "85 Rue la Fayette, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hank",
+          "address": "55 Rue des Archives, 75003 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chez Le Libanais",
+          "address": "35 Rue Saint-André des Arts, 75006 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "East Side Burgers",
+          "address": "60 Boulevard Voltaire, 75011 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "M.O.B. Austerlitz",
+          "address": "34 Quai d'Austerlitz, 75013 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dernier Bar avant la Fin du Monde",
+          "address": "19 Avenue Victoria, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bollynan",
+          "address": "13 Rue des Petits Carreaux, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vegebowl",
+          "address": "3 Rue de la Boule Rouge, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris Archives",
+          "address": "18 Rue des Archives, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Maoz",
+          "address": "8 Rue Xavier Privas Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Don's",
+          "address": "5 Rue des Ecouffes, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Épices et tout",
+          "address": "92 Rue Docteur Vigne, 76600 Le Havre, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "MANKOUFU",
+          "address": "5 Avenue Georges Clemenceau, 59300 Valenciennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mai Thai",
+          "address": "24B Rue Saint-Gilles, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Cantine de Livresse",
+          "address": "9 Rue de l'Hôtel de ville, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La REcyclerie",
+          "address": "83 Boulevard Ornano, 75018 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'Esprit Tchaï",
+          "address": "115 Rue Oberkampf, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Apple Pie",
+          "address": "31 Rue de la Chalotais, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Soupe au Caillou",
+          "address": "6 Place du Maucaillou, 33800 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Mékong",
+          "address": "Rue Surlet 43, 4020 Liège, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Lucernaire",
+          "address": "53 Rue Notre Dame des Champs, 75006 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Un piano dans la théière",
+          "address": "31 Rue Sainte-Catherine, 45000 Orléans, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Cardamone",
+          "address": "38 Place Maréchal Leclerc, 09500 Mirepoix, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Gourmandises Permises",
+          "address": "15 Place François-Joseph Dargent, 1413 Luxembourg, Luxembourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Bichat",
+          "address": "11 Rue Bichat, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Château d'Ygrande",
+          "address": "Le Mont, 03160 Ygrande"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Panier Amande",
+          "address": "25 Avenue du Sablar, 40100 Dax, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Tarbouche",
+          "address": "22 rue de la Krutenau Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Wally Le Saharien",
+          "address": "36 Rue Rodier, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veganimbiss Befried",
+          "address": "Friedrichstraße 3, 20359 Hamburg, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Nok Noy",
+          "address": "5 Place Robert Monestier, 36000 Châteauroux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Rest'O",
+          "address": "16 Quai de Bacalan, 33300 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Salad & Co — Lille",
+          "address": "14 ter rue du Château d'Isenghien 59160 Lomme"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Salad & Co — Villeneuve-d'Ascq",
+          "address": "Salad&Co - Restaurant Villeneuve d'Ascq Centre commercial Heron Parc Avenue de l'Avenir 59650 Villeneuve d'Ascq"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vert Ici",
+          "address": "31 Place Kléber, 67000 Strasbourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Restaurant Beter & Leuk",
+          "address": "1e Oosterparkstraat 73/91 1091 GW Amsterdam"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vietnam in Paris",
+          "address": "52 Rue Sainte-Anne, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Al-saj",
+          "address": "5 Rue Motte Fablet, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "BAP",
+          "address": "33 Rue Chevreul, 69007 Lyon, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hot Doggy Dog",
+          "address": "3 Rue de l'Arc en Ciel, 67000 Strasbourg, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bis 2 Fly",
+          "address": "19 Rue Nicolas Leblanc, 59000 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Messob",
+          "address": "85 Rue Masséna, 69006 Lyon, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "I Sapori Della Tavola",
+          "address": "Via Camillo Benso Cavour, 58, 18039 Ventimiglia IM, Italie"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Miznon",
+          "address": "22 Rue des Ecouffes, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Panino Vegano",
+          "address": "Via Maurizio Bufalini, 19, 50122 Firenze, Italie"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "The Wallflower Modern Diner",
+          "address": "2420 Main Street, Vancouver, BC V5T 3H9, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Foundation Eatery",
+          "address": "2301 Main Street, Vancouver, BC V5T 1M6, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Coucou Rennais",
+          "address": "20 Rue d'Antrain, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "India",
+          "address": "41 Rue Saint-Georges, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kopps",
+          "address": "Linienstraße 94, 10115 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Emma Pea",
+          "address": "Revaler Straße 99, 10245 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "The Jivamukti Canteen",
+          "address": "Brunnenstraße 29, 10119 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Daluma",
+          "address": "Weinbergsweg 3, 10119 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vöner",
+          "address": "Boxhagener Straße 56, 10245 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Wasabi",
+          "address": "11 Rue du Chaudron d'Or, 86000 Poitiers, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Oh' Bio",
+          "address": "58 Rue Rambuteau, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dolce Vita Vegan",
+          "address": "Via San Gallo, 92, 50129 Firenze, Italie"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Bordeaux",
+          "address": "64 Rue des Remparts, 33000 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris Charonne",
+          "address": "24 Rue de Charonne, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bombay",
+          "address": "60 Cours Jean Jaurès, 38000 Grenoble"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chez Julie",
+          "address": "17 Rue de Bonnevoie, 1260 Luxembourg, Luxembourg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Tchai Walla",
+          "address": "8 Rue Joseph Reynaud, 26150 Die, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Balls",
+          "address": "47 Rue Saint-Maur, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Tournesol",
+          "address": "11 Rue de l'Ort en Salvy, 81000 Albi, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Little Wokyo",
+          "address": "1 Rue Marcel Paul, 44000 Nantes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Phenicien",
+          "address": "51 Cours Berriat, 38000 Grenoble, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mendo",
+          "address": "26 Quai Victor Augagneur, 69003 Lyon, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La nouvelle cantine du plan B",
+          "address": "32 Boulevard du Grand Cerf, 86000 Poitiers, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Rest'O'Rock",
+          "address": "15 Rue Thomas Corneille, 76000 Rouen"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Caravanserail Café",
+          "address": "150 Rue du 4 Août 1789, 69100 Villeurbanne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bio Deux Anges",
+          "address": "Rue des Augustins, 66000 Perpignan"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veg Mama",
+          "address": "1 Place de la Mairie, 44290 Pierric, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "InSpiral Lounge",
+          "address": "250 Camden High Street, London NW1 8QS, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Nama",
+          "address": "110 Talbot Road, London W11 1JR, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hummus Bros — Exmouth Market",
+          "address": "62 Exmouth Market, London EC1R 4QE, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hummus Bros — Cheapside",
+          "address": "128 Cheapside, London EC2V 6BT, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hummus Bros — Southampton",
+          "address": "37 Southampton Row, London WC1A 2QP, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hummus Bros — Soho",
+          "address": "88 Wardour Street, Soho, London W1F, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Greenz",
+          "address": "5 Station Rise, West Norwood, London SE27 9BW, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Itadaki Zen",
+          "address": "139 King's Cross Road, Kings Cross, London WC1X 9BJ, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut — Edgware",
+          "address": "236 Station Road, Edgware, Greater London HA8 7AU, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut — Plender Street",
+          "address": "3 Plender Street, London NW1 0JT, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loving Hut — Holloway Road",
+          "address": "669 Holloway Road, London N19 5SE, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Food For Thought",
+          "address": "31 Neal Street, London WC2H 9PR, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bonnington Cafe",
+          "address": "11 Vauxhall Grove, London SW8, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mildreds",
+          "address": "45 Lexington St, London W1F 9AN, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "222 Veggie Vegan",
+          "address": "222 North End Road, London W14 9NU, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Siam",
+          "address": "12 boulevard sébastopol, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les treize lucioles",
+          "address": "13 Place Emile Zola, 21000 Dijon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Mezzaluna",
+          "address": "10 Rue Gambetta, 62000 Arras, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Végo — McGill",
+          "address": "1204 Avenue McGill College, Montréal, QC H3B 4J8, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Végo — St-Denis",
+          "address": "1720 Rue Saint-Denis, Montréal, QC H2X 3K4, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Panthère Verte / The Green Panther",
+          "address": "2153 Rue Mackay, Montréal, QC H3G 2J2, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dame Nature",
+          "address": "167 Promenade des Flots Bleus, 06700 Saint-Laurent-du-Var, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Goûter chez Sam",
+          "address": "6 Place du Grand Marché, 37000 Tours, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chez Habibi",
+          "address": "83 Rue du Commerce, 37000 Tours, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "DUNE",
+          "address": "20 Rue Keller, 75011 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pum",
+          "address": "7 Rue du Mittelbach, 68100 Mulhouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Table du petit Chaouen",
+          "address": "27 Rue des Sœurs Macarons, 54000 Nancy, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chipotle Mexican Grill — Beaugrenelle",
+          "address": "1 Rue Linois, Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Greedy",
+          "address": "62-64 avenue du Hâ 33000 Bordeaux"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Smart Green Corner",
+          "address": "20 Rue Castelnau d'Auros, 33000 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Un indien dans la ville",
+          "address": "7 Place Drouet d'Erlon, 51100 Reims, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Tête de Chou",
+          "address": "14 Rue des Trois Rois, 68100 Mulhouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chipotle Mexican Grill — La Défense",
+          "address": "Centre Commercial Les 4 Temps, Les 4 Temps, 15 Parvis de la Défense, 92800 Puteaux"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le bonheur est dans le pot",
+          "address": "17 Place Saint-Pierre, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Au murmure des carottes",
+          "address": "60 Rue du Mail, 49100 Angers, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ô Soleil De Naples",
+          "address": "56 Rue de Babylone, 75007 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le jardin intérieur",
+          "address": "2 Rue Belfort, 69004 Lyon"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "HighTall Vital",
+          "address": "101 Avenue Michelet, 93400 Saint-Ouen, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Indonesia",
+          "address": "3 Rue de Vaugirard, 75006 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Country Life Marseille",
+          "address": "14 Rue Venture, 13001 Marseille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Citronelle",
+          "address": "16 Rue Bivouac Napoléon, 06400 Cannes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Oulala Traiteur",
+          "address": "189 Rue de Charenton, 75012 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Om Prana",
+          "address": "241 Rue Saint-Joseph E, Québec, QC G1K 3E8, Canada"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "The Nourishing Box",
+          "address": "Bidart, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Gopal",
+          "address": "Carrer dels Escudellers, 42, 08002 Barcelona, Barcelona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Juicy Jones",
+          "address": "Carrer del Cardenal Casañas, 7, 08002 Barcelona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Veggie Garden",
+          "address": "Carrer dels Àngels, 3, 08001 Barcelona, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ohlala",
+          "address": "Mainzer Straße 18, 10247 Berlin, Allemagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sain bio'z",
+          "address": "34 Avenue Ledru-Rollin, 75012 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Maison de Mademoiselle Thi",
+          "address": "130 Rue de Vesle, 51100 Reims, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Délices de Gigi",
+          "address": "67 Avenue Ledru Rollin Le Perreux-sur-Marne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La BerGaMoThée",
+          "address": "1 Place du Mazet, 63000 Clermont-Ferrand"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Jay & Joy",
+          "address": "3 Rue Sainte-Anastase, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vegaverso",
+          "address": "Tiensestraat 20, 3000 Leuven, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Manna",
+          "address": "4 Erskine Rd, London NW3 3AJ, Royaume-Uni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hicuri Art Vegan",
+          "address": "Plaza de los Gironés, 4, 18009 Granada, Granada, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Celebrazioni",
+          "address": "121 Rue Anne Delavaux, 59160 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ami",
+          "address": "Rue Lesbroussart 13, 1050 Ixelles, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kokob",
+          "address": "Rue des Grands Carmes 10-12, 1000 Bruxelles, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Une fleur des champs",
+          "address": "4 Rue des Charpentiers, 67000 Strasbourg, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Damouri",
+          "address": "41 Rue de Richelieu, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Siamin",
+          "address": "19 Rue Bayard, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Van Long",
+          "address": "9 Rue du Champ de l'Alouette, 75013 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dolly's",
+          "address": "16 Avenue de la Libération, 14000 Caen, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Titi Touareg",
+          "address": "92 Avenue Henri Ginoux, 92120 Montrouge"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Nil Bleu",
+          "address": "Place de l'Ours 1, 1005 Lausanne, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "TerraZen Centre",
+          "address": "Sint Jacobsstraat 19 HS, 1012 NC Amsterdam, Pays-Bas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Tibits — Bern",
+          "address": "Gurtengasse 3, 3011 Bern, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'Aubier Eco-Hôtel Montezillon",
+          "address": "Les Murailles 5, 2037 Montézillon, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'Ami Ami",
+          "address": "Rue du Bassin 8, 2000 Neuchâtel, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Cèdre du Liban",
+          "address": "5, avenue du Maine 75015 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "L'oignon givré",
+          "address": "46 Rue de l'Université, 34000 Montpellier, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Buddha's Garden",
+          "address": "Avenida la Bolsa, San Juan Del Sur, Nicaragua"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Les Marmites Volantes",
+          "address": "69 Rue Armand Carrel, 75019 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Petite Chaufferie",
+          "address": "32 Rue de l'Échiquier, 75010 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Yuman",
+          "address": "70 Rue du Chevaleret, 75013 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pizza di Loretta",
+          "address": "62 Rue Rodier, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Lille Rihour",
+          "address": "35 Place Rihour, 59800 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Pain Quotidien — Paris Victor Hugo",
+          "address": "150 Avenue Victor Hugo, 75116 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Gaia",
+          "address": "Calle Luis de Vargas, 4, 41001 Sevilla, Sevilla, Espagne"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Tripti Kulai",
+          "address": "20 Rue Jacques Cœur, 34000 Montpellier"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Harvest Café",
+          "address": "Karmeliterplatz 1, 1020 Wien, Autriche"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Manger autrement chez Prasad",
+          "address": "155 Grande Rue Saint-Michel, 31400 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Angkor",
+          "address": "228 Rue de Bourgogne, 45000 Orléans"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Le Yéti",
+          "address": "21 Rue de la Colombette, 31000 Toulouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sushi Val",
+          "address": "41 Avenue du Sénateur Girard, 59300 Valenciennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pique-Prune — Cleuney",
+          "address": "132 Rue Eugène Pottier, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Café Crêperie de la Plage",
+          "address": "Rue des Bas Sablons Saint-Malo"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Crêperie Garnier",
+          "address": "4 Place du Général de Gaulle, 92330 Sceaux"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Grain de Sable",
+          "address": "34 Rue du Baignoir, 13001 Marseille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Nest ",
+          "address": "9 Rue Villedo, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Kheak & Vero",
+          "address": "1 Rue Alexandre Parodi, 75010 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Black Temple Food",
+          "address": "4 Passage des Carmélites, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bibimbap",
+          "address": "32 Boulevard de l'Hôpital, 75005 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Bon Appétit",
+          "address": "9 Avenue Gabriel Péri, 93400 Saint-Ouen, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Casa Poblano",
+          "address": "15 Rue Lavoisier, 93100 Montreuil, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Shelter",
+          "address": "19 Rue du Grand Marché, 37000 Tours, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Londonewyork",
+          "address": "77 Rue de Lodi, 13006 Marseille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cooperative Baraka",
+          "address": "20 Rue de Sébastopol, 59100 Roubaix, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Brasserie Lola",
+          "address": "99 rue du Théâtre Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La pause libanaise",
+          "address": "08 Rue de l'Isly, 75008 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ed's kitchen",
+          "address": "Route du Lac, 74140 Excenevex, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Presqu'Ile",
+          "address": "113 Rue du Faubourg Poissonnière, 75009 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Wokbar",
+          "address": "14 Rue Barnave, 38000 Grenoble, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sapori Antichi",
+          "address": "69 Rue de la Liberté, 38180 Seyssins, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Végitaï",
+          "address": "39/41 Passage Choiseul, 75002 Paris"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Nanashi",
+          "address": "57 Rue Charlot, 75003 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La bonne heure",
+          "address": "72 Rue du Moulin des Prés, 75013 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Vapor é Vous",
+          "address": "Immeuble Tsahal, 51 rue Becquerel, Jarry, Guadeloupe"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Maha Prana",
+          "address": "20 Route du Large, 17550 Dolus-d'Oléron"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Qibi Urban Smart Food",
+          "address": "Rue Kléberg 12, 1201 Genève, Suisse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cantine Vagabonde",
+          "address": "11 Rue d'Aubervilliers, 75019 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Beytouti",
+          "address": "44 Rue Saint Honoré, 75001 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Grand Appétit",
+          "address": "9 Rue de la Cerisaie, 75004 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La cuisine de Johanna",
+          "address": "44 Cours Anatole France, 33000 Bordeaux, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Dolma",
+          "address": "36 Rue Saint-Melaine, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ethnic Food",
+          "address": "3 Place Sainte-Anne, 35000 Rennes, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Loumi's",
+          "address": "106 Rue Montmartre, 75002 Paris, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Maison du Vert",
+          "address": "70 Le Bourg, 61120 Ticheville, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Ô Bali",
+          "address": "31 Rue Denfert Rochereau, 31000 Toulouse, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Lombardia Natural Food",
+          "address": "Lombardenvest 78, 2000 Antwerpen, Belgique"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Sushi Boutik",
+          "address": "133 Rue Solférino, 59000 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pique-Prune — St Grégoire",
+          "address": "8 Allée de la Cerisaie, 35760 Saint-Grégoire, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Pique-Prune — Cesson",
+          "address": "8 Avenue des Peupliers, 35510 Cesson-Sévigné, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "La Source",
+          "address": "13 Rue du Plat, 59800 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Cô Dô Huê",
+          "address": "16 Rue Nicolas Leblanc, 59000 Lille, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Umiyaki",
+          "address": "9 Rue de la Friperie, 34000 Montpellier, France"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Chez Helen",
+          "address": "35 Rue des Revennes, 06600 Antibes"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "marker-symbol": "place",
+          "name": "Hikari",
+          "address": "28 Rue de la Poterne, 45000 Orléans, France"
+        }
+      }
+    ]
+  ]
+}
