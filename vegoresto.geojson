@@ -1,0 +1,4708 @@
+[
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "06 47 24 47 44",
+    "address": "2 rue Saint Jean<br />\r\n68000 Colmar",
+    "name": "100% Le Bar à Jus",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.35694450000005,
+        48.0741097
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "100% Le Bar à Jus",
+      "address": "2 rue Saint Jean<br />\r\n68000 Colmar"
+    }
+  },
+  {
+    "website": "http://www.2sousdetable.com",
+    "tags": [],
+    "phone": "03 62 57 11 25",
+    "address": "56 rue de Gand<br />\r\n59000 Lille",
+    "name": "2 sous de table",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.0667459,
+        50.6425671
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "2 sous de table",
+      "address": "56 rue de Gand<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "01 42 06 05 99",
+    "address": "44 rue de Provence<br />\r\n75009 Paris",
+    "name": "3 Bio",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33605820000002,
+        48.8744083
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "3 Bio",
+      "address": "44 rue de Provence<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "42degres.com/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "09 73 65 77 88",
+    "address": "109, rue du faubourg Poissonnière<br />\r\n75009 Paris",
+    "name": "42 degrés",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34891160000006,
+        48.8776168
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "42 degrés",
+      "address": "109, rue du faubourg Poissonnière<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "www.abraijade.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 93 35 65 65",
+    "address": "66 rue longue<br />\r\n06500 Menton",
+    "name": "A Braijade Meridiounale",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.50686169999994,
+        43.7784981
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "A Braijade Meridiounale",
+      "address": "66 rue longue<br />\r\n06500 Menton"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "02 98 97 56 43",
+    "address": "3 bis rue du Général Morvan<br />\r\n29900 Concarneau",
+    "name": "Ah la belle histoire",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.91853070000002,
+        47.8733116
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Ah la belle histoire",
+      "address": "3 bis rue du Général Morvan<br />\r\n29900 Concarneau"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "02 99 79 08 36",
+    "address": "5 rue Motte Fablet<br />\r\n35000 Rennes",
+    "name": "Al Saj",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.67948999999999,
+        48.1140527
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Al Saj",
+      "address": "5 rue Motte Fablet<br />\r\n35000 Rennes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 63 96 93 53",
+    "address": "83400 Hyeres",
+    "name": "Ammendola",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.13149279999993,
+        43.107465
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Ammendola",
+      "address": "83400 Hyeres"
+    }
+  },
+  {
+    "website": "www.arbol-restaurant.com/",
+    "tags": [],
+    "phone": "06 33 51 85 52",
+    "address": "4, rue de la Merci<br />\r\n33000 Bordeaux",
+    "name": "Arbol",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.573406400000067,
+        44.8388748
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Arbol",
+      "address": "4, rue de la Merci<br />\r\n33000 Bordeaux"
+    }
+  },
+  {
+    "website": "www.artsthesmiss.sitew.com/#Accueil.A",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 63 42 85 24",
+    "address": "19 rue des Révennes<br />\r\n06600 Vieil-Antibes",
+    "name": "Arts Thés Miss",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.12510199999997,
+        43.580418
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Arts Thés Miss",
+      "address": "19 rue des Révennes<br />\r\n06600 Vieil-Antibes"
+    }
+  },
+  {
+    "website": "www.aubonmarche-orleans.com/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "02 38 53 04 35",
+    "address": "12 place du Châtelet<br />\r\n45000 Orléans",
+    "name": "Au bon marché",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.90666510000005,
+        47.8991595
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Au bon marché",
+      "address": "12 place du Châtelet<br />\r\n45000 Orléans"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "03 88 35 49 86",
+    "address": "24 rue Sainte-Madeleine<br />\r\n67000 Strasbourg",
+    "name": "Au Potiron",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.75480049999999,
+        48.5789394
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Au Potiron",
+      "address": "24 rue Sainte-Madeleine<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "www.aubergeduvernolon.fr/",
+    "tags": [],
+    "phone": "04 77 51 50 07",
+    "address": "Le Vernolon<br />\r\n42220 Colombier",
+    "name": "Auberge du Vernolon",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.59416599999997,
+        45.360295
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Auberge du Vernolon",
+      "address": "Le Vernolon<br />\r\n42220 Colombier"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 21 05 36 21",
+    "address": "20 rue saint jean <br />\r\n62520 Le Touquet",
+    "name": "Aux Mignardises Saint-Jean",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.58359629999995,
+        50.5242281
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Aux Mignardises Saint-Jean",
+      "address": "20 rue saint jean <br />\r\n62520 Le Touquet"
+    }
+  },
+  {
+    "website": "basilic-instant.e-monsite.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 81 83 17 78",
+    "address": "93 rue des Granges<br />\r\n25000 Besançon",
+    "name": "Basilic Instant",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.0286188,
+        47.2369769
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Basilic Instant",
+      "address": "93 rue des Granges<br />\r\n25000 Besançon"
+    }
+  },
+  {
+    "website": "www.batbat.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "05 61 42 24 22",
+    "address": "Allée Olympe de Gouges<br />\r\n31770 Colomiers",
+    "name": "BATbat (Colomiers)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.35333430000003,
+        43.5948781
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "BATbat (Colomiers)",
+      "address": "Allée Olympe de Gouges<br />\r\n31770 Colomiers"
+    }
+  },
+  {
+    "website": "www.batbat.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "05 61 25 49 49",
+    "address": "8 rue des Filatiers<br />\r\n31000 Toulouse",
+    "name": "BATbat (Toulouse)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44427819999999,
+        43.5981845
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "BATbat (Toulouse)",
+      "address": "8 rue des Filatiers<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 81 50 83 45",
+    "address": "79 rue des Granges<br />\r\n25000 Besançon",
+    "name": "Bêtises et Volup’thé",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.02757410000004,
+        47.2371425
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Bêtises et Volup’thé",
+      "address": "79 rue des Granges<br />\r\n25000 Besançon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 69 07 36 31",
+    "address": "36 rue de l&#039;Arsenal<br />\r\n68100  Mulhouse",
+    "name": "Biofresh",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.33362899999997,
+        47.7468644
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Biofresh",
+      "address": "36 rue de l&#039;Arsenal<br />\r\n68100  Mulhouse"
+    }
+  },
+  {
+    "website": "http://www.bis2fly.com/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "09 72 45 09 95",
+    "address": "19 rue Nicolas Leblanc<br />\r\n59000 Lille",
+    "name": "Bis2Fly",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.06179980000002,
+        50.6296016
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Bis2Fly",
+      "address": "19 rue Nicolas Leblanc<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "www.bistrotetchocolat.net/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 88 36 39 60",
+    "address": "8 rue de la Râpe<br />\r\n67000 Strasbourg",
+    "name": "Bistrot et Chocolat",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.75296159999994,
+        48.5815328
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Bistrot et Chocolat",
+      "address": "8 rue de la Râpe<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "http://www.boq-restaurant.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 99 54 95 91",
+    "address": "5, Place de Bretagne<br />\r\n35000 Rennes",
+    "name": "BOQ",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.683626,
+        48.1094967
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "BOQ",
+      "address": "5, Place de Bretagne<br />\r\n35000 Rennes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 45 78 22 35",
+    "address": "99 rue du Théâtre<br />\r\n75015 Paris",
+    "name": "Brasserie Lola",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.29370270000004,
+        48.8468432
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Brasserie Lola",
+      "address": "99 rue du Théâtre<br />\r\n75015 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "09 54 89 42 12",
+    "address": "24 rue du onze novembre<br />\r\n42100 Saint-Étienne",
+    "name": "Byblos",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.39020470000003,
+        45.428271
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Byblos",
+      "address": "24 rue du onze novembre<br />\r\n42100 Saint-Étienne"
+    }
+  },
+  {
+    "website": "http://ccomcafe.com/",
+    "tags": [],
+    "phone": "02 98 85 14 46",
+    "address": "26 rue de Siam<br />\r\n29200 Brest",
+    "name": "C. Com Café (Brest)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.49205359999996,
+        48.3860054
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "C. Com Café (Brest)",
+      "address": "26 rue de Siam<br />\r\n29200 Brest"
+    }
+  },
+  {
+    "website": "http://ccomcafe.com/",
+    "tags": [],
+    "phone": "02 98 95 81 62",
+    "address": "9 quai Port au Vin <br />\r\n29000 Quimper",
+    "name": "C. Com Café (Quimper)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.10571030000006,
+        47.9950227
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "C. Com Café (Quimper)",
+      "address": "9 quai Port au Vin <br />\r\n29000 Quimper"
+    }
+  },
+  {
+    "website": "www.cafe-ginger.fr",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 75 05 63 70",
+    "address": "9 rue Jacques Cœur<br />\r\n75004 Paris",
+    "name": "Café Ginger",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3673278,
+        48.8528822
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Café Ginger",
+      "address": "9 rue Jacques Cœur<br />\r\n75004 Paris"
+    }
+  },
+  {
+    "website": "www.caravanserail-cafe.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "09 52 46 45 38",
+    "address": "10 rue du 4 août 1789<br />\r\n69100 Villeurbanne",
+    "name": "Caravanserail Café",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.87501359999999,
+        45.7637861
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Caravanserail Café",
+      "address": "10 rue du 4 août 1789<br />\r\n69100 Villeurbanne"
+    }
+  },
+  {
+    "website": "http://www.carmenragosta.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 42 49 00 71",
+    "address": "8 rue de la Grange aux Belles<br />\r\n75010 Paris",
+    "name": "Carmen Ragosta Mode et Cuisine",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36471230000006,
+        48.8733032
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Carmen Ragosta Mode et Cuisine",
+      "address": "8 rue de la Grange aux Belles<br />\r\n75010 Paris"
+    }
+  },
+  {
+    "website": "www.carottesgingembre.fr",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 46 33 90 57",
+    "address": "36 Rue des Bancs<br />\r\n17400 Saint Jean d&#039;Angély",
+    "name": "Carottes et gingembre",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.521772100000021,
+        45.9428891
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Carottes et gingembre",
+      "address": "36 Rue des Bancs<br />\r\n17400 Saint Jean d&#039;Angély"
+    }
+  },
+  {
+    "website": "cassenoisettevegetarien.com",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "09 83 77 58 04",
+    "address": "92 rue Docteur Vigne<br />\r\n76600 Le Havre",
+    "name": "Casse-Noisette",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.111680500000034,
+        49.4978279
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Casse-Noisette",
+      "address": "92 rue Docteur Vigne<br />\r\n76600 Le Havre"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "07 81 81 18 14",
+    "address": "23 rue Pailleron<br />\r\n69004 Lyon",
+    "name": "Color Vegan",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.83441110000001,
+        45.7795252
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Color Vegan",
+      "address": "23 rue Pailleron<br />\r\n69004 Lyon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 97 43 40 57",
+    "address": "32 rue du Port<br />\r\n56000 Vannes",
+    "name": "Crêperie du Port",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75944290000007,
+        47.6528155
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Crêperie du Port",
+      "address": "32 rue du Port<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "http://www.cuisine-cruenelle.com/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "06 28 07 12 79",
+    "address": "Arquejols<br />\r\n43340 Rauret",
+    "name": "Cru en Elle",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.82324300000005,
+        44.806864
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Cru en Elle",
+      "address": "Arquejols<br />\r\n43340 Rauret"
+    }
+  },
+  {
+    "website": "http://cuisine-verte.com/",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "07 60 13 13 73",
+    "address": "50000 Saint-Lô",
+    "name": "Cuisine Verte",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.08281360000001,
+        49.1154686
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Cuisine Verte",
+      "address": "50000 Saint-Lô"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "09 73 54 79 83",
+    "address": "85 rue de la Monnaie<br />\r\n59000 Lille",
+    "name": "De Rode Koe",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.06175159999998,
+        50.6416511
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "De Rode Koe",
+      "address": "85 rue de la Monnaie<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "http://declicsalade.fr/",
+    "tags": [],
+    "phone": "03 68 62 02 12",
+    "address": "11 rue du Verdon<br />\r\n67100 Strasbourg",
+    "name": "Declic’Salade",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.73735439999996,
+        48.5506921
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Declic’Salade",
+      "address": "11 rue du Verdon<br />\r\n67100 Strasbourg"
+    }
+  },
+  {
+    "website": "http://www.delhidelice.fr/",
+    "tags": [],
+    "phone": "04 42 26 53 06",
+    "address": "22 rue Félibre Gaut<br />\r\n13100 Aix-en-Provence",
+    "name": "Delhi Délice",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.44681560000004,
+        43.5287445
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Delhi Délice",
+      "address": "22 rue Félibre Gaut<br />\r\n13100 Aix-en-Provence"
+    }
+  },
+  {
+    "website": "http://dmerveilles.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 62 13 23 05",
+    "address": "270 rue des Fusillés <br />\r\n59650 Villeneuve d&#039;Ascq",
+    "name": "Des Merveilles dans la Théière",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.16384270000003,
+        50.6088221
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Des Merveilles dans la Théière",
+      "address": "270 rue des Fusillés <br />\r\n59650 Villeneuve d&#039;Ascq"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "Pas de téléphone.",
+    "address": "1 boulevard Bigo Danel<br />\r\n59000 Lille",
+    "name": "Do It Yourself Café",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.04202810000004,
+        50.6275538
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Do It Yourself Café",
+      "address": "1 boulevard Bigo Danel<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "http://www.duneparis.fr/",
+    "tags": [],
+    "phone": "01 43 57 83 15",
+    "address": "20 rue Keller<br />\r\n75011 Paris",
+    "name": "Dune",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.37608879999993,
+        48.8548579
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Dune",
+      "address": "20 rue Keller<br />\r\n75011 Paris"
+    }
+  },
+  {
+    "website": "www.dileenilenoirmoutier.com/",
+    "tags": [],
+    "phone": "02 51 39 64 47",
+    "address": "104 avenue Mourain<br />\r\nL&#039;Herbaudière<br />\r\n85330 Île de Noirmoutier",
+    "name": "D’Ile en ile",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.29705609999996,
+        47.0187693
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "D’Ile en ile",
+      "address": "104 avenue Mourain<br />\r\nL&#039;Herbaudière<br />\r\n85330 Île de Noirmoutier"
+    }
+  },
+  {
+    "website": "edskitchen.blogspot.fr/",
+    "tags": [],
+    "phone": "06 31 75 86 10",
+    "address": "74140 Excenevex",
+    "name": "Ed’s Kitchen",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.35294999999996,
+        46.354408
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Ed’s Kitchen",
+      "address": "74140 Excenevex"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "04 78 42 68 13",
+    "address": "66 avenue Félix Faure<br />\r\n69003 Lyon",
+    "name": "Elfie",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.85429369999997,
+        45.7528665
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Elfie",
+      "address": "66 avenue Félix Faure<br />\r\n69003 Lyon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 25 81 12 13",
+    "address": "68100 Mulhouse",
+    "name": "FoodLinK",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.34568569999999,
+        47.7413496
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "FoodLinK",
+      "address": "68100 Mulhouse"
+    }
+  },
+  {
+    "website": "www.restaurantganesha.com",
+    "tags": [],
+    "phone": "03 88 35 39 14",
+    "address": "46, rue de Zurich<br />\r\n67000 Strasbourg",
+    "name": "Ganesha",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.75814309999998,
+        48.5794446
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Ganesha",
+      "address": "46, rue de Zurich<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "www.gentlegourmetcafe.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 43 43 48 49",
+    "address": "24 Boulevard de la Bastille<br />\r\n75012 Paris",
+    "name": "Gentle Gourmet Café",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36826510000003,
+        48.849026
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Gentle Gourmet Café",
+      "address": "24 Boulevard de la Bastille<br />\r\n75012 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "025031357",
+    "address": "Rue Van Artevelde 14<br />\r\n1000 Bruxelles",
+    "name": "Gourmet d’Asie",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.34734839999999,
+        50.8484557
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Gourmet d’Asie",
+      "address": "Rue Van Artevelde 14<br />\r\n1000 Bruxelles"
+    }
+  },
+  {
+    "website": "legrandappetit.fr/index.php",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "01 40 27 04 95",
+    "address": "9 rue de la Cerisaie<br />\r\n75004 Paris",
+    "name": "Grand Appétit",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36640599999998,
+        48.8516549
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Grand Appétit",
+      "address": "9 rue de la Cerisaie<br />\r\n75004 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 35 38 41 18",
+    "address": "62 - 64 rue du Hâ<br />\r\n33000 Bordeaux",
+    "name": "Greedy",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.578328699999929,
+        44.8359895
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Greedy",
+      "address": "62 - 64 rue du Hâ<br />\r\n33000 Bordeaux"
+    }
+  },
+  {
+    "website": "restaurant-vegetarien-vegan-normandie.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "02 31 93 38 52",
+    "address": "15 rue de bras<br />\r\n14000 Caen",
+    "name": "Greedy Guts",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.364830500000039,
+        49.1823554
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Greedy Guts",
+      "address": "15 rue de bras<br />\r\n14000 Caen"
+    }
+  },
+  {
+    "website": "www.greendeliss.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "04 88 00 08 60",
+    "address": "11 avenue du Maréchal Foch<br />\r\n13004 Marseille",
+    "name": "GreenDeliss",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.39785280000001,
+        43.3020502
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "GreenDeliss",
+      "address": "11 avenue du Maréchal Foch<br />\r\n13004 Marseille"
+    }
+  },
+  {
+    "website": "grrrfood.blogspot.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "07 83 13 11 67",
+    "address": "Halles de Sérignan<br />\r\nBoulevard Voltaire<br />\r\n34410 Sérignan",
+    "name": "GRRRfood",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.27912960000003,
+        43.2821456
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "GRRRfood",
+      "address": "Halles de Sérignan<br />\r\nBoulevard Voltaire<br />\r\n34410 Sérignan"
+    }
+  },
+  {
+    "website": "http://www.guantanamera.fr/",
+    "tags": [],
+    "phone": "09 54 78 48 81",
+    "address": "47 rue Pajol<br />\r\n75018 paris",
+    "name": "Guantanamera",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36231969999994,
+        48.8890181
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Guantanamera",
+      "address": "47 rue Pajol<br />\r\n75018 paris"
+    }
+  },
+  {
+    "website": "www.hankburger.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "09 72 44 03 99",
+    "address": "55 rue des Archives<br />\r\n75003 Paris",
+    "name": "Hank",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35829339999998,
+        48.8615751
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Hank",
+      "address": "55 rue des Archives<br />\r\n75003 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "09 84 25 44 71",
+    "address": "17 rue Benoît Bunico<br />\r\n06300 Nice",
+    "name": "Himalaya",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.27690370000005,
+        43.6974435
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Himalaya",
+      "address": "17 rue Benoît Bunico<br />\r\n06300 Nice"
+    }
+  },
+  {
+    "website": "http://www.indianhouse.fr/",
+    "tags": [],
+    "phone": "03 20 31 38 43",
+    "address": "23 rue Royale<br />\r\n59800 Lille",
+    "name": "Indian House",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05807589999995,
+        50.6394572
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Indian House",
+      "address": "23 rue Royale<br />\r\n59800 Lille"
+    }
+  },
+  {
+    "website": "http://www.restaurant-izba.com/Accueil.html",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "05 53 09 37 51",
+    "address": "11 Cours Fénelon<br />\r\n24000 Périgueux",
+    "name": "Izba",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.719946199999981,
+        45.182301
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Izba",
+      "address": "11 Cours Fénelon<br />\r\n24000 Périgueux"
+    }
+  },
+  {
+    "website": "http://www.jinjiresto.com/",
+    "tags": [],
+    "phone": "05 61 15 71 00",
+    "address": "23 rue des Mines<br />\r\n31700 Blagnac",
+    "name": "Jin Ji Table Coréenne",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.39155909999999,
+        43.6362749
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Jin Ji Table Coréenne",
+      "address": "23 rue des Mines<br />\r\n31700 Blagnac"
+    }
+  },
+  {
+    "website": "http://www.restaurant-orleans-kogi.fr/restaurant-orleans",
+    "tags": [],
+    "phone": "09 50 00 04 48",
+    "address": "36 Rue de l&#039;Empereur<br />\r\n45000 Orléans",
+    "name": "Kogi",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.90790790000005,
+        47.8997588
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Kogi",
+      "address": "36 Rue de l&#039;Empereur<br />\r\n45000 Orléans"
+    }
+  },
+  {
+    "website": "restaurant-krishna.e-monsite.com/",
+    "tags": [],
+    "phone": "05 55 33 19 76",
+    "address": "13 Rue Delescluze<br />\r\n87000 Limoges",
+    "name": "Krishna",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.2616544,
+        45.8274053
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Krishna",
+      "address": "13 Rue Delescluze<br />\r\n87000 Limoges"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 91 92 74 78",
+    "address": "8 place Notre-Dame du Mont<br />\r\n13006 Marseille",
+    "name": "La Baie du Dragon",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.38358949999997,
+        43.2920007
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Baie du Dragon",
+      "address": "8 place Notre-Dame du Mont<br />\r\n13006 Marseille"
+    }
+  },
+  {
+    "website": "labellevertebio.com",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 61 62 73 42",
+    "address": "50 rue d&#039;Aubuisson<br />\r\n31000 Toulouse",
+    "name": "La Belle Verte",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.4538,
+        43.6029589
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Belle Verte",
+      "address": "50 rue d&#039;Aubuisson<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "www.labergamothee.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 43 97 77 70",
+    "address": "1 place du Mazet<br />\r\n63000 Clermont-Ferrand",
+    "name": "La BerGamoThée",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.08442479999997,
+        45.7794131
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La BerGamoThée",
+      "address": "1 place du Mazet<br />\r\n63000 Clermont-Ferrand"
+    }
+  },
+  {
+    "website": "www.lacaravegan.eu",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 01 71 06 30",
+    "address": "87 route de Monlon<br />\r\nCamping Du Gaoucher<br />\r\n40560 Vielle Saint Girons",
+    "name": "La CaraVegan",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.29185670000004,
+        43.9037325
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La CaraVegan",
+      "address": "87 route de Monlon<br />\r\nCamping Du Gaoucher<br />\r\n40560 Vielle Saint Girons"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 22 09 58 55",
+    "address": "52 rue Gioffredo<br />\r\n06000 Nice",
+    "name": "La Casa Della Piadina",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.27210779999996,
+        43.69897
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Casa Della Piadina",
+      "address": "52 rue Gioffredo<br />\r\n06000 Nice"
+    }
+  },
+  {
+    "website": "restolacoree.com",
+    "tags": [],
+    "phone": "09 82 27 82 15",
+    "address": "40 avenue Jean Jaurès<br />\r\n69007 Lyon",
+    "name": "La Corée",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.84502470000007,
+        45.7509798
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Corée",
+      "address": "40 avenue Jean Jaurès<br />\r\n69007 Lyon"
+    }
+  },
+  {
+    "website": "www.lacuisinedejohanna.com/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "05 56 35 81 03",
+    "address": "44 Cours Anatole France<br />\r\n33000 Bordeaux",
+    "name": "La cuisine de Johanna",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.583633100000043,
+        44.8355503
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La cuisine de Johanna",
+      "address": "44 Cours Anatole France<br />\r\n33000 Bordeaux"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "06 52 69 62 65",
+    "address": "84400 Apt",
+    "name": "La Cuisine Mobile",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.4149003,
+        43.8728272
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Cuisine Mobile",
+      "address": "84400 Apt"
+    }
+  },
+  {
+    "website": "http://restomillepoetes.unblog.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "04 68 65 15 87",
+    "address": "2 b Avenue Elie Sermet<br />\r\n11100 Narbonne",
+    "name": "La Flambée des Mille Poètes",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.0088753,
+        43.1871086
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Flambée des Mille Poètes",
+      "address": "2 b Avenue Elie Sermet<br />\r\n11100 Narbonne"
+    }
+  },
+  {
+    "website": "lafoliedoucebar.free.fr/accueil.html",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 77 45 80 30",
+    "address": "111 Boulevard de Ménilmontant<br />\r\n75011 Paris",
+    "name": "La Folie Douce",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.38417809999999,
+        48.8652807
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Folie Douce",
+      "address": "111 Boulevard de Ménilmontant<br />\r\n75011 Paris"
+    }
+  },
+  {
+    "website": "http://www.maisonduvert.com/index_f.htm",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "02 33 36 95 84",
+    "address": "Le bourg<br />\r\n61120 Ticheville",
+    "name": "La Maison du Vert",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.26325810000003,
+        48.9093063
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Maison du Vert",
+      "address": "Le bourg<br />\r\n61120 Ticheville"
+    }
+  },
+  {
+    "website": "www.lamaisonthai.fr/",
+    "tags": [],
+    "phone": "04 78 24 85 45",
+    "address": "85 rue Masséna<br />\r\n69006 Lyon",
+    "name": "La Maison Thaï",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.8549878,
+        45.7665634
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Maison Thaï",
+      "address": "85 rue Masséna<br />\r\n69006 Lyon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 89 56 08 47",
+    "address": "26 rue de la Justice<br />\r\n68100 Mulhouse",
+    "name": "La Parenthèse",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.34109899999999,
+        47.7481484
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Parenthèse",
+      "address": "26 rue de la Justice<br />\r\n68100 Mulhouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "09 50 66 20 64",
+    "address": "33 rue du jeu des enfants<br />\r\n67000 Strasbourg",
+    "name": "La Pause Quinoa",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.74275990000001,
+        48.5837877
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Pause Quinoa",
+      "address": "33 rue du jeu des enfants<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 62 43 81 25",
+    "address": "Sud de l&#039;Ardèche.",
+    "name": "La Pause Verte",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.37707039999998,
+        44.5981671
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Pause Verte",
+      "address": "Sud de l&#039;Ardèche."
+    }
+  },
+  {
+    "website": "www.laprovincialepizzas.fr/",
+    "tags": [],
+    "phone": "04 93 09 35 93",
+    "address": "Route de Draguignan<br />\r\nRés. le grand chemin<br />\r\n06530 Le Tignet",
+    "name": "La Provinciale",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.84615299999996,
+        43.639995
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Provinciale",
+      "address": "Route de Draguignan<br />\r\nRés. le grand chemin<br />\r\n06530 Le Tignet"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 95 30 00 66",
+    "address": "5 rue du théâtre<br />\r\n66000 Perpignan",
+    "name": "La révolution verte",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.89624330000004,
+        42.6983003
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La révolution verte",
+      "address": "5 rue du théâtre<br />\r\n66000 Perpignan"
+    }
+  },
+  {
+    "website": "laromana-hyeres.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 94 57 45 07",
+    "address": "11 avenue Pierre Renaudel<br />\r\n83400 Hyères",
+    "name": "La Romana",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.1262097,
+        43.109366
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Romana",
+      "address": "11 avenue Pierre Renaudel<br />\r\n83400 Hyères"
+    }
+  },
+  {
+    "website": "http://www.la-saigonnaise.com/",
+    "tags": [],
+    "phone": "02 97 68 49 80",
+    "address": "2 place de la Madeleine<br />\r\n56000 Vannes",
+    "name": "La Saigonnaise",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.77148629999999,
+        47.6591887
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Saigonnaise",
+      "address": "2 place de la Madeleine<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "09 86 27 34 98",
+    "address": "187, av. Gambetta<br />\r\n16000 Angoulême",
+    "name": "La Soupape",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.160888500000056,
+        45.6500903
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Soupape",
+      "address": "187, av. Gambetta<br />\r\n16000 Angoulême"
+    }
+  },
+  {
+    "website": "www.latabledesroy.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 40 20 33 86",
+    "address": "4 rue des Trois Croissants<br />\r\n44000 Nantes",
+    "name": "La Table des Roy",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.55486159999998,
+        47.2167998
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Table des Roy",
+      "address": "4 rue des Trois Croissants<br />\r\n44000 Nantes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "03 83 32 17 64",
+    "address": "27 rue des soeurs Macaron<br />\r\n54000 Nancy",
+    "name": "La table du Petit Chaouen",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.18490159999999,
+        48.6885731
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La table du Petit Chaouen",
+      "address": "27 rue des soeurs Macaron<br />\r\n54000 Nancy"
+    }
+  },
+  {
+    "website": "www.tetedechou.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "03 89 46 22 17",
+    "address": "14 rue des 3 rois<br />\r\n68100 Mulhouse",
+    "name": "La tête de chou",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.33427800000004,
+        47.7443154
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La tête de chou",
+      "address": "14 rue des 3 rois<br />\r\n68100 Mulhouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 65 61 79 20",
+    "address": "Coulaine<br />\r\n49170 Savennières",
+    "name": "La Vegan Mobile",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.757978800000046,
+        47.4269346
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Vegan Mobile",
+      "address": "Coulaine<br />\r\n49170 Savennières"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "06 15 32 38 85",
+    "address": "41  rue Jean Jaurès<br />\r\n42300 Roanne",
+    "name": "La Vie est Belle",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.0744029,
+        46.0343753
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "La Vie est Belle",
+      "address": "41  rue Jean Jaurès<br />\r\n42300 Roanne"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "à venir",
+    "address": "30 boulevard Bonne Nouvelle<br />\r\n75010 Paris",
+    "name": "Las Vegans",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34990130000006,
+        48.8707923
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Las Vegans",
+      "address": "30 boulevard Bonne Nouvelle<br />\r\n75010 Paris"
+    }
+  },
+  {
+    "website": "http://le-bistrot-de-l-ile.blogspot.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "02 40 47 92 35",
+    "address": "17 rue de la Tour d&#039;Auvergne<br />\r\n44200 Nantes",
+    "name": "Le Bistrot de l’Ile",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.55484939999997,
+        47.2065125
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Bistrot de l’Ile",
+      "address": "17 rue de la Tour d&#039;Auvergne<br />\r\n44200 Nantes"
+    }
+  },
+  {
+    "website": "http://www.capoul.com/",
+    "tags": [],
+    "phone": "05 61 21 08 27",
+    "address": "13 place Wilson<br />\r\n31000 Toulouse",
+    "name": "Le Capoul",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44682409999996,
+        43.6051529
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Capoul",
+      "address": "13 place Wilson<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "www.lecedre-restaurant.fr/",
+    "tags": [],
+    "phone": "02 40 20 15 61",
+    "address": "20 rue Kervegan<br />\r\n44000 Nantes",
+    "name": "Le Cèdre",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.55558270000006,
+        47.2130494
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Cèdre",
+      "address": "20 rue Kervegan<br />\r\n44000 Nantes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 89 29 34 72",
+    "address": "2271 corniche Georges Pompidou<br />\r\n83500 La Seyne sur Mer",
+    "name": "Le Cedrus",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.89401989999999,
+        43.0807073
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Cedrus",
+      "address": "2271 corniche Georges Pompidou<br />\r\n83500 La Seyne sur Mer"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 97 42 56 74",
+    "address": "17 place du Général de Gaulle<br />\r\n56000 Vannes",
+    "name": "Le coq à l’âne",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75369839999996,
+        47.6584591
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le coq à l’âne",
+      "address": "17 place du Général de Gaulle<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "09 52 38 80 54",
+    "address": "15 rue Saint François<br />\r\n33000 Bordeaux",
+    "name": "Le Cosmopolis",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.567678300000011,
+        44.8344656
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Cosmopolis",
+      "address": "15 rue Saint François<br />\r\n33000 Bordeaux"
+    }
+  },
+  {
+    "website": "http://www.domainedelareynaude.com/fr/",
+    "tags": [],
+    "phone": "04 90 59 30 24",
+    "address": "Les Sonnaillets<br />\r\n13121 Aurons",
+    "name": "Le Domaine de la Reynaude",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.1555419,
+        43.664817
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Domaine de la Reynaude",
+      "address": "Les Sonnaillets<br />\r\n13121 Aurons"
+    }
+  },
+  {
+    "website": "http://www.legirouet.com/",
+    "tags": [],
+    "phone": "02 38 81 07 14",
+    "address": "14 Quai du Châtelet<br />\r\n45000 Orléans",
+    "name": "Le Girouet",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.91202780000003,
+        47.8981173
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Girouet",
+      "address": "14 Quai du Châtelet<br />\r\n45000 Orléans"
+    }
+  },
+  {
+    "website": "http://www.legrenierdenotredame.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "01 43 29 98 29",
+    "address": "18 rue de la Bûcherie<br />\r\n75005 Paris",
+    "name": "Le Grenier de Notre-Dame",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34846470000002,
+        48.8519396
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Grenier de Notre-Dame",
+      "address": "18 rue de la Bûcherie<br />\r\n75005 Paris"
+    }
+  },
+  {
+    "website": "leharicotvivant.com",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 03 62 08 40",
+    "address": "15 avenue du Pinsan<br />\r\n33370 Artigues",
+    "name": "Le haricot vivant",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.489654599999994,
+        44.8597164
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le haricot vivant",
+      "address": "15 avenue du Pinsan<br />\r\n33370 Artigues"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 99 54 07 38",
+    "address": "29 Cours John Fitzgerald Kennedy<br />\r\n35000 Rennes",
+    "name": "Lê Lai",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.70897749999995,
+        48.1214174
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Lê Lai",
+      "address": "29 Cours John Fitzgerald Kennedy<br />\r\n35000 Rennes"
+    }
+  },
+  {
+    "website": "http://www.restaurant-le-lift.com/la_carte.php",
+    "tags": [],
+    "phone": "02 38 62 40 00",
+    "address": "5 rue de la Poterne<br />\r\n45000 Orléans",
+    "name": "Le Lift",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.90930660000004,
+        47.8986733
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Lift",
+      "address": "5 rue de la Poterne<br />\r\n45000 Orléans"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "03 62 92 91 41",
+    "address": "71 rue Jeanne d&#039;Arc<br />\r\n59000 Lille",
+    "name": "Le Liquium",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.06441819999998,
+        50.624249
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Liquium",
+      "address": "71 rue Jeanne d&#039;Arc<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "www.lemachonfin.fr/",
+    "tags": [],
+    "phone": "04 74 66 28 06",
+    "address": "52 rue de la Poste<br />\r\n69220 Belleville-sur-Saône",
+    "name": "Le Mâchon fin",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.75070919999996,
+        46.1105745
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Mâchon fin",
+      "address": "52 rue de la Poste<br />\r\n69220 Belleville-sur-Saône"
+    }
+  },
+  {
+    "website": "http://lemekongdor.com/",
+    "tags": [],
+    "phone": "03 84 56 84 17",
+    "address": "11 rue des Tanneurs<br />\r\n70400 Héricourt",
+    "name": "Le Mékong d’Or",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.75961389999998,
+        47.575489
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Mékong d’Or",
+      "address": "11 rue des Tanneurs<br />\r\n70400 Héricourt"
+    }
+  },
+  {
+    "website": "http://www.lepigeonnierduperron.com/fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "05 49 19 76 08",
+    "address": "Lieu dit Le Perron<br />\r\n86530 Availles En Châtellerault",
+    "name": "Le Pigeonnier du Perron",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.568741999999929,
+        46.757621
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Pigeonnier du Perron",
+      "address": "Lieu dit Le Perron<br />\r\n86530 Availles En Châtellerault"
+    }
+  },
+  {
+    "website": "http://lepotagerdecharlotte.fr/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 44 65 09 63",
+    "address": "12 rue de la Tour d&#039;Auvergne<br />\r\n75009 Paris",
+    "name": "Le Potager de Charlotte",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34472970000002,
+        48.8790612
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Potager de Charlotte",
+      "address": "12 rue de la Tour d&#039;Auvergne<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "http://www.lepotagerdumarais.fr/Potager_du_Marais/Le_Potager_du_Marais.html",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 57 40 98 57",
+    "address": "24 rue Rambuteau<br />\r\n75003 Paris",
+    "name": "Le Potager du Marais",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35402829999998,
+        48.8610455
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Potager du Marais",
+      "address": "24 rue Rambuteau<br />\r\n75003 Paris"
+    }
+  },
+  {
+    "website": "http://www.restaurant-petit-ogre.com/",
+    "tags": [],
+    "phone": "06 51 63 73 21",
+    "address": "1 rue des Pénitents Gris<br />\r\n31000 Toulouse",
+    "name": "Le P’tit Ogre",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44255799999996,
+        43.6055946
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le P’tit Ogre",
+      "address": "1 rue des Pénitents Gris<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "www.le-roi-falafel.com/",
+    "tags": [],
+    "phone": "04 69 67 31 97",
+    "address": "30 Rue Palais Grillet<br />\r\n69002 Lyon",
+    "name": "Le Roi Falafel",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.83513849999997,
+        45.7619768
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Roi Falafel",
+      "address": "30 Rue Palais Grillet<br />\r\n69002 Lyon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "02 99 79 25 52",
+    "address": "12 rue du Vau Saint Germain<br />\r\n35000 Rennes",
+    "name": "Le Saint Germain Des Champs",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.67702650000001,
+        48.1106624
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Saint Germain Des Champs",
+      "address": "12 rue du Vau Saint Germain<br />\r\n35000 Rennes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 97 47 28 18",
+    "address": "8 rue des Orfèvres<br />\r\n56000 Vannes",
+    "name": "Le Saint-Exupéry",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75752020000004,
+        47.6569274
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Saint-Exupéry",
+      "address": "8 rue des Orfèvres<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "http://www.lesamovar.ouvaton.org/",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "05 56 74 47 91",
+    "address": "18 rue Camille Sauvageau<br />\r\n33800 Bordeaux",
+    "name": "Le Samovar",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.564823899999965,
+        44.8333505
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Samovar",
+      "address": "18 rue Camille Sauvageau<br />\r\n33800 Bordeaux"
+    }
+  },
+  {
+    "website": "http://www.lesarahb.fr/Accueil.html",
+    "tags": [],
+    "phone": "02 99 90 74 60",
+    "address": "9 quai Saint-Antoine<br />\r\n56130 La Roche-Bernard",
+    "name": "Le Sarah B.",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.30327409999995,
+        47.5176743
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Sarah B.",
+      "address": "9 quai Saint-Antoine<br />\r\n56130 La Roche-Bernard"
+    }
+  },
+  {
+    "website": "http://leshanti.unblog.fr/",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "09 81 09 09 31",
+    "address": "69 rue Berbisey<br />\r\n21000 Dijon",
+    "name": "Le Shanti",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.03489790000003,
+        47.3175914
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Shanti",
+      "address": "69 rue Berbisey<br />\r\n21000 Dijon"
+    }
+  },
+  {
+    "website": "http://www.lesoleildasmarachezelsa.com/",
+    "tags": [],
+    "phone": "04 93 76 84 18",
+    "address": "4 rue Delille<br />\r\n06000 Nice",
+    "name": "Le soleil d’Asmara",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.27733969999997,
+        43.7012641
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le soleil d’Asmara",
+      "address": "4 rue Delille<br />\r\n06000 Nice"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 93 85 59 50",
+    "address": "7 rue Lamartine<br />\r\n06000 Nice",
+    "name": "Le Speakeasy",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.26917030000004,
+        43.7016506
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Speakeasy",
+      "address": "7 rue Lamartine<br />\r\n06000 Nice"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "03 89 27 55 04",
+    "address": "1 place Turenne<br />\r\n68230 Turckheim",
+    "name": "Le Stammtisch",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.27816929999994,
+        48.0866344
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Stammtisch",
+      "address": "1 place Turenne<br />\r\n68230 Turckheim"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "03 89 41 13 01",
+    "address": "22 Rue des Marchands<br />\r\n68000 Colmar",
+    "name": "Le Touareg",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.35715860000005,
+        48.0769536
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Touareg",
+      "address": "22 Rue des Marchands<br />\r\n68000 Colmar"
+    }
+  },
+  {
+    "website": "www.restaurant-bonsenchablais.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "04 50 36 33 22",
+    "address": "185 avenue du Mont de Boisy<br />\r\n74890 Bons en Chablais",
+    "name": "Le Treseaur",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.36094309999999,
+        46.2730222
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Treseaur",
+      "address": "185 avenue du Mont de Boisy<br />\r\n74890 Bons en Chablais"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 48 24 90 06",
+    "address": "55 rue de Paradis<br />\r\n75010 Paris",
+    "name": "Le Veganovore",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34876680000002,
+        48.8755834
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Veganovore",
+      "address": "55 rue de Paradis<br />\r\n75010 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "05 55 34 28 82",
+    "address": "133 Rue François Perrin<br />\r\n87000 Limoges",
+    "name": "Le Yak",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.23978550000004,
+        45.8272512
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Yak",
+      "address": "133 Rue François Perrin<br />\r\n87000 Limoges"
+    }
+  },
+  {
+    "website": "http://www.restoyeti.com/",
+    "tags": [],
+    "phone": "05 61 62 80 22",
+    "address": "21 rue de la Colombette<br />\r\n31000 Toulouse",
+    "name": "Le Yéti",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.4526065,
+        43.6044198
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Le Yéti",
+      "address": "21 rue de la Colombette<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 97 54 19 17",
+    "address": "5 rue St Vincent<br />\r\n56000 Vannes",
+    "name": "Lecocq&Folks",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75802410000006,
+        47.6548095
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Lecocq&Folks",
+      "address": "5 rue St Vincent<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "www.lesamantsdumarche.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 59 02 75 51",
+    "address": "1 rue Bourbaki<br />\r\n64000 Pau",
+    "name": "Les amants du marché",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.371049099999937,
+        43.3031226
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les amants du marché",
+      "address": "1 rue Bourbaki<br />\r\n64000 Pau"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "06 45 39 25 52",
+    "address": "7, rue du moulin<br />\r\n24620 Les Eyzies",
+    "name": "Les carottes sont cuites",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.01471689999994,
+        44.9360513
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les carottes sont cuites",
+      "address": "7, rue du moulin<br />\r\n24620 Les Eyzies"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 42 61 24 02",
+    "address": "26 Nyons",
+    "name": "Les crêpes à Babet’",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.14014499999996,
+        44.3618809
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les crêpes à Babet’",
+      "address": "26 Nyons"
+    }
+  },
+  {
+    "website": "www.lesdelicesdegigi.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 43 24 07 53",
+    "address": "67 avenue Ledru Rollin<br />\r\n94170 Le Perreux Sur Marne",
+    "name": "Les délices de Gigi",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.50240099999996,
+        48.84264
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les délices de Gigi",
+      "address": "67 avenue Ledru Rollin<br />\r\n94170 Le Perreux Sur Marne"
+    }
+  },
+  {
+    "website": "lacrusinedeleilla.wordpress.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 84 00 65 36",
+    "address": "97 rue de Finlande<br />\r\n81000 Albi",
+    "name": "Les Délices de Leilla",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.1307147,
+        43.9257895
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les Délices de Leilla",
+      "address": "97 rue de Finlande<br />\r\n81000 Albi"
+    }
+  },
+  {
+    "website": "www.lesdeuxabbesses.com/intro/index.html",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 76 82 85 10",
+    "address": "Le petit couvent<br />\r\n43300 St Arcons d&#039;Allier",
+    "name": "Les Deux Abbesses",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.54955700000005,
+        45.068254
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les Deux Abbesses",
+      "address": "Le petit couvent<br />\r\n43300 St Arcons d&#039;Allier"
+    }
+  },
+  {
+    "website": "www.crusine.org/default.html",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 29 71 49 14",
+    "address": "35 rue des Jardins<br />\r\n57000 Metz",
+    "name": "Les Petits Zozios",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.17795479999995,
+        49.1220943
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les Petits Zozios",
+      "address": "35 rue des Jardins<br />\r\n57000 Metz"
+    }
+  },
+  {
+    "website": "http://www.les-potes-au-feu.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 97 62 15 80",
+    "address": "7 place d’Irlande<br />\r\n56860 Séné",
+    "name": "Les potes au Feu",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.72049609999999,
+        47.6514018
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les potes au Feu",
+      "address": "7 place d’Irlande<br />\r\n56860 Séné"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "06 89 03 04 62",
+    "address": "1 Avenue Général de Gaulle<br />\r\n29246 Poullaouen",
+    "name": "Les Puces, Boutique Solidaire",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.64131699999996,
+        48.3395668
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les Puces, Boutique Solidaire",
+      "address": "1 Avenue Général de Gaulle<br />\r\n29246 Poullaouen"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 97 47 52 44",
+    "address": "6 Rue Alexandre le Pontois<br />\r\n56000 Vannes",
+    "name": "Les Remparts",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75651170000003,
+        47.6546571
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Les Remparts",
+      "address": "6 Rue Alexandre le Pontois<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "http://www.lillietlevegabon.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 12 27 87 98",
+    "address": "06000 Nice",
+    "name": "Lilli et le Vegabon",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.26195319999999,
+        43.7101728
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Lilli et le Vegabon",
+      "address": "06000 Nice"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 20 54 45 92",
+    "address": "77 rue de Lodi<br />\r\n13006 Marseille",
+    "name": "Londonewyork",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.38734699999998,
+        43.2894616
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Londonewyork",
+      "address": "77 rue de Lodi<br />\r\n13006 Marseille"
+    }
+  },
+  {
+    "website": "menton.lovinghut.fr/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "04 92 07 32 57",
+    "address": "649 promenade du soleil<br />\r\n06500 Menton",
+    "name": "Loving Hut Menton",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.49343109999995,
+        43.7700846
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Loving Hut Menton",
+      "address": "649 promenade du soleil<br />\r\n06500 Menton"
+    }
+  },
+  {
+    "website": "paris.lovinghut.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "01 48 06 43 84",
+    "address": "92 boulevard Beaumarchais<br />\r\n75011 Paris",
+    "name": "Loving Hut Paris",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36785459999999,
+        48.8598848
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Loving Hut Paris",
+      "address": "92 boulevard Beaumarchais<br />\r\n75011 Paris"
+    }
+  },
+  {
+    "website": "http://www.lulu-dijon.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "09 86 31 65 46",
+    "address": "12 rue de la Poste<br />\r\n21000 Dijon",
+    "name": "Lulu – Graine d’un monde",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.03651450000007,
+        47.3234548
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Lulu – Graine d’un monde",
+      "address": "12 rue de la Poste<br />\r\n21000 Dijon"
+    }
+  },
+  {
+    "website": "www.restobiolacoustic.com/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "03 88 92 29 40",
+    "address": "5 place du Marché Vert<br />\r\n67600 Sélestat",
+    "name": "L’Acoustic",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.45563279999999,
+        48.2595149
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’Acoustic",
+      "address": "5 place du Marché Vert<br />\r\n67600 Sélestat"
+    }
+  },
+  {
+    "website": "http://leffet-papillon.blogspot.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 98 74 29 25",
+    "address": "22 rue de Douarnenez<br />\r\n29000 Quimper",
+    "name": "L’Effet Papillon",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.10970029999999,
+        47.9974667
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’Effet Papillon",
+      "address": "22 rue de Douarnenez<br />\r\n29000 Quimper"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "09 83 85 53 88",
+    "address": "20 place Valencia<br />\r\n56000 Vannes",
+    "name": "L’Entrechoc",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75741010000002,
+        47.6568428
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’Entrechoc",
+      "address": "20 place Valencia<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "www.lescargotdesab.fr/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "03 86 62 10 38",
+    "address": "1 avenue Roger Varrey<br />\r\n89300 Joigny",
+    "name": "L’Escargot de Sab",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.40149799999995,
+        47.9806706
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’Escargot de Sab",
+      "address": "1 avenue Roger Varrey<br />\r\n89300 Joigny"
+    }
+  },
+  {
+    "website": "www.restaurantlessentiel.fr/",
+    "tags": [],
+    "phone": "04 69 70 88 00",
+    "address": "9 rue Rachais<br />\r\n69003 Lyon",
+    "name": "L’Essentiel",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.85411920000001,
+        45.7519394
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’Essentiel",
+      "address": "9 rue Rachais<br />\r\n69003 Lyon"
+    }
+  },
+  {
+    "website": "http://vitasensys.eu/food/restaurant.php",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "377 97 98 81 46",
+    "address": "1 rue Biovès<br />\r\nMonaco",
+    "name": "L’inattendu(e)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.41642339999999,
+        43.7327247
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "L’inattendu(e)",
+      "address": "1 rue Biovès<br />\r\nMonaco"
+    }
+  },
+  {
+    "website": "http://www.magnaleda-restaurantbion.com",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "04 42 28 00 80",
+    "address": "6110 Route d&#039;Avignon<br />\r\n13540 Aix-en-Provence",
+    "name": "Magnaleda",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.37153239999998,
+        43.5849462
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Magnaleda",
+      "address": "6110 Route d&#039;Avignon<br />\r\n13540 Aix-en-Provence"
+    }
+  },
+  {
+    "website": "www.manger-autrement.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 61 32 68 41",
+    "address": "155 Grande rue Saint-Michel<br />\r\n31400 Toulouse",
+    "name": "Manger Autrement",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44474109999999,
+        43.5910499
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Manger Autrement",
+      "address": "155 Grande rue Saint-Michel<br />\r\n31400 Toulouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "03 63 78 56 63",
+    "address": "6, Grand&#039;Rue<br />\r\n90000 Belfort",
+    "name": "Marcel et Suzon",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.86322700000005,
+        47.639366
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Marcel et Suzon",
+      "address": "6, Grand&#039;Rue<br />\r\n90000 Belfort"
+    }
+  },
+  {
+    "website": "http://www.marcovaldo.fr/",
+    "tags": [],
+    "phone": "09 80 44 86 49",
+    "address": "61, rue Charlot<br />\r\n75003 Paris",
+    "name": "Marcovaldo",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36331510000002,
+        48.8637677
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Marcovaldo",
+      "address": "61, rue Charlot<br />\r\n75003 Paris"
+    }
+  },
+  {
+    "website": "http://www.adiyamancigkoftecisi.com/",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "06 12 68 11 91",
+    "address": "88 Rue de la République <br />\r\n38300 Bourgoin-Jallieu",
+    "name": "Meshur Adiyaman Cigkoftesi (Bourgoin-Jallieu)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.27203789999999,
+        45.5855751
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Meshur Adiyaman Cigkoftesi (Bourgoin-Jallieu)",
+      "address": "88 Rue de la République <br />\r\n38300 Bourgoin-Jallieu"
+    }
+  },
+  {
+    "website": "mezzalunaarras.com/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "03 21 22 89 63",
+    "address": "10 rue Léon Gambetta<br />\r\n62000 Arras",
+    "name": "Mezzaluna",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.77976960000001,
+        50.2877239
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Mezzaluna",
+      "address": "10 rue Léon Gambetta<br />\r\n62000 Arras"
+    }
+  },
+  {
+    "website": "http://www.monpetitliban.com/",
+    "tags": [],
+    "phone": "05 55 79 07 37",
+    "address": "64 avenue Garibaldi<br />\r\n87000 Limoges",
+    "name": "Mon Petit Liban",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.25899720000007,
+        45.8378012
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Mon Petit Liban",
+      "address": "64 avenue Garibaldi<br />\r\n87000 Limoges"
+    }
+  },
+  {
+    "website": "http://www.myfreekitchen.com/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "01 48 01 67 64",
+    "address": "1 bis rue Bleue<br />\r\n75009 Paris",
+    "name": "My Free Kitchen",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34772739999994,
+        48.8756913
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "My Free Kitchen",
+      "address": "1 bis rue Bleue<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "www.mykitchn.fr",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 16 15 44 74",
+    "address": "82 rue Lemercier<br />\r\n75017 Paris",
+    "name": "My Kitch’n",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3204164,
+        48.8886441
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "My Kitch’n",
+      "address": "82 rue Lemercier<br />\r\n75017 Paris"
+    }
+  },
+  {
+    "website": "http://www.cafemyrtille.com/",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "04 73 39 09 97",
+    "address": "4, Petite rue Saint-Pierre<br />\r\n63000 Clermont-Ferrand",
+    "name": "Myrtille",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.08335769999997,
+        45.77906
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Myrtille",
+      "address": "4, Petite rue Saint-Pierre<br />\r\n63000 Clermont-Ferrand"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 72 41 96 37",
+    "address": "5 avenue du Doyenné<br />\r\n69005 Lyon",
+    "name": "New Delhi",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.82659769999998,
+        45.7594676
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "New Delhi",
+      "address": "5 avenue du Doyenné<br />\r\n69005 Lyon"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 94 05 45 53",
+    "address": "Avenue Frédéric Mistral<br />\r\n83240 Cavalaire-sur-Mer",
+    "name": "Nou-Noï",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.53227319999996,
+        43.1754494
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Nou-Noï",
+      "address": "Avenue Frédéric Mistral<br />\r\n83240 Cavalaire-sur-Mer"
+    }
+  },
+  {
+    "website": "http://www.osakabox.fr/",
+    "tags": [],
+    "phone": "05 55 74 00 82",
+    "address": "19 place Winston Churchill<br />\r\n19100 Brive la Gaillarde",
+    "name": "Osaka Box",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.53610760000004,
+        45.1568356
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Osaka Box",
+      "address": "19 place Winston Churchill<br />\r\n19100 Brive la Gaillarde"
+    }
+  },
+  {
+    "website": "www.osescigkofte.com",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "03 89 41 08 68",
+    "address": "6 Place de la Gare<br />\r\n68000 Colmar",
+    "name": "Oses Cigkofte (Colmar)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.34783530000004,
+        48.0728286
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Oses Cigkofte (Colmar)",
+      "address": "6 Place de la Gare<br />\r\n68000 Colmar"
+    }
+  },
+  {
+    "website": "oulalatraiteur.com/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "uniquement par mail",
+    "address": "Paris",
+    "name": "Oulala Traiteur",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35222190000002,
+        48.856614
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Oulala Traiteur",
+      "address": "Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "06 68 18 09 37",
+    "address": "rue des Postes<br />\r\n59000 Lille",
+    "name": "Oum Falafel",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05408320000004,
+        50.6233557
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Oum Falafel",
+      "address": "rue des Postes<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "05 61 12 48 38",
+    "address": "15 rue Léon Gambetta<br />\r\n31000 Toulouse",
+    "name": "O’Saj Restauration",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44180740000002,
+        43.6030644
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "O’Saj Restauration",
+      "address": "15 rue Léon Gambetta<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "02 31 80 70 82",
+    "address": "23 rue Gemarre<br />\r\n14000 Caen",
+    "name": "Pancake Night Fever",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.364399300000059,
+        49.1842329
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pancake Night Fever",
+      "address": "23 rue Gemarre<br />\r\n14000 Caen"
+    }
+  },
+  {
+    "website": "www.panieramande.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 87 47 75 52",
+    "address": "Dax, Orthez",
+    "name": "Panier Amande",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.05194499999993,
+        43.708608
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Panier Amande",
+      "address": "Dax, Orthez"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "06 49 84 58 56",
+    "address": "3 rue Buffon<br />\r\n75005 Paris",
+    "name": "Pause Bobun",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36355070000002,
+        48.843093
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pause Bobun",
+      "address": "3 rue Buffon<br />\r\n75005 Paris"
+    }
+  },
+  {
+    "website": "http://www.monph7.com/",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "09 83 87 95 95",
+    "address": "21 rue Le Peletier<br />\r\n75009 Paris",
+    "name": "PH7 Équilibre",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33835239999996,
+        48.8729687
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "PH7 Équilibre",
+      "address": "21 rue Le Peletier<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "http://www.pitapit.fr/index.html#/pita-pit-aix",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "04 42 69 84 19",
+    "address": "56 place Richelme<br />\r\n13100 Aix-en-Provence",
+    "name": "Pita Pit (Aix-en-Provence)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.44826190000003,
+        43.5290618
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pita Pit (Aix-en-Provence)",
+      "address": "56 place Richelme<br />\r\n13100 Aix-en-Provence"
+    }
+  },
+  {
+    "website": "http://www.pitapit.fr/index.html#/pita-pit-caen",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 31 45 36 54",
+    "address": "21 Boulevard du Maréchal Leclerc<br />\r\n14 000 Caen",
+    "name": "Pita Pit (Caen)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.36190160000001,
+        49.1824245
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pita Pit (Caen)",
+      "address": "21 Boulevard du Maréchal Leclerc<br />\r\n14 000 Caen"
+    }
+  },
+  {
+    "website": "http://www.pitapit.fr/index.html#/pita-pit-lille",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "03 20 55 82 94",
+    "address": "50 rue Massena<br />\r\n59 000 Lille",
+    "name": "Pita Pit (Lille)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05500400000005,
+        50.6320316
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pita Pit (Lille)",
+      "address": "50 rue Massena<br />\r\n59 000 Lille"
+    }
+  },
+  {
+    "website": "http://www.pitapit.fr/index.html#/pita-pit-nantes",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 40 74 60 12",
+    "address": "5 place du Commerce<br />\r\n44000 Nantes",
+    "name": "Pita Pit (Nantes)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.55770919999998,
+        47.2137468
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pita Pit (Nantes)",
+      "address": "5 place du Commerce<br />\r\n44000 Nantes"
+    }
+  },
+  {
+    "website": "http://www.pitapit.fr/index.html#/home",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "02 99 63 94 95",
+    "address": "8 rue de la Visitation<br />\r\n35000 Rennes",
+    "name": "Pita Pit (Rennes)",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.67907650000006,
+        48.1143287
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pita Pit (Rennes)",
+      "address": "8 rue de la Visitation<br />\r\n35000 Rennes"
+    }
+  },
+  {
+    "website": "www.pulpkitchen.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "03 28 14 18 59",
+    "address": "106 rue de l&#039;hôpital militaire<br />\r\n59000 Lille",
+    "name": "Pulp Kitchen",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05928140000003,
+        50.6364716
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Pulp Kitchen",
+      "address": "106 rue de l&#039;hôpital militaire<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 43 53 55 66",
+    "address": "23 quai Sadi-carnot<br />\r\n53000 Laval",
+    "name": "Quai 23",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.76953739999999,
+        48.0700062
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Quai 23",
+      "address": "23 quai Sadi-carnot<br />\r\n53000 Laval"
+    }
+  },
+  {
+    "website": "www.hotel-stjacques.com/",
+    "tags": [],
+    "phone": "05 55 25 41 02",
+    "address": "Le Bourg<br />\r\n19500 Collonges La Rouge",
+    "name": "Relais St Jacques de Compostelle",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.69537100000002,
+        45.077972
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Relais St Jacques de Compostelle",
+      "address": "Le Bourg<br />\r\n19500 Collonges La Rouge"
+    }
+  },
+  {
+    "website": "http://lerest-o.fr/",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "09 52 36 71 38",
+    "address": "16 quai de Bacalan <br />\r\n33300 Bordeaux",
+    "name": "Rest’O",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.560460400000011,
+        44.8573735
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Rest’O",
+      "address": "16 quai de Bacalan <br />\r\n33300 Bordeaux"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 11 12 11 35",
+    "address": "49 cours de l&#039;Argonne<br />\r\n33000 Bordeaux",
+    "name": "Rise Up’N Shine",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.574326400000018,
+        44.8289827
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Rise Up’N Shine",
+      "address": "49 cours de l&#039;Argonne<br />\r\n33000 Bordeaux"
+    }
+  },
+  {
+    "website": "http://www.rootsveganfood.kingeshop.com/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "03 21 39 40 94",
+    "address": "59000 Lille",
+    "name": "Roots Vegan Food",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05725600000005,
+        50.62925
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Roots Vegan Food",
+      "address": "59000 Lille"
+    }
+  },
+  {
+    "website": "sainterussie.fr/contact.php",
+    "tags": [],
+    "phone": "04 78 23 90 16",
+    "address": "12 rue Juiverie<br />\r\n69005 Lyon",
+    "name": "Sainte Russie",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.82724200000007,
+        45.7657763
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Sainte Russie",
+      "address": "12 rue Juiverie<br />\r\n69005 Lyon"
+    }
+  },
+  {
+    "website": "//www.sambahia.fr/",
+    "tags": [],
+    "phone": "04 78 37 82 10",
+    "address": "13 rue du Doyenné<br />\r\n69005 Lyon",
+    "name": "Sambahia",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.82601279999994,
+        45.7588171
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Sambahia",
+      "address": "13 rue du Doyenné<br />\r\n69005 Lyon"
+    }
+  },
+  {
+    "website": "http://www.saveursbio.com",
+    "tags": [],
+    "phone": "05 61 12 15 15",
+    "address": "22 rue Maurice Fonvieille<br />\r\n31000 Toulouse",
+    "name": "Saveurs Bio",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44953740000005,
+        43.6037462
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Saveurs Bio",
+      "address": "22 rue Maurice Fonvieille<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 97 42 65 07",
+    "address": "30 ter rue Thiers<br />\r\n56000 Vannes",
+    "name": "Saveurs de l’Inde",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75963960000001,
+        47.6573305
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Saveurs de l’Inde",
+      "address": "30 ter rue Thiers<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "www.albilislesurtarnpo.com/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 68 52 07 81",
+    "address": "7 rue Paul Massot<br />\r\n66000 Perpignan",
+    "name": "Saveurs Nature",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.88345170000002,
+        42.6966043
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Saveurs Nature",
+      "address": "7 rue Paul Massot<br />\r\n66000 Perpignan"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "05 56 23 17 55",
+    "address": "20 rue Castelnau d&#039;Auros<br />\r\n33000 Bordeaux<br />\r\n<br />",
+    "name": "Smart Green Corner",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.58172060000004,
+        44.8407178
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Smart Green Corner",
+      "address": "20 rue Castelnau d&#039;Auros<br />\r\n33000 Bordeaux<br />\r\n<br />"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 42 51 75 43",
+    "address": "rue d&#039;Alsace Lorraine<br />\r\n31000 Toulouse",
+    "name": "Snack Vegan",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.44567099999995,
+        43.6040106
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Snack Vegan",
+      "address": "rue d&#039;Alsace Lorraine<br />\r\n31000 Toulouse"
+    }
+  },
+  {
+    "website": "www.sol-semilla.fr/content/7-decouvrez-notre-restaurant",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 42 01 03 44",
+    "address": "23 rue des Vinaigriers<br />\r\n75010 Paris",
+    "name": "Sol Semilla",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36296200000004,
+        48.873071
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Sol Semilla",
+      "address": "23 rue des Vinaigriers<br />\r\n75010 Paris"
+    }
+  },
+  {
+    "website": "www.couscous-lille.fr",
+    "tags": [],
+    "phone": "03 20 31 49 71",
+    "address": "5 rue Princesse<br />\r\n59800 Lille",
+    "name": "Soleil d’Agadir",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05935640000007,
+        50.6462097
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Soleil d’Agadir",
+      "address": "5 rue Princesse<br />\r\n59800 Lille"
+    }
+  },
+  {
+    "website": "www.soline.net/",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "phone": "04 78 60 40 43",
+    "address": "89 rue Paul Bert,<br />\r\n69003 Lyon",
+    "name": "Soline",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.85086660000002,
+        45.7570246
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Soline",
+      "address": "89 rue Paul Bert,<br />\r\n69003 Lyon"
+    }
+  },
+  {
+    "website": "www.soyacantinebio.blogspot.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 99 52 00 18",
+    "address": "20 rue de la Pierre levée<br />\r\n75011 Paris",
+    "name": "Soya",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.37025829999993,
+        48.8681167
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Soya",
+      "address": "20 rue de la Pierre levée<br />\r\n75011 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 94 87 44 64",
+    "address": "876 Chemin de la Farlède<br />\r\n83500 La Seyne sur Mer",
+    "name": "Super G bio – La Pause Repas",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.8496609,
+        43.1167011
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Super G bio – La Pause Repas",
+      "address": "876 Chemin de la Farlède<br />\r\n83500 La Seyne sur Mer"
+    }
+  },
+  {
+    "website": "www.sushipearl.fr/",
+    "tags": [],
+    "phone": "02 97 54 35 96",
+    "address": "7 rue Alain le Grand<br />\r\n56000 Vannes",
+    "name": "Sushi Pearl",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75452189999999,
+        47.6584841
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Sushi Pearl",
+      "address": "7 rue Alain le Grand<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 91 54 17 90",
+    "address": "24, Boulevard Notre-Dame<br />\r\n13006 Marseille",
+    "name": "Sushi Street Café",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.37279009999997,
+        43.2891108
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Sushi Street Café",
+      "address": "24, Boulevard Notre-Dame<br />\r\n13006 Marseille"
+    }
+  },
+  {
+    "website": "http://chateaulemartinet.com/site2.php3?rub=2&amp;action=licat&amp;id_sc=2",
+    "tags": [],
+    "phone": "04 90 70 94 98",
+    "address": "Château du Martinet<br />\r\nlieu dit le Martinet <br />\r\n3078 route de Vaison la Romaine <br />\r\n84150 Violès",
+    "name": "Table Gourmande le Mogador",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.97221390000004,
+        44.1848542
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Table Gourmande le Mogador",
+      "address": "Château du Martinet<br />\r\nlieu dit le Martinet <br />\r\n3078 route de Vaison la Romaine <br />\r\n84150 Violès"
+    }
+  },
+  {
+    "website": "http://www.terredesaveursavignon.fr/",
+    "tags": [],
+    "phone": "04 90 86 68 72",
+    "address": "1 rue Saint Michel<br />\r\n84000 Avignon",
+    "name": "Terre de Saveurs",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.81130570000005,
+        43.9421085
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Terre de Saveurs",
+      "address": "1 rue Saint Michel<br />\r\n84000 Avignon"
+    }
+  },
+  {
+    "website": "http://londonbridge-calais.com/",
+    "tags": [],
+    "phone": "03 21 85 85 79",
+    "address": "12 place d&#039;Armes 62100 Calais",
+    "name": "The London Bridge",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.850146,
+        50.9588985
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "The London Bridge",
+      "address": "12 place d&#039;Armes 62100 Calais"
+    }
+  },
+  {
+    "website": "tien-hiang.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "01 42 00 08 23",
+    "address": "14 rue Bichat<br />\r\n75010 Paris",
+    "name": "Tien Hiang",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36906160000001,
+        48.8702708
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Tien Hiang",
+      "address": "14 rue Bichat<br />\r\n75010 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "04 74 07 09 98",
+    "address": "133 rue Anse<br />\r\n69400 Villefranche-sur-Saône",
+    "name": "Tout à croquer",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.71837370000003,
+        45.9844339
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Tout à croquer",
+      "address": "133 rue Anse<br />\r\n69400 Villefranche-sur-Saône"
+    }
+  },
+  {
+    "website": "touteslescouleurs.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "04 72 00 03 95",
+    "address": "26 rue Imbert Colomès<br />\r\n69001 Lyon",
+    "name": "Toutes les couleurs",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.83532660000003,
+        45.7714076
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Toutes les couleurs",
+      "address": "26 rue Imbert Colomès<br />\r\n69001 Lyon"
+    }
+  },
+  {
+    "website": "http://www.unparfumdoxalis.fr/150088054",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "05 55 10 09 57",
+    "address": "72 bis Avenue Garibaldi<br />\r\n87000 Limoges",
+    "name": "Un Parfum d’Oxalis",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.25879689999999,
+        45.8383466
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Un Parfum d’Oxalis",
+      "address": "72 bis Avenue Garibaldi<br />\r\n87000 Limoges"
+    }
+  },
+  {
+    "website": "http://unefleurdeschamps.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "03 90 23 60 60",
+    "address": "4 rue des Charpentiers<br />\r\n67000 Strasbourg",
+    "name": "Une Fleur des Champs",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.75151419999997,
+        48.5844288
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Une Fleur des Champs",
+      "address": "4 rue des Charpentiers<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 27 44 29 67",
+    "address": "44000 Nantes",
+    "name": "Veg Mama",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.49953890000006,
+        47.2520457
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Veg Mama",
+      "address": "44000 Nantes"
+    }
+  },
+  {
+    "website": "www.vegalicious.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "06 78 07 23 83",
+    "address": "Marseille, Aix-en Provence et Saint-Paul-lez-Durance",
+    "name": "Vegalicious",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.37103239999999,
+        43.298442
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Vegalicious",
+      "address": "Marseille, Aix-en Provence et Saint-Paul-lez-Durance"
+    }
+  },
+  {
+    "website": "veganfolies.fr/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 43 37 21 89",
+    "address": "53 rue Mouffetard<br />\r\n75005 Paris",
+    "name": "Vegan Folie’s",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34961969999995,
+        48.8434104
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Vegan Folie’s",
+      "address": "53 rue Mouffetard<br />\r\n75005 Paris"
+    }
+  },
+  {
+    "website": "http://vegan-gorilla.fr/",
+    "tags": [
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "06 60 75 10 00",
+    "address": "7 rue du Lycée<br />\r\n06000 Nice",
+    "name": "Vegan Gorilla",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.27426949999995,
+        43.699358
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Vegan Gorilla",
+      "address": "7 rue du Lycée<br />\r\n06000 Nice"
+    }
+  },
+  {
+    "website": "www.vegebowl.com/index.php",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 42 46 45 89",
+    "address": "3 rue de la Boule rouge<br />\r\n75009 Paris",
+    "name": "Végébowl",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34454419999997,
+        48.8733585
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Végébowl",
+      "address": "3 rue de la Boule rouge<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "http://www.vegetaletvous.fr/",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "03 20 51 55 06",
+    "address": "241 rue Gambetta<br />\r\n59000 Lille",
+    "name": "Végétal et Vous",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05252180000002,
+        50.6283124
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Végétal et Vous",
+      "address": "241 rue Gambetta<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "http://veggyvan.fr",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 67 07 79 05",
+    "address": "83390 Cuers",
+    "name": "Veggyvan",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.13149279999993,
+        43.2618627
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Veggyvan",
+      "address": "83390 Cuers"
+    }
+  },
+  {
+    "website": "http://vegartparis.com/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "09 83 87 29 68",
+    "address": "123 rue Oberkampf<br />\r\n75011 Paris",
+    "name": "Veg’Art",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.37907519999999,
+        48.8661874
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Veg’Art",
+      "address": "123 rue Oberkampf<br />\r\n75011 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "06 20 32 01 71",
+    "address": "51100 Reims",
+    "name": "Veg’Gaïa",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.03169600000001,
+        49.258329
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Veg’Gaïa",
+      "address": "51100 Reims"
+    }
+  },
+  {
+    "website": "http://www.velicious.fr/",
+    "tags": [
+      "vegan"
+    ],
+    "phone": "09 72 53 07 35",
+    "address": "43 rue Geiler<br />\r\n67000 Strasbourg",
+    "name": "Velicious",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.77080679999995,
+        48.5860789
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Velicious",
+      "address": "43 rue Geiler<br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "www.my-vg.fr/",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "phone": "01 44 63 87 37",
+    "address": "85 rue Lafayette<br />\r\n75009 Paris",
+    "name": "VG",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34800789999997,
+        48.8770844
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "VG",
+      "address": "85 rue Lafayette<br />\r\n75009 Paris"
+    }
+  },
+  {
+    "website": "",
+    "tags": [
+      "vegetarian"
+    ],
+    "phone": "01 74 64 92 18",
+    "address": "48 rue de Clery<br />\r\n75002 Paris",
+    "name": "Vietnam in Paris, Saveurs du Vietnam",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34789780000006,
+        48.8683641
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Vietnam in Paris, Saveurs du Vietnam",
+      "address": "48 rue de Clery<br />\r\n75002 Paris"
+    }
+  },
+  {
+    "website": "http://www.villakerasy.com/cuisine-ayurvedique/",
+    "tags": [],
+    "phone": "02 97 68 36 83",
+    "address": "20 avenue Favrel et Lincy<br />\r\n56000 Vannes",
+    "name": "Villa Kerasy Hotel Spa",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75378980000005,
+        47.6642759
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Villa Kerasy Hotel Spa",
+      "address": "20 avenue Favrel et Lincy<br />\r\n56000 Vannes"
+    }
+  },
+  {
+    "website": "vipizza.fr",
+    "tags": [],
+    "phone": "03 20 31 70 77",
+    "address": "107 rue Sadi Carnot<br />\r\n59350 Saint André lez Lille",
+    "name": "VIP – Pizzeria Italiana",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.05529839999997,
+        50.661118
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "VIP – Pizzeria Italiana",
+      "address": "107 rue Sadi Carnot<br />\r\n59350 Saint André lez Lille"
+    }
+  },
+  {
+    "website": "",
+    "tags": [],
+    "phone": "02 38 43 85 75",
+    "address": "5 rue de la Cerche<br />\r\n45000 Orléans",
+    "name": "Voici venu le temps",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.90317349999998,
+        47.9036098
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Voici venu le temps",
+      "address": "5 rue de la Cerche<br />\r\n45000 Orléans"
+    }
+  },
+  {
+    "website": "http://wallyscoffee.fr/",
+    "tags": [],
+    "phone": "06 51 50 17 20",
+    "address": "19 Place Philippe Lebon<br />\r\n59000 Lille",
+    "name": "Wally’s Coffee",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.06217379999998,
+        50.6275057
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Wally’s Coffee",
+      "address": "19 Place Philippe Lebon<br />\r\n59000 Lille"
+    }
+  },
+  {
+    "website": "http://whatthecake.fr/",
+    "tags": [
+      "gluten-free"
+    ],
+    "phone": "03 69 08 21 41",
+    "address": "51 rue du fossé des tanneurs <br />\r\n67000 Strasbourg",
+    "name": "What the Cake ?",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.74316780000004,
+        48.582132
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "What the Cake ?",
+      "address": "51 rue du fossé des tanneurs <br />\r\n67000 Strasbourg"
+    }
+  },
+  {
+    "website": "http://yabio.fr/",
+    "tags": [],
+    "phone": "en cours",
+    "address": "19 rue du Garet<br />\r\n69001 Lyon",
+    "name": "Yabio",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.83691959999999,
+        45.766297
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Yabio",
+      "address": "19 rue du Garet<br />\r\n69001 Lyon"
+    }
+  },
+  {
+    "website": "www.restaurant-youna.com/",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "phone": "02 40 12 41 58",
+    "address": "10 Bis Rue de l&#039;hôtel de ville<br />\r\n44000 Nantes",
+    "name": "Youna",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.55669940000007,
+        47.2178618
+      ]
+    },
+    "properties": {
+      "marker-symbol": "marker-stroked",
+      "name": "Youna",
+      "address": "10 Bis Rue de l&#039;hôtel de ville<br />\r\n44000 Nantes"
+    }
+  }
+]
