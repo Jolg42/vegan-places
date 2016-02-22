@@ -1,488 +1,488 @@
-latitude,longitude,name,address
-47.8991593,1.9066653,Au bon marché,"12 Place du châtelet, 45000 Orléans"
-43.6117398,3.8789458,La Mezzanine,39 Rue de l'Aiguillerie 34000 Montpellier
-48.8628544,2.3495186,Ravioli Nord Est,115 Rue Saint-Denis 75001 Paris
-43.5981845,1.4442782,Batbat,"8 Rue des Filatiers, 31000 Toulouse"
-43.2996407,5.3840108,Les Ondines,19 rue St-Bazile 13001 Marseille
-51.0353026,2.3798112,Green is better,"35 Rue du Président Poincaré, 59140 Dunkerque"
-49.182863,-0.370679,Un sourire dans l'assiette,"Caen
-"
-50.6202627,3.0520354,Cantine vegan du Centre Culturel Libertaire,4 rue de Colmar 59000 LILLE
-45.8238121,4.7920345,Cigkoftem — Lyon,"17 avenue Jean Jaurès, 69003 Lyon"
-48.8432286,2.385343,PIGUT Stages gourmands de cuisine bio végétale,Rue de Charenton 75012 Paris
-47.3234548,5.0365145,Lulu Graine d'un Monde,"12 Rue de la Poste, 21000 Dijon"
-50.6379514,3.0694588,Houé,15 Rue du Vieux Faubourg 59000 Lille
-49.1220943,6.1779548,Les petits zozios,"35 rue des Jardins, 57000 Metz"
-48.827477,2.3256708539,Caprice café,"12 avenue Jean Moulin, 75014 Paris"
-42.6983003,2.8962433,La révolution verte,"5 Rue du Théâtre, 66000 Perpignan"
-43.6117336,3.8781594,Les demoiselles de Montpellier,"2, rue de la Carbonnerie, 34000 Montpellier"
-44.620909,4.389863,La pause verte,Aubenas
-47.0842523,2.3989376,Les trois cuillères,38 rue Bourbonnoux 18000 Bourges
-47.7468644,7.333629,BIOfresh,36 rue de l'arsenal 68100 Mulhouse
-48.8811256,2.3126419,Rimal,"94 bd Malesherbes, 75017 Paris"
-43.7039464,7.2652186,Alounak,"3, rue Alsace Lorraine, 06000 Nice"
-48.8283773,2.3261455,L'éphémère,"228 Avenue du Maine, 75014 Paris"
-50.624249,3.0644182,Liquium,"71 Rue Jeanne d'Arc, 59000 Lille"
-48.8629889,2.3640721,Ob-La-Di Café,"54 rue de Saintonge, 75003 Paris"
-48.8754847,2.3492049,Le tricycle,"51 rue de Paradis, 75010 Paris"
-47.394694,0.6829205,Habibi 2.0,100 rue du commerce 37000 Tours
-49.4978279,0.1116805,Casse-Noisette,92 rue Docteur Vigne 76600 Le Havre
-47.8985272,1.9074283,Oh Terroir (version Fast Good),3 rue des Halles 45000 Orléans
-49.107342,6.1790835,Le GREEN se met au Vert,"24, avenue Francois Mitterrand 57000 Metz"
-48.8881681,2.3624483,Les Petites Gouttes,"12 esplanade Nathalie Sarraute, 75018 PARIS"
-48.8653337,2.3502945,Twinkie,"167 Rue Saint-Denis, 75002 Paris"
-50.4366525,30.5203111,I Live Coffee,"Esplanadna St, 32, Kiev, Ukraine"
-49.2572048,4.0314086,Chez Lou,"4 rue de Pouilly, 51100 Reims"
-48.5860789,7.7708068,Velicious,"43 rue Geiler, 67000 Strasbourg"
-45.9040336,6.1303067,Granny Smith,"4, Rue Louis Revon, 74000 Annecy"
-50.6275057,3.0621738,Wally's coffee,"19 place Philippe Lebon, 59000 Lille"
-48.869522,2.3560621,Distrito Francés,"10 rue du faubourg Saint Martin, 75010 Paris"
-45.591055,4.0725932,Aux idées reçues,15 rue de st antheme 42600 moingt (Monbrison)
-43.9601071,4.723458,Ooh la la Obanyaki,"Vaucluse, Gard, Hérault"
-48.8487257,2.3402841,Furahaa Candy,"44, rue Monsieur le Prince 75006 Paris"
-48.8790612,2.3447297,Le Potager de Charlotte,"12 Rue de la Tour d'Auvergne, 75009 Paris"
-48.8671055,2.3325439,Terra Culinaria Gastronomie Végétale,36 Place du Marché Saint Honoré 75001 Paris
-50.630458,3.0507947,Pizza Jazz,"56 rue des Stations, 59000 Lille"
-50.645516,5.5777351,Bo Bun,"19-21 rue de la Boucherie Liège, Belgique"
-48.8509611,2.3325241,Yoom — Maison de la Chine,76 rue Bonaparte 75006 Paris
-48.8736475,2.3322383,Yoom — Galeries Lafayette,40 boulevard Haussmann 75009 Paris
-48.8779067,2.3396441,Yoom — Rue des Martyrs,20 rue des Martyrs 75009 Paris
-48.8837733,2.3216248,Yoom — Batignolles,59 rue des Dames 75017 Paris
-48.8534332,2.3379713,Yoom — St Germain des Prés,5 rue Grégoire de Tours 75006 Paris
-46.5138205,6.6179696,Veganopolis Café,"Avenue des Bains 4C, 1007 Lausanne, Suisse"
-48.8643649,2.3414994,La guinguette d'Angèle,34 rue Coquillière 75001 Paris
-48.8521295,2.3409915,La vie en fruits,"116 Boulevard Saint-Germain, 75006 Paris"
-48.8554002,2.3815538,Bears & Raccoons,"21 Rue Richard Lenoir, 75011 Paris"
-48.8755834,2.3487668,Le Veganovore,55 rue de Paradis 75010 Paris
--17.5516251,-149.5584758,Le J'Âm,"10, rue Charles Vienot - BP 42430, Papeete"
-48.5826194,7.7390764917,Fior di pizza,"2 Grand Rue, 67000 Strasbourg"
-48.864588,2.368675,Veg'Art,123 rue d'Oberkampf 75011 Paris
-48.8733032,2.3647123,Carmen Ragosta,8 rue de la grange aux belles 75010 Paris
-45.7521535,4.8402609,Fahima Tandoori,"36 Rue de Marseille, 69007 Lyon"
-35.6633635,139.7127498,Pure Cafe,"5 Chome-5-２１ Minamiaoyama, Minato, Tokyo 107-0062, Japon"
-48.827477,2.3255344,Caprice Café,"12 Avenue Jean Moulin, 75014 Paris"
-48.8484638,2.3781981,La boucherie végétarienne,"10 place d'aligre, 75012 Paris"
-48.8678291,2.3434784,Le So,"93 Rue Montmartre, 75002 Paris"
-16.1302222,-61.5938109,Passe le mic,"Chemin des Mineurs, Goyave, Guadeloupe"
-43.6128233,3.8767919,La Coutinelle,25 rue de l'université 34070 Montpellier
-16.265,-61.551,Smooth'Sea,"Rue Benoît Cassin, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
-16.265,-61.551,Snack,"Rue Théodore Samson, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
-16.265,-61.551,Escale Créole,"419 Route du Bois-Joli, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
-48.0741097,7.3569445,100% le bar à jus,2 rue Saint Jean 68000 Colmar
-44.08851,-1.3131465,Psychédélice,"1003 avenue de l'océean, 40170 Contis Plage"
-48.8750843,2.3484589,Eatme — Poissonnière,"58 Rue du Faubourg Poissonnière, 75010 Paris, France"
-48.8739998,2.3037233,Eatme — Washington,"35 Rue de Washington, 75008 Paris, France"
-48.8715061,2.3215324,Eatme — Anjou,"29 Rue d'Anjou, Paris, France"
-48.8667452,2.3444887,Eatme — Montorgueil,"38 Rue Léopold Bellan, 75002 Paris, France"
-48.8736984,2.3480606,Fée Nature — Paris 10,"40 bis, rue du faubourg Poissonnière 75010 Paris"
-48.866398,2.34394,Fée Nature — Paris 2,69 rue d'Argout 75002 Paris
-46.121399,3.42154,Keck's Café,"16 Rue d'Allier, 03200 Vichy"
-48.8649903,2.3753365,Slize,"52 avenue de la République, 75011 Paris"
-48.8522101,2.3714183,Végé saveurs,29 rue de Charenton 75012 Paris
-43.5290148,5.4479429,Le Pain Quotidien — Aix en Provence,"5 place Richelme, 13100 Aix en Provence"
--23.5581675,-46.679398,Barão Natural,"Rua João Moura, 861. Pinheiros. São Paulo - SP. Brasil"
-48.5835936,7.7420473,Cigkoftem — Strasbourg,"3 Place du Vieux Marché aux Vins, 67000 Strasbourg"
-48.5826194,7.7389407,Lacocina,"2 Grand Rue, 67000 Strasbourg"
-47.0187693,-2.2970561,D'île en île,"104 avenue Mourain, l'Herbaudière, Noirmoutier"
-43.2920007,5.3835895,La baie du dragon,"8 Place Notre Dame du Mont, 13006 Marseille"
-42.2685623,2.9601963,Integral,"c/La Jonquera, 30 Figueres, Espagne"
-41.9750089,2.8223307,Veggana,"c/ Rutlla, 108 Girona, Espagne"
-41.9832309,2.8245882,B12,"Plaça del vi, 11 Girona, Espagne"
-41.9840818,2.8217054,Bionectar,"Carrer Eiximenis, 8 Girona, Espagne"
-48.8893823,2.3467009,Super Naturelle,"34 Rue Ramey, 75018 Paris"
-52.5062708,13.4653113,Laauma,"Sonntagstraße 26, 10245 Berlin, Allemagne"
-52.5078805,13.4500303,The Bowl,"Warschauer Str. 33, 10243 Berlin, Allemagne"
-48.8669756,2.3372009,Kapunka,"59 Rue de Richelieu, 75002 Paris"
-48.8518726,2.3487846,Aux Arts etc,"15 Quai de Montebello, 75005 Paris, France"
-48.8707923,2.3499013,Las Vegans,"30 Boulevard de Bonne Nouvelle, 75010 Paris"
-47.216883,-1.5548713,La Table des Roy,"4 Rue des Trois Croissants, 44000 Nantes"
-48.8733889,2.3429571,Nick's Pizza,"24 Rue du Faubourg Montmartre, 75009 Paris"
-48.860764,1.454487,Aneth et Ciboulette,2 boulevard des 4 Arpents ZA le Débucher 28260 Anet
-48.8396885,2.3558328,Crêpe de la joie,4 rue du Fer à Moulin 75005 Paris
-47.2059528,-1.5565035,Terroirs Bio,"9 Rue Alain Barbe Torte, 44000 Nantes"
-48.8570739,2.3659651,Le café chinois,"7 Rue de Béarn, 75003 Paris"
-52.5090912,13.4659903,Almodóvar Hotel,"Boxhagener Str. 83, 10245 Berlin, Allemagne"
-48.853568,2.3400335,Crêperie Saint Germain,33 rue St André des Arts 75006 Paris
-48.8641804,2.3362479,AntiCafé — Louvre,10 rue de Richelieu 75001 Paris
-48.8254416,2.3665593,Anticafé — Olympiades,59 Rue Nationale 75013 PARIS
-45.7795252,4.8344111,Color Vegan,23 rue pailleron 69004 Lyon
-50.6466026,5.5768181,Goveg vegan shop,"Rue Hors-Château 14, 4000 Liège, Belgique"
-47.2164303,-1.5560659,Trésors Partagés,"10 Rue des 3 Croissants, 44000 Nantes, France"
-43.923248,4.526957,Les Pierrafeu,"Chemin de Ledenon, 30210 Saint-Bonnet-du-Gard, France"
-48.8795607,2.3921502,Paint It Green Vegan,"78 rue Compans, Paris XIX"
-43.591675,1.433855,Le cri de la carotte,"304 Avenue de Muret, 31300 Toulouse, France"
-48.86785,2.356785,Un Monde Vegan,"64 Rue Notre Dame de Nazareth, 75003 Paris, France"
-48.904802,2.322004,Cojean — Saint Ouen,"150 Boulevard Victor Hugo, 93400 Saint-Ouen, France"
-48.5822782,7.7432251,What the cake ?,"51 Rue du Fossé des Tanneurs, 67000 Strasbourg"
-48.867677,2.324477,Toraya Paris,"10 Rue Saint-Florentin, 75001 Paris, France"
-48.863751,2.346376,Charles Chocolatier,"15 Rue Montorgueil, 75001 Paris, France"
-48.8614105,2.3808044,In the Garden,"39 Rue Saint-Maur, 75011 Paris, France"
-48.447988,1.487077,Le Cloitre Gourmand,"21 Cloître Notre Dame, 28000 Chartres, France"
-46.579457,0.339302,Le Bonheur est dans le Thé,"7 Rue Sadi Carnot, 86000 Poitiers, France"
-48.869021,2.304101,Charbon Rouge,"25 Rue Marbeuf, 75008 Paris, France"
-48.860754,2.367019,Cantine Merci,"111 Boulevard Beaumarchais, 75003 Paris, France"
-49.050398,2.097052,La Cerise Gourmande,"49 Rue de l'Hôtel de ville, 95300 Pontoise, France"
-48.898255,2.282146,Soup & Juice — Levallois,"34 Avenue de l'Europe, 92300 Levallois-Perret, France"
-48.880351,2.326948,Soup & Juice - Rue d'Amsterdam,"55 Rue d'Amsterdam, 75009 Paris, France"
-48.872935,2.297417,Soup & Juice — Champs Elysées,"133 Avenue des Champs-Élysées, 75008 Paris, France"
-48.876786,2.33041,Soup & Juice — Rue de Londres,"4 Rue de Londres, 75009 Paris, France"
-48.868764,2.291062,Soup & Juice — Kléber,"54 Avenue Kléber, 75116 Paris, France"
-48.874342,2.333108,Cojean — Provence,"66 Rue de Provence, 75009 Paris, France"
-48.868288,2.342008,Cojean — Bourse,"121 Rue Réaumur, 75002 Paris, France"
-48.872631,2.334699,Cojean — Haussmann,"17 Boulevard Haussmann, 75009 Paris, France"
-48.859381,2.340243,Cojean — Louvre,"3 Place du Louvre, 75001 Paris, France"
-48.870432,2.327336,Cojean — Madeleine,"6 Rue de Sèze, 75009 Paris, France"
-48.853386,2.375918,Le Bar à Soupes,"33 Rue de Charonne, 75011 Paris, France"
-48.866689,2.385473,Les Trois 8,"11 Rue Victor Letalle, 75020 Paris, France"
-50.634746,3.060854,Be Yourself !,"2 Square Morisson, 59800 Lille, France"
-53.545718,9.951834,Liberty Eiscafé & Bistro,"Fischmarkt 11, 22767 Hamburg, Allemagne"
-48.85805,2.368785,Maison Bastille,"34 Rue Amelot, 75011 Paris, France"
-48.875761,2.34777,My free kitchen,"1bis Rue Bleue, 75010 Paris, France"
-48.865338,2.362082,Lily of the Valley,"12 Rue Dupetit-Thouars, 75003 Paris, France"
-48.87351,2.370652,Lula Lifestyle Shop,"216 Rue Saint-Maur, 75010 Paris, France"
-48.869809,2.3447015,We Are Juice,"34 Rue des Jeuneurs, 75002 Paris"
-43.7742839,11.2505621,Shake Café,"Via degli Avelli, 2, 50123 Firenze, Italie"
-52.51044,13.460843,Der Eisbärliner,"Gärtnerstraße 11, 10245 Berlin, Allemagne"
-52.501052,13.431107,Eissalon Tanne B,"Eisenbahnstraße 48, 10997 Berlin, Allemagne"
-52.541281,13.415171,Chaostheorie,"Lychener Straße 4, 10437 Berlin, Allemagne"
-50.94073,6.87998,Pennycakes,"Alter Militärring 68, 50933 Köln, Allemagne"
-51.461741,-0.1133,Ms. Cupcake,"408 Coldharbour Lane, London SW9 8LF, Royaume-Uni"
-47.214536,-1.554254,Les bien-aimés,"2 Rue de la Paix, 44000 Nantes, France"
-47.2347488,6.031992,Ze Music All,"18 Rue Rivotte, 25000 Besançon, France"
-43.293256,5.38193,Les Délices de Plume,"1 Rue Fongate, 13001 Marseille, France"
-50.633412,3.068126,Coffee Makers,"151 Rue de Paris, 59800 Lille, France"
-43.614967,3.876948,Café Noisette,"21 Boulevard Pasteur, 34090 Montpellier, France"
-45.890158,-72.545175,Rose Café,"210 Boulevard Lemire Ouest, Drummondville, QC J2B 8A9, Canada"
-49.1842329,-0.3643993,Pancake Night Fever,"23 Rue Gemare, 14000 Caen, France"
-48.8532748,2.3371114,Grom,"81 Rue de Seine, 75006 Paris, France"
-48.5815328,7.7529616,Bistrot et Chocolat,"8 Rue de la Râpe, 67000 Strasbourg"
-48.869494,2.328689,Naked Food,"22 Rue des Capucines, 75001 Paris, France"
-48.843323,2.349545,Vegan Folie's,"53-55 Rue Mouffetard, 75005 Paris, France"
-48.110533,-1.678538,Le Haricot Rouge,"10 Rue Baudrairie, 35000 Rennes, France"
-47.6568428,-2.7574101,L'Entrechoc,"15 Place Valencia, 56000 Vannes, France"
-48.835125,2.326726,Chocolatitudes,"57 Rue Daguerre, 75014 Paris, France"
-48.8619467,2.3799422,Bob's Cold Press,"10 Passage Rochebrune, 75011 Paris, France"
-47.215567,-1.558334,Sugar Blue Café,"4 Rue de l'Arche Sèche, 44000 Nantes, France"
-45.1916549,5.7309681,La Causerie Pause Bio,"3 Rue Jean-François Haché, 38000 Grenoble, France"
-48.582908,7.753349,Gagao,"20 Rue des Frères, 67000 Strasbourg"
-48.865666,2.340183,Juice it,"8 Rue de la Vrillière, 75001 Paris, France"
-47.319947,5.040079,La Causerie des Mondes,"16 Rue Vauban, 21000 Dijon"
-45.6496192,0.1561845,Phenix,"24 Rue de la Cloche Verte, 16000 Angoulême, France"
-51.540455,-0.143753,Cookies and Scream,"The Market Hall, Camden Lock Place, London NW1 8AF, Royaume-Uni"
-43.6072981,1.4396692,The Coffee Pot,"41 Rue des Lois, 31000 Toulouse, France"
-48.866107,2.344117,Matamata Coffee Bar,"58 Rue d'Argout, 75002 Paris, France"
-43.6022056,1.4507666,Café Den Coffeeshop,"Centre Commercial Saint Georges, 51 bis, rue du Rempart St Etienne, 31000 Toulouse"
-43.6063534,1.4424552,Colombus Café,"10 Rue du Taur, 31000 Toulouse, France"
-47.214483,-1.555571,"92,5° Coffee Shop","Cours des 50 Otages, 44000 Nantes, France"
-48.833924,2.243644,Panasia,"130 Avenue Victor Hugo, 92100 Boulogne-Billancourt, France"
-48.875407,2.327147,Zumo — Passage du Havre,"10 Passage du Havre, 75009 Paris, France"
-48.828526,2.355594,Zumo — Italie,"30 Avenue d'Italie, 75013 Paris, France"
-48.872034,2.360567,Bob's Juice Bar,"15 Rue Lucien Sampaix, 75010 Paris, France"
-48.862592,2.3512,AntiCafé — Beaubourg,"79 Rue Quincampoix, 75003 Paris, France"
-48.8621494,2.3519758,Bubble Tea Cup,"164 Rue Saint-Martin, 75003 Paris, France"
-48.859837,2.349826,Bubbolitas,"17 Rue Quincampoix, 75004 Paris, France"
-49.253786,4.027135,Le Maharajah,"13 Rue de Thillois, 51100 Reims, France"
-48.8828589,2.3381757,Ayutthaya,"5 Rue Houdon, 75018 Paris, France"
-43.298504,5.382815,Green Bear Coffee,"17 Rue Glandeves, 13001 Marseille"
-48.582102,7.743211,Made In France,"26 Rue des Drapiers, 67000 Strasbourg, France"
-48.872728,2.309548,Mitsou,"3 Rue du Commandant Rivière, 75008 Paris, France"
-48.825602,2.36145,Lao Lane Xang,"102 Avenue d'Ivry, 75013 Paris, France"
-48.881724,2.364372,le 42,"42 Rue Louis Blanc, 75010 Paris"
-43.602995,1.453801,La Belle Verte,"50 Rue d'Aubuisson, 31000 Toulouse, France"
-50.642755,5.573701,Terre Mère,"Rue de la Régence 21, 4000 Liège, Belgique"
-48.583819,7.742787,La Pause Quinoa,"33 Rue du Jeu des Enfants, 67000 Strasbourg"
-43.701656,7.269196,Speakeasy,"7 Rue Lamartine, 06000 Nice"
-51.037004,3.712116,Lekker Gec,"Kon. Maria Hendrikaplein 6, 9000 Gent, Belgique"
-51.053256,3.730374,Komkommertijd,"Reep 14, 9000 Gent, Belgique"
-47.2369769,6.0286188,Basilic Instant,"93 Rue des Granges, 25000 Besançon"
-42.6966,2.883573,Saveurs Nature,"7 Rue Paul Massot, 66000 Perpignan"
-43.6019472,1.4438887,La faim des haricots,"3 Rue du Puits Vert, 31000 Toulouse, France"
-45.7714076,4.8353266,Toutes Les Couleurs,"26 Rue Imbert Colomes, 69001 Lyon"
-48.876062,2.348478,Can Tin(e),"66 Rue du Faubourg Poissonnière, 75010 Paris, France"
-48.9052476,2.3442474288,Red Gold and Green,"43 Rue Paul Bert, 93400 Saint-Ouen"
-48.510209,-1.2526921712,Millefeuilles,"Leteurrie, 35420 Saint-Georges-de-Reintembault"
-48.875187,2.3329227288,My Bo Bun,"73 Rue de la Victoire, 75009 Paris, France"
-44.8289827,-0.5743156712,Rise Up 'N' Shine,"49 Cours de l'Argonne, 33000 Bordeaux, France"
-46.1889956,6.1572827288,Helveg Café,"Avenue de Miremont 31, 1206 Genève, Suisse"
-45.7685104,4.8319953288,Le Roi Falafel,"30 Rue Palais Grillet, 69002 Lyon"
-48.866406,2.3381447288,Macéo,"15 Rue des Petits Champs, 75002 Paris"
-45.756978,4.8508967288,Soline,"89 Rue Paul Bert, 69003 Lyon"
-48.110808,-1.6769652712,Saint-Germain des Champs,"12 Rue du Vau Saint-Germain, 35000 Rennes"
-47.317664,5.0348767288,Le Shanti,"69 Rue Berbisey, 21000 Dijon"
-48.867544,2.3408897288,Liza,"14 Rue de la Banque, 75002 Paris"
-48.86305,2.3518597288,Vert Midi - Quincampoix,"9 Rue aux Ours, 75003 Paris"
-48.8702,2.3421667288,Vert Midi - St Marc,"1 Rue Saint-Marc, 75002 Paris"
-48.868746,2.3536737288,An Com,"14 Rue Blondel, 75002 Paris"
-48.865797,2.3470967288,Monthaï,"84 Rue Montorgueil, 75002 Paris"
-48.877409,2.3513767288,Mussubï,"89 Rue d'Hauteville, 75010 Paris"
-48.866172,2.3722157288,Kawaii Café,"20 Rue de Nemours, 75011 Paris"
-48.873044,2.3002017288,Kok Ping,"4 Rue Balzac, 75008 Paris"
-48.889769,2.2476007288,Pause,"34 Place des Reflets, 92400 Courbevoie"
-48.837435,2.3522937288,Ase Theodros,"7 Rue de la Collégiale, 75005 Paris"
-48.833238,2.3156177288,Aquarius,"40 Rue de Gergovie, 75014 Paris, France"
-48.841789,2.3280557288,Dietetic shop,"11 Rue Delambre, 75014 Paris"
-49.182463,-0.3648502712,Greedy Guts,"15 Rue de Bras, 14000 Caen"
-48.875247,2.3190887288,Graine,"7 Place Saint-Augustin, 75008 Paris"
-50.64258,3.0667367288,2 sous de table,"56 Rue de Gand, 59000 Lille"
-45.942873,-0.5217412712,Carottes et Gingembre,"36 Rue des Bancs, 17400 Saint-Jean-d'Angély"
-51.05774,3.7209580675,Avalon,"Geldmunt 32, 9000 Gent, Belgique"
-50.877117,4.7051180675,Loving Hut - Leuven,"Tiensestraat 65, 3000 Leuven, Belgique"
-48.870344,2.3103210675,Saï Bobun,"9 Rue de Ponthieu, 75008 Paris"
-45.767521,4.8314556098,Yaafa,"17 Rue d'Algérie, 69001 Lyon"
-49.2571799,4.0391984098,Le Vert en Couleur,"8, place Aristide Briand, Reims"
-48.8906594,2.3543215098,Toutofu,"25 Rue Ordener, 75018 Paris"
-49.2562928,4.0257907098,Food Avenue,"77 Place Drouet d'Erlon, 51100 Reims"
-48.8902491,2.3418518098,In bocca al lupo,"14 Rue Francoeur, 75018 Paris"
-48.856146,2.3589766098,L'Escale du Liban,"1 Rue Ferdinand Duval, 75004 Paris"
-43.770004,7.4934316098,Loving Hut — Menton,"649 Promenade du Soleil, 06500 Menton, France"
-48.8678374,2.3543099098,Elgi — St Martin,"327 Rue Saint-Martin, 75003 Paris, France"
-48.8623743,2.3781413,Elgi — St Ambroise,"18 Rue Saint-Ambroise, 75011 Paris, France"
-48.875096,2.3067276098,Elgi — Haussmann,"182 Boulevard Haussmann, 75008 Paris, France"
-48.869132,2.3632546098,Elgi — République,"4 Rue Beaurepaire, 75010 Paris, France"
-48.865672,2.3446376098,Elgi — Montorgueil,"64 Rue Montmartre, 75002 Paris, France"
-48.874093,2.3373066098,Elgi — La Fayette,"26 Rue la Fayette, 75009 Paris, France"
-48.8704851,2.3414878,Elgi — Bourse,"10 rue saint-marc, 75002 Paris, France"
-48.848684,2.3534576098,Le Puits de Légumes,"18 Rue du Cardinal Lemoine, 75005 Paris, France"
-48.846978,2.3517886098,Comptoir Méditerranée,"42 Rue du Cardinal Lemoine, 75005 Paris, France"
-48.857206,2.3592566098,King Falafel Palace,"26 Rue des Rosiers, 75004 Paris"
-50.63087,3.0555716098,Pica Tapas,"117 Rue Solférino, 59000 Lille"
-48.8742543,2.3832110098,Hobbes,"31 Avenue Simon Bolivar, 75019 Paris"
-47.206464,-1.5547213902,Le bistrot de l'île,"17 Rue la Tour d'Auvergne, 44200 Nantes, France"
-50.63641,3.0589636098,Pulp Kitchen,"106 Rue de l'Hôpital Militaire, 59000 Lille"
-48.884482,2.3233096098,Joy In Food,"2 Rue Truffaut, 75017 Paris, France"
-48.889873,2.3398836098,Hope café,"64 Rue Lamarck, 75018 Paris, France"
-48.871092,2.3582786098,Allen's Market,"33 Rue du Château d'Eau, 75010 Paris, France"
-48.863619,2.3488576098,Joe Allen,"30 Rue Pierre Lescot, 75001 Paris"
-48.848848,2.3254146098,Tugalik,"29 Rue Saint-Placide, 75006 Paris"
-48.850178,2.3779196098,La Gazzetta,"29 Rue de Cotte, 75012 Paris, France"
-48.879923,2.3573526098,Saravanaa Bhavan,"170 Rue du Faubourg Saint-Denis, 75010 Paris, France"
-48.854008,2.3357006098,Guen Mai,"6 Rue Cardinale, 75006 Paris"
-48.851907,2.3483096098,Le Grenier de Notre-Dame,"18 Rue de la Bûcherie, 75005 Paris, France"
-48.844019,2.3174256098,Ma grand-mère m'a dit,"1 Rue Falguière, 75015 Paris"
-48.867844,2.3352836098,Bioburger,"46 Passage Choiseul, 75002 Paris"
-48.86077,2.3454346098,Le Bio d'Adam et Ève,"41 Rue Saint Honoré, 75001 Paris"
-48.860531,2.3453156098,Saveurs Végét'Halles,"41 Rue des Bourdonnais, 75001 Paris"
-48.877128,2.3385106098,Pousse-Pousse,"5 Rue Notre Dame de Lorette, 75009 Paris"
-48.872115,2.3650796098,Le Comptoir Général,"80 Quai de Jemmapes, 75010 Paris"
-48.823433,2.3683916098,Green Garden,20 Rue nationale 75013 Paris
-48.86644,2.3315406098,Le Pain Quotidien — Paris St Honoré,"18 Place du Marché Saint-Honoré, 75001 Paris"
-48.866468,2.3470536098,Le Pain Quotidien — Paris Montorgueil,"2 Rue des Petits Carreaux, 75002 Paris"
-48.853782,2.3241876098,Le Pain Quotidien — Paris Varenne,"25 Rue de Varenne, 75007 Paris"
-48.8776168,2.3487292098,42 Degrés,"109 Rue du Faubourg Poissonnière, 75009 Paris"
-48.875025,2.3480376098,Café Pinson — Poissonière,"58 Rue du Faubourg Poissonnière, 75010 Paris"
-48.860949,2.3542486098,Le Potager du Marais,"24 Rue Rambuteau, 75004 Paris, France"
-48.862456,2.3619406098,M.O.B. Marais,"30 Rue Charlot, 75003 Paris, France"
-48.873056,2.3629936098,Sol Semilla,"23 Rue des Vinaigriers, 75010 Paris, France"
-48.868089,2.3699676098,Soya,"20 Rue de la Pierre Levée, 75011 Paris"
-48.8886441,2.3204164,My Kitch'n,"82 rue Lemercier, 75017, Paris"
-48.852929,2.3671846098,Café Ginger,"9 Rue Jacques Cœur, 75004 Paris, France"
-48.859843,2.3674696098,Loving Hut — Paris,"92 Boulevard Beaumarchais, 75011 Paris 11e arrondissement"
-48.881194,2.3136676098,Mum Dim Sum,"14 Boulevard de Courcelles, 75017 Paris"
-48.872044,2.3402246098,Chipotle Mexican Grill — Montmartre,"18-20 Boulevard Montmartre, 75009 Paris"
-48.863774,2.3628876098,Café Pinson — Forez,"6 Rue du Forez, 75003 Paris, France"
-48.864469,2.3543756098,Bob's Kitchen,"74 Rue des Gravilliers, 75003 Paris"
-48.870232,2.3688206098,Tien Hiang,"14 Rue Bichat, 75010 Paris"
-48.848945,2.3680916098,Gentle Gourmet Café,"24 Boulevard de la Bastille, 75012 Paris, France"
-48.855493,2.3740036098,Blue Elephant,"45 Rue de la Roquette, 75011 Paris, France"
-48.857451,2.3588886098,L'as du Fallafel,"32-34 Rue des Rosiers, 75004 Paris, France"
-48.876994,2.3478516098,VG,"85 Rue la Fayette, 75009 Paris, France"
-48.861316,2.3580446098,Hank,"55 Rue des Archives, 75003 Paris"
-48.853276,2.3414246098,Chez Le Libanais,"35 Rue Saint-André des Arts, 75006 Paris, France"
-48.861857,2.3729116098,East Side Burgers,"60 Boulevard Voltaire, 75011 Paris"
-48.840722,2.3695716098,M.O.B. Austerlitz,"34 Quai d'Austerlitz, 75013 Paris, France"
-48.85795,2.3461756098,Dernier Bar avant la Fin du Monde,"19 Avenue Victoria, 75001 Paris, France"
-48.866904,2.3469726098,Bollynan,"13 Rue des Petits Carreaux, 75002 Paris, France"
-48.873319,2.3444636098,Vegebowl,"3 Rue de la Boule Rouge, 75009 Paris, France"
-48.857857,2.3546596098,Le Pain Quotidien — Paris Archives,"18 Rue des Archives, 75004 Paris, France"
-48.852953,2.3453196098,Maoz,8 Rue Xavier Privas Paris
-48.85663,2.358123,Don's,"5 Rue des Ecouffes, 75004 Paris, France"
-49.497828,0.11168,Épices et tout,"92 Rue Docteur Vigne, 76600 Le Havre, France"
-50.359201,3.522195,MANKOUFU,"5 Avenue Georges Clemenceau, 59300 Valenciennes, France"
-48.85815,2.365367,Mai Thai,"24B Rue Saint-Gilles, 75003 Paris, France"
-47.217724,-1.555741,La Cantine de Livresse,"9 Rue de l'Hôtel de ville, 44000 Nantes, France"
-48.897628,2.344073,La REcyclerie,"83 Boulevard Ornano, 75018 Paris, France"
-48.866,2.37856,L'Esprit Tchaï,"115 Rue Oberkampf, 75011 Paris, France"
-48.109253,-1.682929,Apple Pie,"31 Rue de la Chalotais, 35000 Rennes, France"
-44.8322064,-0.5668818,La Soupe au Caillou,"6 Place du Maucaillou, 33800 Bordeaux, France"
-50.639954,5.581916,Le Mékong,"Rue Surlet 43, 4020 Liège, Belgique"
-48.844283,2.330445,Le Lucernaire,"53 Rue Notre Dame des Champs, 75006 Paris, France"
-47.9013499,1.9052823,Un piano dans la théière,"31 Rue Sainte-Catherine, 45000 Orléans, France"
-43.088433,1.875007,La Cardamone,"38 Place Maréchal Leclerc, 09500 Mirepoix, France"
-49.62794,6.129931,Gourmandises Permises,"15 Place François-Joseph Dargent, 1413 Luxembourg, Luxembourg"
-48.870195,2.368859,Le Bichat,"11 Rue Bichat, 75010 Paris, France"
-46.5484965,2.980569,Château d'Ygrande,"Le Mont, 03160 Ygrande"
-43.714883,-1.056912,Panier Amande,"25 Avenue du Sablar, 40100 Dax, France"
-48.581268,7.757109,Le Tarbouche,22 rue de la Krutenau Strasbourg
-48.879178,2.343234,Wally Le Saharien,"36 Rue Rodier, 75009 Paris, France"
-53.548499,9.962197,Veganimbiss Befried,"Friedrichstraße 3, 20359 Hamburg, Allemagne"
-46.8125145,1.691055,Nok Noy,"5 Place Robert Monestier, 36000 Châteauroux, France"
-44.857322,-0.560484,Rest'O,"16 Quai de Bacalan, 33300 Bordeaux, France"
-50.6522585,2.9862291,Salad & Co — Lille,14 ter rue du Château d'Isenghien 59160 Lomme
-50.615451,3.125197,Salad & Co — Villeneuve-d'Ascq,Salad&Co - Restaurant Villeneuve d'Ascq Centre commercial Heron Parc Avenue de l'Avenir 59650 Villeneuve d'Ascq
-48.583839,7.745721,Vert Ici,"31 Place Kléber, 67000 Strasbourg"
-52.356275,4.910002,Restaurant Beter & Leuk,1e Oosterparkstraat 73/91 1091 GW Amsterdam
-48.867786,2.33628,Vietnam in Paris,"52 Rue Sainte-Anne, 75002 Paris, France"
-48.114108,-1.679544,Al-saj,"5 Rue Motte Fablet, 35000 Rennes, France"
-45.7491583,4.8389205,BAP,"33 Rue Chevreul, 69007 Lyon, France"
-48.5835562,7.7545696,Hot Doggy Dog,"3 Rue de l'Arc en Ciel, 67000 Strasbourg, France"
-50.6296016,3.0617998,Bis 2 Fly,"19 Rue Nicolas Leblanc, 59000 Lille, France"
-45.766515,4.854869,Messob,"85 Rue Masséna, 69006 Lyon, France"
-43.7907595,7.6115829,I Sapori Della Tavola,"Via Camillo Benso Cavour, 58, 18039 Ventimiglia IM, Italie"
-48.857165,2.358965,Miznon,"22 Rue des Ecouffes, 75004 Paris, France"
-43.773658,11.258487,Panino Vegano,"Via Maurizio Bufalini, 19, 50122 Firenze, Italie"
-49.263575,-123.100747,The Wallflower Modern Diner,"2420 Main Street, Vancouver, BC V5T 3H9, Canada"
-49.2644662,-123.1010181,Foundation Eatery,"2301 Main Street, Vancouver, BC V5T 1M6, Canada"
-48.1153,-1.67891,Le Coucou Rennais,"20 Rue d'Antrain, 35000 Rennes, France"
-48.1120085,-1.6754512,India,"41 Rue Saint-Georges, 35000 Rennes, France"
-52.528729,13.397016,Kopps,"Linienstraße 94, 10115 Berlin, Allemagne"
-52.507663,13.454464,Emma Pea,"Revaler Straße 99, 10245 Berlin, Allemagne"
-52.534608,13.399109,The Jivamukti Canteen,"Brunnenstraße 29, 10119 Berlin, Allemagne"
-52.53048,13.40248,Daluma,"Weinbergsweg 3, 10119 Berlin, Allemagne"
-52.506726,13.468771,Vöner,"Boxhagener Straße 56, 10245 Berlin, Allemagne"
-46.580787,0.341065,Wasabi,"11 Rue du Chaudron d'Or, 86000 Poitiers, France"
-48.861741,2.351497,Oh' Bio,"58 Rue Rambuteau, 75004 Paris, France"
-43.7818456,11.2602543,Dolce Vita Vegan,"Via San Gallo, 92, 50129 Firenze, Italie"
-44.8388019,-0.5790174,Le Pain Quotidien — Bordeaux,"64 Rue des Remparts, 33000 Bordeaux, France"
-48.852892,2.3751006,Le Pain Quotidien — Paris Charonne,"24 Rue de Charonne, 75011 Paris, France"
-45.186912,5.718362,Bombay,"60 Cours Jean Jaurès, 38000 Grenoble"
-49.602932,6.134702,Chez Julie,"17 Rue de Bonnevoie, 1260 Luxembourg, Luxembourg"
-44.752849,5.37115,Tchai Walla,"8 Rue Joseph Reynaud, 26150 Die, France"
-48.861835,2.380388,Balls,"47 Rue Saint-Maur, 75011 Paris, France"
-43.926654,2.146817,Le Tournesol,"11 Rue de l'Ort en Salvy, 81000 Albi, France"
-47.214882,-1.537925,Little Wokyo,"1 Rue Marcel Paul, 44000 Nantes, France"
-45.188046,5.716985,Le Phenicien,"51 Cours Berriat, 38000 Grenoble, France"
-45.757649,4.840943,Mendo,"26 Quai Victor Augagneur, 69003 Lyon, France"
-46.5864265,0.3381429,La nouvelle cantine du plan B,"32 Boulevard du Grand Cerf, 86000 Poitiers, France"
-49.443202,1.086562,Rest'O'Rock,"15 Rue Thomas Corneille, 76000 Rouen"
-45.7652276,4.8956656,Caravanserail Café,"150 Rue du 4 Août 1789, 69100 Villeurbanne"
-42.697473,2.893296,Bio Deux Anges,"Rue des Augustins, 66000 Perpignan"
-47.687313,-1.735534,Veg Mama,"1 Place de la Mairie, 44290 Pierric, France"
-51.541344,-0.144568,InSpiral Lounge,"250 Camden High Street, London NW1 8QS, Royaume-Uni"
-51.51687,-0.200337,Nama,"110 Talbot Road, London W11 1JR, Royaume-Uni"
-51.52629,-0.108157,Hummus Bros — Exmouth Market,"62 Exmouth Market, London EC1R 4QE, Royaume-Uni"
-51.514315,-0.095145,Hummus Bros — Cheapside,"128 Cheapside, London EC2V 6BT, Royaume-Uni"
-51.519228,-0.121584,Hummus Bros — Southampton,"37 Southampton Row, London WC1A 2QP, Royaume-Uni"
-51.513245,-0.133746,Hummus Bros — Soho,"88 Wardour Street, Soho, London W1F, Royaume-Uni"
-51.440104,-0.105793,Greenz,"5 Station Rise, West Norwood, London SE27 9BW, Royaume-Uni"
-51.529717,-0.116093,Itadaki Zen,"139 King's Cross Road, Kings Cross, London WC1X 9BJ, Royaume-Uni"
-51.615167,-0.275487,Loving Hut — Edgware,"236 Station Road, Edgware, Greater London HA8 7AU, Royaume-Uni"
-51.536151,-0.139153,Loving Hut — Plender Street,"3 Plender Street, London NW1 0JT, Royaume-Uni"
-51.564966,-0.133302,Loving Hut — Holloway Road,"669 Holloway Road, London N19 5SE, Royaume-Uni"
-51.514161,-0.125593,Food For Thought,"31 Neal Street, London WC2H 9PR, Royaume-Uni"
-51.484641,-0.120172,Bonnington Cafe,"11 Vauxhall Grove, London SW8, Royaume-Uni"
-51.5130496,-0.1363347,Mildreds,"45 Lexington St, London W1F 9AN, Royaume-Uni"
-51.486043,-0.203044,222 Veggie Vegan,"222 North End Road, London W14 9NU, Royaume-Uni"
-48.8593148,2.3488504,Siam,"12 boulevard sébastopol, 75004 Paris, France"
-47.318782,5.035758,Les treize lucioles,"13 Place Emile Zola, 21000 Dijon"
-50.2877239,2.7797696,Mezzaluna,"10 Rue Gambetta, 62000 Arras, France"
-45.5015541,-73.5707541,Végo — McGill,"1204 Avenue McGill College, Montréal, QC H3B 4J8, Canada"
-45.515529,-73.564684,Végo — St-Denis,"1720 Rue Saint-Denis, Montréal, QC H2X 3K4, Canada"
-45.521636,-73.585094,La Panthère Verte / The Green Panther,"2153 Rue Mackay, Montréal, QC H3G 2J2, Canada"
-43.657861,7.188125,Dame Nature,"167 Promenade des Flots Bleus, 06700 Saint-Laurent-du-Var, France"
-47.3940234,0.6806345,Goûter chez Sam,"6 Place du Grand Marché, 37000 Tours, France"
-47.39482,0.68348,Chez Habibi,"83 Rue du Commerce, 37000 Tours, France"
-48.854829,2.375873,DUNE,"20 Rue Keller, 75011 Paris, France"
-47.745519,7.335944,Pum,"7 Rue du Mittelbach, 68100 Mulhouse, France"
-48.688581,6.184872,La Table du petit Chaouen,"27 Rue des Sœurs Macarons, 54000 Nancy, France"
-48.84924,2.282576,Chipotle Mexican Grill — Beaugrenelle,"1 Rue Linois, Paris"
-44.8360024,-0.5782331,Greedy,62-64 avenue du Hâ 33000 Bordeaux
-44.8407178,-0.5817206,Smart Green Corner,"20 Rue Castelnau d'Auros, 33000 Bordeaux, France"
-49.2541254,4.0271496,Un indien dans la ville,"7 Place Drouet d'Erlon, 51100 Reims, France"
-47.74439,7.334149,La Tête de Chou,"14 Rue des Trois Rois, 68100 Mulhouse"
-48.890961,2.23681,Chipotle Mexican Grill — La Défense,"Centre Commercial Les 4 Temps, Les 4 Temps, 15 Parvis de la Défense, 92800 Puteaux"
-43.603666,1.435024,Le bonheur est dans le pot,"17 Place Saint-Pierre, 31000 Toulouse, France"
-47.473429,-0.550914,Au murmure des carottes,"60 Rue du Mail, 49100 Angers, France"
-48.851807,2.317827,Ô Soleil De Naples,"56 Rue de Babylone, 75007 Paris, France"
-45.775967,4.834988,Le jardin intérieur,"2 Rue Belfort, 69004 Lyon"
-48.9053123,2.3443946,HighTall Vital,"101 Avenue Michelet, 93400 Saint-Ouen, France"
-48.849172,2.339555,Indonesia,"3 Rue de Vaugirard, 75006 Paris, France"
-43.292963,5.377683,Country Life Marseille,"14 Rue Venture, 13001 Marseille, France"
-43.551947,7.017914,Citronelle,"16 Rue Bivouac Napoléon, 06400 Cannes, France"
-48.840808,2.388183,Oulala Traiteur,"189 Rue de Charenton, 75012 Paris, France"
-46.813198,-71.227592,Om Prana,"241 Rue Saint-Joseph E, Québec, QC G1K 3E8, Canada"
-43.439236,-1.590062,The Nourishing Box,"Bidart, France"
-41.380379,2.177321,Gopal,"Carrer dels Escudellers, 42, 08002 Barcelona, Barcelona, Espagne"
-41.380213,2.169117,Juicy Jones,"Carrer del Cardenal Casañas, 7, 08002 Barcelona, Espagne"
-41.382234,2.16802,Veggie Garden,"Carrer dels Àngels, 3, 08001 Barcelona, Espagne"
-52.512776,13.462259,Ohlala,"Mainzer Straße 18, 10247 Berlin, Allemagne"
-48.847396,2.370421,Sain bio'z,"34 Avenue Ledru-Rollin, 75012 Paris, France"
-49.252355,4.025402,La Maison de Mademoiselle Thi,"130 Rue de Vesle, 51100 Reims, France"
-48.84264,2.502401,Les Délices de Gigi,67 Avenue Ledru Rollin Le Perreux-sur-Marne
-45.779413,3.084425,La BerGaMoThée,"1 Place du Mazet, 63000 Clermont-Ferrand"
-48.859407,2.3641116,Jay & Joy,"3 Rue Sainte-Anastase, 75003 Paris, France"
-50.8785463,4.7033041,Vegaverso,"Tiensestraat 20, 3000 Leuven, Belgique"
-51.5419196,-0.1576342,Manna,"4 Erskine Rd, London NW3 3AJ, Royaume-Uni"
-37.174185,-3.595034,Hicuri Art Vegan,"Plaza de los Gironés, 4, 18009 Granada, Granada, Espagne"
-50.6418979,2.9952964,Celebrazioni,"121 Rue Anne Delavaux, 59160 Lille, France"
-50.8279017,4.3704285,Ami,"Rue Lesbroussart 13, 1050 Ixelles, Belgique"
-50.845528,4.3486944,Kokob,"Rue des Grands Carmes 10-12, 1000 Bruxelles, Belgique"
-48.584386,7.751441,Une fleur des champs,"4 Rue des Charpentiers, 67000 Strasbourg, France"
-48.865864,2.336838,Damouri,"41 Rue de Richelieu, 75001 Paris, France"
-48.866854,2.307657,Siamin,"19 Rue Bayard, 75008 Paris, France"
-48.832281,2.34607,Van Long,"9 Rue du Champ de l'Alouette, 75013 Paris, France"
-49.184474,-0.359757,Dolly's,"16 Avenue de la Libération, 14000 Caen, France"
-48.815483,2.320507,Le Titi Touareg,"92 Avenue Henri Ginoux, 92120 Montrouge"
-46.5215074,6.6399952,Le Nil Bleu,"Place de l'Ours 1, 1005 Lausanne, Suisse"
-52.376602,4.89464,TerraZen Centre,"Sint Jacobsstraat 19 HS, 1012 NC Amsterdam, Pays-Bas"
-46.946945,7.442001,Tibits — Bern,"Gurtengasse 3, 3011 Bern, Suisse"
-46.985813,6.837599,L'Aubier Eco-Hôtel Montezillon,"Les Murailles 5, 2037 Montézillon, Suisse"
-46.990594,6.929994,L'Ami Ami,"Rue du Bassin 8, 2000 Neuchâtel, Suisse"
-49.253018,4.028425,Le Cèdre du Liban,"5, avenue du Maine 75015 Paris"
-43.614082,3.877319,L'oignon givré,"46 Rue de l'Université, 34000 Montpellier, France"
-11.2520958,-85.870302,Buddha's Garden,"Avenida la Bolsa, San Juan Del Sur, Nicaragua"
-48.882816,2.373328,Les Marmites Volantes,"69 Rue Armand Carrel, 75019 Paris, France"
-48.871558,2.350542,La Petite Chaufferie,"32 Rue de l'Échiquier, 75010 Paris, France"
-48.86125,2.360597,Yuman,"70 Rue du Chevaleret, 75013 Paris"
-48.880667,2.344065,Pizza di Loretta,"62 Rue Rodier, 75009 Paris, France"
-50.635617,3.063382,Le Pain Quotidien — Lille Rihour,"35 Place Rihour, 59800 Lille, France"
-48.866968,2.278705,Le Pain Quotidien — Paris Victor Hugo,"150 Avenue Victor Hugo, 75116 Paris"
-37.390247,-6.001638,Gaia,"Calle Luis de Vargas, 4, 41001 Sevilla, Sevilla, Espagne"
-43.610145,3.879352,Tripti Kulai,"20 Rue Jacques Cœur, 34000 Montpellier"
-48.21558,16.379714,Harvest Café,"Karmeliterplatz 1, 1020 Wien, Autriche"
-43.5910499,1.4447411,Manger autrement chez Prasad,"155 Grande Rue Saint-Michel, 31400 Toulouse, France"
-47.90023,1.909244,Angkor,"228 Rue de Bourgogne, 45000 Orléans"
-43.6044432,1.4525187,Le Yéti,"21 Rue de la Colombette, 31000 Toulouse"
-50.362408,3.51729,Sushi Val,"41 Avenue du Sénateur Girard, 59300 Valenciennes, France"
-48.102353,-1.71337,Pique-Prune — Cleuney,"132 Rue Eugène Pottier, 35000 Rennes, France"
-48.637804,-2.019055,Café Crêperie de la Plage,Rue des Bas Sablons Saint-Malo
-48.778591,2.29121,Crêperie Garnier,"4 Place du Général de Gaulle, 92330 Sceaux"
-43.299375,5.377497,Grain de Sable,"34 Rue du Baignoir, 13001 Marseille, France"
-48.8662633,2.3359813,Nest ,"9 Rue Villedo, 75001 Paris, France"
-48.879205,2.366605,Kheak & Vero,"1 Rue Alexandre Parodi, 75010 Paris"
-48.115284,-1.678789,Black Temple Food,"4 Passage des Carmélites, 35000 Rennes, France"
-48.8410204,2.3616779,Bibimbap,"32 Boulevard de l'Hôpital, 75005 Paris, France"
-48.910865,2.333678,Bon Appétit,"9 Avenue Gabriel Péri, 93400 Saint-Ouen, France"
-48.853872,2.420556,Casa Poblano,"15 Rue Lavoisier, 93100 Montreuil, France"
-47.394401,0.680694,Shelter,"19 Rue du Grand Marché, 37000 Tours, France"
-43.2894616,5.387347,Londonewyork,"77 Rue de Lodi, 13006 Marseille, France"
-50.68932,3.170688,Cooperative Baraka,"20 Rue de Sébastopol, 59100 Roubaix, France"
-48.846793,2.293889,Brasserie Lola,99 rue du Théâtre Paris
-48.8748153,2.3255444,La pause libanaise,"08 Rue de l'Isly, 75008 Paris, France"
-46.3484289,6.3564332,Ed's kitchen,"Route du Lac, 74140 Excenevex, France"
-48.877809,2.348814,La Presqu'Ile,"113 Rue du Faubourg Poissonnière, 75009 Paris, France"
-45.192513,5.730308,Wokbar,"14 Rue Barnave, 38000 Grenoble, France"
-45.1652784,5.6970649,Sapori Antichi,"69 Rue de la Liberté, 38180 Seyssins, France"
-48.867757,2.335389,Végitaï,"39/41 Passage Choiseul, 75002 Paris"
-48.863434,2.363132,Nanashi,"57 Rue Charlot, 75003 Paris, France"
-48.825504,2.353736,La bonne heure,"72 Rue du Moulin des Prés, 75013 Paris, France"
-16.2417301,-61.5658402,Vapor é Vous,"Immeuble Tsahal, 51 rue Becquerel, Jarry, Guadeloupe"
-45.88187,-1.251585,Maha Prana,"20 Route du Large, 17550 Dolus-d'Oléron"
-46.207108,6.145691,Qibi Urban Smart Food,"Rue Kléberg 12, 1201 Genève, Suisse"
-48.885204,2.365449,Cantine Vagabonde,"11 Rue d'Aubervilliers, 75019 Paris, France"
-48.861174,2.344402,Beytouti,"44 Rue Saint Honoré, 75001 Paris, France"
-48.851807,2.366342,Grand Appétit,"9 Rue de la Cerisaie, 75004 Paris, France"
-44.8355503,-0.5836331,La cuisine de Johanna,"44 Cours Anatole France, 33000 Bordeaux, France"
-48.114765,-1.676024,Dolma,"36 Rue Saint-Melaine, 35000 Rennes, France"
-48.114367,-1.679732,Ethnic Food,"3 Place Sainte-Anne, 35000 Rennes, France"
-48.867429,2.344029,Loumi's,"106 Rue Montmartre, 75002 Paris, France"
-48.908821,0.26453,La Maison du Vert,"70 Le Bourg, 61120 Ticheville, France"
-43.608501,1.449604,Ô Bali,"31 Rue Denfert Rochereau, 31000 Toulouse, France"
-51.217365,4.403891,Lombardia Natural Food,"Lombardenvest 78, 2000 Antwerpen, Belgique"
-50.630081,3.057225,Sushi Boutik,"133 Rue Solférino, 59000 Lille, France"
-48.1392776,-1.6910584,Pique-Prune — St Grégoire,"8 Allée de la Cerisaie, 35760 Saint-Grégoire, France"
-48.1132017,-1.6069621,Pique-Prune — Cesson,"8 Avenue des Peupliers, 35510 Cesson-Sévigné, France"
-50.63257,3.065109,La Source,"13 Rue du Plat, 59800 Lille, France"
-50.6296873,3.0610696,Cô Dô Huê,"16 Rue Nicolas Leblanc, 59000 Lille, France"
-43.609681,3.875809,Umiyaki,"9 Rue de la Friperie, 34000 Montpellier, France"
-43.579882,7.125551,Chez Helen,"35 Rue des Revennes, 06600 Antibes"
-47.899667,1.909367,Hikari,"28 Rue de la Poterne, 45000 Orléans, France"
+latitude,longitude,name,address,map_url
+47.8991593,1.906665299999986,Au bon marché,"12 Place du châtelet, 45000 Orléans",http://www.openstreetmap.org/?mlat=47.8991593&mlon=1.906665299999986#map=4/47.8991593/1.906665299999986/m
+43.6117398,3.878945799999997,La Mezzanine,39 Rue de l'Aiguillerie 34000 Montpellier,http://www.openstreetmap.org/?mlat=43.6117398&mlon=3.878945799999997#map=4/43.6117398/3.878945799999997/m
+48.8628544,2.3495186000000103,Ravioli Nord Est,115 Rue Saint-Denis 75001 Paris,http://www.openstreetmap.org/?mlat=48.8628544&mlon=2.3495186000000103#map=4/48.8628544/2.3495186000000103/m
+43.5981845,1.4442781999999852,Batbat,"8 Rue des Filatiers, 31000 Toulouse",http://www.openstreetmap.org/?mlat=43.5981845&mlon=1.4442781999999852#map=4/43.5981845/1.4442781999999852/m
+43.2996407,5.384010799999942,Les Ondines,19 rue St-Bazile 13001 Marseille,http://www.openstreetmap.org/?mlat=43.2996407&mlon=5.384010799999942#map=4/43.2996407/5.384010799999942/m
+51.03530259999999,2.379811199999949,Green is better,"35 Rue du Président Poincaré, 59140 Dunkerque",http://www.openstreetmap.org/?mlat=51.03530259999999&mlon=2.379811199999949#map=4/51.03530259999999/2.379811199999949/m
+49.182863,-0.37067899999999554,Un sourire dans l'assiette,"Caen
+",http://www.openstreetmap.org/?mlat=49.182863&mlon=-0.37067899999999554#map=4/49.182863/-0.37067899999999554/m
+50.6202627,3.0520354000000225,Cantine vegan du Centre Culturel Libertaire,4 rue de Colmar 59000 LILLE,http://www.openstreetmap.org/?mlat=50.6202627&mlon=3.0520354000000225#map=4/50.6202627/3.0520354000000225/m
+45.8238121,4.7920345,Cigkoftem — Lyon,"17 avenue Jean Jaurès, 69003 Lyon",http://www.openstreetmap.org/?mlat=45.8238121&mlon=4.7920345#map=4/45.8238121/4.7920345/m
+48.8432286,2.3853430000000344,PIGUT Stages gourmands de cuisine bio végétale,Rue de Charenton 75012 Paris,http://www.openstreetmap.org/?mlat=48.8432286&mlon=2.3853430000000344#map=4/48.8432286/2.3853430000000344/m
+47.3234548,5.036514500000067,Lulu Graine d'un Monde,"12 Rue de la Poste, 21000 Dijon",http://www.openstreetmap.org/?mlat=47.3234548&mlon=5.036514500000067#map=4/47.3234548/5.036514500000067/m
+50.6379514,3.0694588000000067,Houé,15 Rue du Vieux Faubourg 59000 Lille,http://www.openstreetmap.org/?mlat=50.6379514&mlon=3.0694588000000067#map=4/50.6379514/3.0694588000000067/m
+49.1220943,6.177954799999952,Les petits zozios,"35 rue des Jardins, 57000 Metz",http://www.openstreetmap.org/?mlat=49.1220943&mlon=6.177954799999952#map=4/49.1220943/6.177954799999952/m
+48.827477,2.3256708539454,Caprice café,"12 avenue Jean Moulin, 75014 Paris",http://www.openstreetmap.org/?mlat=48.827477&mlon=2.3256708539454#map=4/48.827477/2.3256708539454/m
+42.6983003,2.8962433000000374,La révolution verte,"5 Rue du Théâtre, 66000 Perpignan",http://www.openstreetmap.org/?mlat=42.6983003&mlon=2.8962433000000374#map=4/42.6983003/2.8962433000000374/m
+43.61173360000001,3.8781593999999586,Les demoiselles de Montpellier,"2, rue de la Carbonnerie, 34000 Montpellier",http://www.openstreetmap.org/?mlat=43.61173360000001&mlon=3.8781593999999586#map=4/43.61173360000001/3.8781593999999586/m
+44.620909,4.389862999999991,La pause verte,Aubenas,http://www.openstreetmap.org/?mlat=44.620909&mlon=4.389862999999991#map=4/44.620909/4.389862999999991/m
+47.0842523,2.398937599999954,Les trois cuillères,38 rue Bourbonnoux 18000 Bourges,http://www.openstreetmap.org/?mlat=47.0842523&mlon=2.398937599999954#map=4/47.0842523/2.398937599999954/m
+47.7468644,7.3336289999999735,BIOfresh,36 rue de l'arsenal 68100 Mulhouse,http://www.openstreetmap.org/?mlat=47.7468644&mlon=7.3336289999999735#map=4/47.7468644/7.3336289999999735/m
+48.8811256,2.312641900000017,Rimal,"94 bd Malesherbes, 75017 Paris",http://www.openstreetmap.org/?mlat=48.8811256&mlon=2.312641900000017#map=4/48.8811256/2.312641900000017/m
+43.7039464,7.265218600000026,Alounak,"3, rue Alsace Lorraine, 06000 Nice",http://www.openstreetmap.org/?mlat=43.7039464&mlon=7.265218600000026#map=4/43.7039464/7.265218600000026/m
+48.8283773,2.3261454999999387,L'éphémère,"228 Avenue du Maine, 75014 Paris",http://www.openstreetmap.org/?mlat=48.8283773&mlon=2.3261454999999387#map=4/48.8283773/2.3261454999999387/m
+50.624249,3.0644181999999773,Liquium,"71 Rue Jeanne d'Arc, 59000 Lille",http://www.openstreetmap.org/?mlat=50.624249&mlon=3.0644181999999773#map=4/50.624249/3.0644181999999773/m
+48.8629889,2.3640720999999303,Ob-La-Di Café,"54 rue de Saintonge, 75003 Paris",http://www.openstreetmap.org/?mlat=48.8629889&mlon=2.3640720999999303#map=4/48.8629889/2.3640720999999303/m
+48.8754847,2.349204900000018,Le tricycle,"51 rue de Paradis, 75010 Paris",http://www.openstreetmap.org/?mlat=48.8754847&mlon=2.349204900000018#map=4/48.8754847/2.349204900000018/m
+47.394694,0.6829205000000229,Habibi 2.0,100 rue du commerce 37000 Tours,http://www.openstreetmap.org/?mlat=47.394694&mlon=0.6829205000000229#map=4/47.394694/0.6829205000000229/m
+49.4978279,0.11168050000003404,Casse-Noisette,92 rue Docteur Vigne 76600 Le Havre,http://www.openstreetmap.org/?mlat=49.4978279&mlon=0.11168050000003404#map=4/49.4978279/0.11168050000003404/m
+47.8985272,1.9074282999999923,Oh Terroir (version Fast Good),3 rue des Halles 45000 Orléans,http://www.openstreetmap.org/?mlat=47.8985272&mlon=1.9074282999999923#map=4/47.8985272/1.9074282999999923/m
+49.107342,6.179083499999933,Le GREEN se met au Vert,"24, avenue Francois Mitterrand 57000 Metz",http://www.openstreetmap.org/?mlat=49.107342&mlon=6.179083499999933#map=4/49.107342/6.179083499999933/m
+48.88816809999999,2.3624482999999827,Les Petites Gouttes,"12 esplanade Nathalie Sarraute, 75018 PARIS",http://www.openstreetmap.org/?mlat=48.88816809999999&mlon=2.3624482999999827#map=4/48.88816809999999/2.3624482999999827/m
+48.8653337,2.350294500000018,Twinkie,"167 Rue Saint-Denis, 75002 Paris",http://www.openstreetmap.org/?mlat=48.8653337&mlon=2.350294500000018#map=4/48.8653337/2.350294500000018/m
+50.4366525,30.52031110000007,I Live Coffee,"Esplanadna St, 32, Kiev, Ukraine",http://www.openstreetmap.org/?mlat=50.4366525&mlon=30.52031110000007#map=4/50.4366525/30.52031110000007/m
+49.2572048,4.031408599999963,Chez Lou,"4 rue de Pouilly, 51100 Reims",http://www.openstreetmap.org/?mlat=49.2572048&mlon=4.031408599999963#map=4/49.2572048/4.031408599999963/m
+48.5860789,7.770806799999946,Velicious,"43 rue Geiler, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5860789&mlon=7.770806799999946#map=4/48.5860789/7.770806799999946/m
+45.9040336,6.1303067000000055,Granny Smith,"4, Rue Louis Revon, 74000 Annecy",http://www.openstreetmap.org/?mlat=45.9040336&mlon=6.1303067000000055#map=4/45.9040336/6.1303067000000055/m
+50.62750570000001,3.0621737999999823,Wally's coffee,"19 place Philippe Lebon, 59000 Lille",http://www.openstreetmap.org/?mlat=50.62750570000001&mlon=3.0621737999999823#map=4/50.62750570000001/3.0621737999999823/m
+48.869522,2.356062100000031,Distrito Francés,"10 rue du faubourg Saint Martin, 75010 Paris",http://www.openstreetmap.org/?mlat=48.869522&mlon=2.356062100000031#map=4/48.869522/2.356062100000031/m
+45.591055,4.0725932000000284,Aux idées reçues,15 rue de st antheme 42600 moingt (Monbrison),http://www.openstreetmap.org/?mlat=45.591055&mlon=4.0725932000000284#map=4/45.591055/4.0725932000000284/m
+43.96010709999999,4.723457999999937,Ooh la la Obanyaki,"Vaucluse, Gard, Hérault",http://www.openstreetmap.org/?mlat=43.96010709999999&mlon=4.723457999999937#map=4/43.96010709999999/4.723457999999937/m
+48.8487257,2.3402840999999626,Furahaa Candy,"44, rue Monsieur le Prince 75006 Paris",http://www.openstreetmap.org/?mlat=48.8487257&mlon=2.3402840999999626#map=4/48.8487257/2.3402840999999626/m
+48.8790612,2.3447297000000162,Le Potager de Charlotte,"12 Rue de la Tour d'Auvergne, 75009 Paris",http://www.openstreetmap.org/?mlat=48.8790612&mlon=2.3447297000000162#map=4/48.8790612/2.3447297000000162/m
+48.8671055,2.3325439000000188,Terra Culinaria Gastronomie Végétale,36 Place du Marché Saint Honoré 75001 Paris,http://www.openstreetmap.org/?mlat=48.8671055&mlon=2.3325439000000188#map=4/48.8671055/2.3325439000000188/m
+50.630458,3.050794699999983,Pizza Jazz,"56 rue des Stations, 59000 Lille",http://www.openstreetmap.org/?mlat=50.630458&mlon=3.050794699999983#map=4/50.630458/3.050794699999983/m
+50.645516,5.577735100000041,Bo Bun,"19-21 rue de la Boucherie Liège, Belgique",http://www.openstreetmap.org/?mlat=50.645516&mlon=5.577735100000041#map=4/50.645516/5.577735100000041/m
+48.8509611,2.3325241000000005,Yoom — Maison de la Chine,76 rue Bonaparte 75006 Paris,http://www.openstreetmap.org/?mlat=48.8509611&mlon=2.3325241000000005#map=4/48.8509611/2.3325241000000005/m
+48.8736475,2.332238299999972,Yoom — Galeries Lafayette,40 boulevard Haussmann 75009 Paris,http://www.openstreetmap.org/?mlat=48.8736475&mlon=2.332238299999972#map=4/48.8736475/2.332238299999972/m
+48.8779067,2.339644099999987,Yoom — Rue des Martyrs,20 rue des Martyrs 75009 Paris,http://www.openstreetmap.org/?mlat=48.8779067&mlon=2.339644099999987#map=4/48.8779067/2.339644099999987/m
+48.88377329999999,2.321624799999995,Yoom — Batignolles,59 rue des Dames 75017 Paris,http://www.openstreetmap.org/?mlat=48.88377329999999&mlon=2.321624799999995#map=4/48.88377329999999/2.321624799999995/m
+48.8534332,2.3379712999999356,Yoom — St Germain des Prés,5 rue Grégoire de Tours 75006 Paris,http://www.openstreetmap.org/?mlat=48.8534332&mlon=2.3379712999999356#map=4/48.8534332/2.3379712999999356/m
+46.5138205,6.617969600000038,Veganopolis Café,"Avenue des Bains 4C, 1007 Lausanne, Suisse",http://www.openstreetmap.org/?mlat=46.5138205&mlon=6.617969600000038#map=4/46.5138205/6.617969600000038/m
+48.8643649,2.341499399999975,La guinguette d'Angèle,34 rue Coquillière 75001 Paris,http://www.openstreetmap.org/?mlat=48.8643649&mlon=2.341499399999975#map=4/48.8643649/2.341499399999975/m
+48.8521295,2.340991499999973,La vie en fruits,"116 Boulevard Saint-Germain, 75006 Paris",http://www.openstreetmap.org/?mlat=48.8521295&mlon=2.340991499999973#map=4/48.8521295/2.340991499999973/m
+48.8554002,2.381553800000006,Bears & Raccoons,"21 Rue Richard Lenoir, 75011 Paris",http://www.openstreetmap.org/?mlat=48.8554002&mlon=2.381553800000006#map=4/48.8554002/2.381553800000006/m
+48.8755834,2.3487668000000212,Le Veganovore,55 rue de Paradis 75010 Paris,http://www.openstreetmap.org/?mlat=48.8755834&mlon=2.3487668000000212#map=4/48.8755834/2.3487668000000212/m
+-17.5516251,-149.5584758,Le J'Âm,"10, rue Charles Vienot - BP 42430, Papeete",http://www.openstreetmap.org/?mlat=-17.5516251&mlon=-149.5584758#map=4/-17.5516251/-149.5584758/m
+48.5826194,7.7390764916568,Fior di pizza,"2 Grand Rue, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5826194&mlon=7.7390764916568#map=4/48.5826194/7.7390764916568/m
+48.864588,2.3686749999999392,Veg'Art,123 rue d'Oberkampf 75011 Paris,http://www.openstreetmap.org/?mlat=48.864588&mlon=2.3686749999999392#map=4/48.864588/2.3686749999999392/m
+48.8733032,2.3647123000000647,Carmen Ragosta,8 rue de la grange aux belles 75010 Paris,http://www.openstreetmap.org/?mlat=48.8733032&mlon=2.3647123000000647#map=4/48.8733032/2.3647123000000647/m
+45.7521535,4.840260899999976,Fahima Tandoori,"36 Rue de Marseille, 69007 Lyon",http://www.openstreetmap.org/?mlat=45.7521535&mlon=4.840260899999976#map=4/45.7521535/4.840260899999976/m
+35.6633635,139.71274979999998,Pure Cafe,"5 Chome-5-２１ Minamiaoyama, Minato, Tokyo 107-0062, Japon",http://www.openstreetmap.org/?mlat=35.6633635&mlon=139.71274979999998#map=4/35.6633635/139.71274979999998/m
+48.82747699999999,2.3255344000000377,Caprice Café,"12 Avenue Jean Moulin, 75014 Paris",http://www.openstreetmap.org/?mlat=48.82747699999999&mlon=2.3255344000000377#map=4/48.82747699999999/2.3255344000000377/m
+48.8484638,2.3781980999999632,La boucherie végétarienne,"10 place d'aligre, 75012 Paris",http://www.openstreetmap.org/?mlat=48.8484638&mlon=2.3781980999999632#map=4/48.8484638/2.3781980999999632/m
+48.86782909999999,2.343478399999981,Le So,"93 Rue Montmartre, 75002 Paris",http://www.openstreetmap.org/?mlat=48.86782909999999&mlon=2.343478399999981#map=4/48.86782909999999/2.343478399999981/m
+16.1302222,-61.593810899999994,Passe le mic,"Chemin des Mineurs, Goyave, Guadeloupe",http://www.openstreetmap.org/?mlat=16.1302222&mlon=-61.593810899999994#map=4/16.1302222/-61.593810899999994/m
+43.6128233,3.876791899999944,La Coutinelle,25 rue de l'université 34070 Montpellier,http://www.openstreetmap.org/?mlat=43.6128233&mlon=3.876791899999944#map=4/43.6128233/3.876791899999944/m
+16.265,-61.55099999999999,Smooth'Sea,"Rue Benoît Cassin, Les Saintes (commune de Terre-de-Haut), Guadeloupe",http://www.openstreetmap.org/?mlat=16.265&mlon=-61.55099999999999#map=4/16.265/-61.55099999999999/m
+16.265,-61.55099999999999,Snack,"Rue Théodore Samson, Les Saintes (commune de Terre-de-Haut), Guadeloupe",http://www.openstreetmap.org/?mlat=16.265&mlon=-61.55099999999999#map=4/16.265/-61.55099999999999/m
+16.265,-61.55099999999999,Escale Créole,"419 Route du Bois-Joli, Les Saintes (commune de Terre-de-Haut), Guadeloupe",http://www.openstreetmap.org/?mlat=16.265&mlon=-61.55099999999999#map=4/16.265/-61.55099999999999/m
+48.0741097,7.356944500000054,100% le bar à jus,2 rue Saint Jean 68000 Colmar,http://www.openstreetmap.org/?mlat=48.0741097&mlon=7.356944500000054#map=4/48.0741097/7.356944500000054/m
+44.08851,-1.3131465000000162,Psychédélice,"1003 avenue de l'océean, 40170 Contis Plage",http://www.openstreetmap.org/?mlat=44.08851&mlon=-1.3131465000000162#map=4/44.08851/-1.3131465000000162/m
+48.8750843,2.3484588999999687,Eatme — Poissonnière,"58 Rue du Faubourg Poissonnière, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.8750843&mlon=2.3484588999999687#map=4/48.8750843/2.3484588999999687/m
+48.8739998,2.3037233000000015,Eatme — Washington,"35 Rue de Washington, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.8739998&mlon=2.3037233000000015#map=4/48.8739998/2.3037233000000015/m
+48.8715061,2.3215324000000237,Eatme — Anjou,"29 Rue d'Anjou, Paris, France",http://www.openstreetmap.org/?mlat=48.8715061&mlon=2.3215324000000237#map=4/48.8715061/2.3215324000000237/m
+48.8667452,2.3444887000000563,Eatme — Montorgueil,"38 Rue Léopold Bellan, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.8667452&mlon=2.3444887000000563#map=4/48.8667452/2.3444887000000563/m
+48.87369839999999,2.3480606000000535,Fée Nature — Paris 10,"40 bis, rue du faubourg Poissonnière 75010 Paris",http://www.openstreetmap.org/?mlat=48.87369839999999&mlon=2.3480606000000535#map=4/48.87369839999999/2.3480606000000535/m
+48.866398,2.343939999999975,Fée Nature — Paris 2,69 rue d'Argout 75002 Paris,http://www.openstreetmap.org/?mlat=48.866398&mlon=2.343939999999975#map=4/48.866398/2.343939999999975/m
+46.121399,3.42154000000005,Keck's Café,"16 Rue d'Allier, 03200 Vichy",http://www.openstreetmap.org/?mlat=46.121399&mlon=3.42154000000005#map=4/46.121399/3.42154000000005/m
+48.8649903,2.375336500000003,Slize,"52 avenue de la République, 75011 Paris",http://www.openstreetmap.org/?mlat=48.8649903&mlon=2.375336500000003#map=4/48.8649903/2.375336500000003/m
+48.85221010000001,2.3714182999999593,Végé saveurs,29 rue de Charenton 75012 Paris,http://www.openstreetmap.org/?mlat=48.85221010000001&mlon=2.3714182999999593#map=4/48.85221010000001/2.3714182999999593/m
+43.5290148,5.447942900000044,Le Pain Quotidien — Aix en Provence,"5 place Richelme, 13100 Aix en Provence",http://www.openstreetmap.org/?mlat=43.5290148&mlon=5.447942900000044#map=4/43.5290148/5.447942900000044/m
+-23.5581675,-46.67939799999999,Barão Natural,"Rua João Moura, 861. Pinheiros. São Paulo - SP. Brasil",http://www.openstreetmap.org/?mlat=-23.5581675&mlon=-46.67939799999999#map=4/-23.5581675/-46.67939799999999/m
+48.5835936,7.742047299999967,Cigkoftem — Strasbourg,"3 Place du Vieux Marché aux Vins, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5835936&mlon=7.742047299999967#map=4/48.5835936/7.742047299999967/m
+48.5826194,7.738940700000057,Lacocina,"2 Grand Rue, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5826194&mlon=7.738940700000057#map=4/48.5826194/7.738940700000057/m
+47.0187693,-2.2970560999999634,D'île en île,"104 avenue Mourain, l'Herbaudière, Noirmoutier",http://www.openstreetmap.org/?mlat=47.0187693&mlon=-2.2970560999999634#map=4/47.0187693/-2.2970560999999634/m
+43.2920007,5.383589499999971,La baie du dragon,"8 Place Notre Dame du Mont, 13006 Marseille",http://www.openstreetmap.org/?mlat=43.2920007&mlon=5.383589499999971#map=4/43.2920007/5.383589499999971/m
+42.2685623,2.960196300000007,Integral,"c/La Jonquera, 30 Figueres, Espagne",http://www.openstreetmap.org/?mlat=42.2685623&mlon=2.960196300000007#map=4/42.2685623/2.960196300000007/m
+41.9750089,2.822330700000066,Veggana,"c/ Rutlla, 108 Girona, Espagne",http://www.openstreetmap.org/?mlat=41.9750089&mlon=2.822330700000066#map=4/41.9750089/2.822330700000066/m
+41.9832309,2.8245881999999938,B12,"Plaça del vi, 11 Girona, Espagne",http://www.openstreetmap.org/?mlat=41.9832309&mlon=2.8245881999999938#map=4/41.9832309/2.8245881999999938/m
+41.9840818,2.8217054000000417,Bionectar,"Carrer Eiximenis, 8 Girona, Espagne",http://www.openstreetmap.org/?mlat=41.9840818&mlon=2.8217054000000417#map=4/41.9840818/2.8217054000000417/m
+48.88938230000001,2.3467008999999734,Super Naturelle,"34 Rue Ramey, 75018 Paris",http://www.openstreetmap.org/?mlat=48.88938230000001&mlon=2.3467008999999734#map=4/48.88938230000001/2.3467008999999734/m
+52.5062708,13.46531129999994,Laauma,"Sonntagstraße 26, 10245 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.5062708&mlon=13.46531129999994#map=4/52.5062708/13.46531129999994/m
+52.5078805,13.45003029999998,The Bowl,"Warschauer Str. 33, 10243 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.5078805&mlon=13.45003029999998#map=4/52.5078805/13.45003029999998/m
+48.8669756,2.3372008999999707,Kapunka,"59 Rue de Richelieu, 75002 Paris",http://www.openstreetmap.org/?mlat=48.8669756&mlon=2.3372008999999707#map=4/48.8669756/2.3372008999999707/m
+48.8518726,2.3487846000000445,Aux Arts etc,"15 Quai de Montebello, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.8518726&mlon=2.3487846000000445#map=4/48.8518726/2.3487846000000445/m
+48.8707923,2.349901300000056,Las Vegans,"30 Boulevard de Bonne Nouvelle, 75010 Paris",http://www.openstreetmap.org/?mlat=48.8707923&mlon=2.349901300000056#map=4/48.8707923/2.349901300000056/m
+47.216883,-1.554871300000059,La Table des Roy,"4 Rue des Trois Croissants, 44000 Nantes",http://www.openstreetmap.org/?mlat=47.216883&mlon=-1.554871300000059#map=4/47.216883/-1.554871300000059/m
+48.87338889999999,2.342957100000035,Nick's Pizza,"24 Rue du Faubourg Montmartre, 75009 Paris",http://www.openstreetmap.org/?mlat=48.87338889999999&mlon=2.342957100000035#map=4/48.87338889999999/2.342957100000035/m
+48.860764,1.4544869999999719,Aneth et Ciboulette,2 boulevard des 4 Arpents ZA le Débucher 28260 Anet,http://www.openstreetmap.org/?mlat=48.860764&mlon=1.4544869999999719#map=4/48.860764/1.4544869999999719/m
+48.83968850000001,2.35583280000003,Crêpe de la joie,4 rue du Fer à Moulin 75005 Paris,http://www.openstreetmap.org/?mlat=48.83968850000001&mlon=2.35583280000003#map=4/48.83968850000001/2.35583280000003/m
+47.2059528,-1.5565034999999625,Terroirs Bio,"9 Rue Alain Barbe Torte, 44000 Nantes",http://www.openstreetmap.org/?mlat=47.2059528&mlon=-1.5565034999999625#map=4/47.2059528/-1.5565034999999625/m
+48.8570739,2.3659651000000395,Le café chinois,"7 Rue de Béarn, 75003 Paris",http://www.openstreetmap.org/?mlat=48.8570739&mlon=2.3659651000000395#map=4/48.8570739/2.3659651000000395/m
+52.5090912,13.46599029999993,Almodóvar Hotel,"Boxhagener Str. 83, 10245 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.5090912&mlon=13.46599029999993#map=4/52.5090912/13.46599029999993/m
+48.853568,2.340033500000004,Crêperie Saint Germain,33 rue St André des Arts 75006 Paris,http://www.openstreetmap.org/?mlat=48.853568&mlon=2.340033500000004#map=4/48.853568/2.340033500000004/m
+48.8641804,2.3362478999999894,AntiCafé — Louvre,10 rue de Richelieu 75001 Paris,http://www.openstreetmap.org/?mlat=48.8641804&mlon=2.3362478999999894#map=4/48.8641804/2.3362478999999894/m
+48.8254416,2.3665593000000626,Anticafé — Olympiades,59 Rue Nationale 75013 PARIS,http://www.openstreetmap.org/?mlat=48.8254416&mlon=2.3665593000000626#map=4/48.8254416/2.3665593000000626/m
+45.77952519999999,4.834411100000011,Color Vegan,23 rue pailleron 69004 Lyon,http://www.openstreetmap.org/?mlat=45.77952519999999&mlon=4.834411100000011#map=4/45.77952519999999/4.834411100000011/m
+50.64660259999999,5.576818099999969,Goveg vegan shop,"Rue Hors-Château 14, 4000 Liège, Belgique",http://www.openstreetmap.org/?mlat=50.64660259999999&mlon=5.576818099999969#map=4/50.64660259999999/5.576818099999969/m
+47.2164303,-1.5560659000000214,Trésors Partagés,"10 Rue des 3 Croissants, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.2164303&mlon=-1.5560659000000214#map=4/47.2164303/-1.5560659000000214/m
+43.923248,4.5269570000000385,Les Pierrafeu,"Chemin de Ledenon, 30210 Saint-Bonnet-du-Gard, France",http://www.openstreetmap.org/?mlat=43.923248&mlon=4.5269570000000385#map=4/43.923248/4.5269570000000385/m
+48.8795607,2.39215020000006,Paint It Green Vegan,"78 rue Compans, Paris XIX",http://www.openstreetmap.org/?mlat=48.8795607&mlon=2.39215020000006#map=4/48.8795607/2.39215020000006/m
+43.59167500000001,1.433854999999994,Le cri de la carotte,"304 Avenue de Muret, 31300 Toulouse, France",http://www.openstreetmap.org/?mlat=43.59167500000001&mlon=1.433854999999994#map=4/43.59167500000001/1.433854999999994/m
+48.86785,2.3567849999999453,Un Monde Vegan,"64 Rue Notre Dame de Nazareth, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.86785&mlon=2.3567849999999453#map=4/48.86785/2.3567849999999453/m
+48.904802,2.3220039999999926,Cojean — Saint Ouen,"150 Boulevard Victor Hugo, 93400 Saint-Ouen, France",http://www.openstreetmap.org/?mlat=48.904802&mlon=2.3220039999999926#map=4/48.904802/2.3220039999999926/m
+48.5822782,7.743225100000018,What the cake ?,"51 Rue du Fossé des Tanneurs, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5822782&mlon=7.743225100000018#map=4/48.5822782/7.743225100000018/m
+48.867677,2.3244770000000017,Toraya Paris,"10 Rue Saint-Florentin, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.867677&mlon=2.3244770000000017#map=4/48.867677/2.3244770000000017/m
+48.863751,2.346375999999964,Charles Chocolatier,"15 Rue Montorgueil, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.863751&mlon=2.346375999999964#map=4/48.863751/2.346375999999964/m
+48.8614105,2.380804399999988,In the Garden,"39 Rue Saint-Maur, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.8614105&mlon=2.380804399999988#map=4/48.8614105/2.380804399999988/m
+48.447988,1.4870769999999993,Le Cloitre Gourmand,"21 Cloître Notre Dame, 28000 Chartres, France",http://www.openstreetmap.org/?mlat=48.447988&mlon=1.4870769999999993#map=4/48.447988/1.4870769999999993/m
+46.579457,0.3393019999999751,Le Bonheur est dans le Thé,"7 Rue Sadi Carnot, 86000 Poitiers, France",http://www.openstreetmap.org/?mlat=46.579457&mlon=0.3393019999999751#map=4/46.579457/0.3393019999999751/m
+48.869021,2.304100999999946,Charbon Rouge,"25 Rue Marbeuf, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.869021&mlon=2.304100999999946#map=4/48.869021/2.304100999999946/m
+48.860754,2.3670190000000275,Cantine Merci,"111 Boulevard Beaumarchais, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.860754&mlon=2.3670190000000275#map=4/48.860754/2.3670190000000275/m
+49.05039800000001,2.0970519999999624,La Cerise Gourmande,"49 Rue de l'Hôtel de ville, 95300 Pontoise, France",http://www.openstreetmap.org/?mlat=49.05039800000001&mlon=2.0970519999999624#map=4/49.05039800000001/2.0970519999999624/m
+48.898255,2.2821460000000116,Soup & Juice — Levallois,"34 Avenue de l'Europe, 92300 Levallois-Perret, France",http://www.openstreetmap.org/?mlat=48.898255&mlon=2.2821460000000116#map=4/48.898255/2.2821460000000116/m
+48.880351000000005,2.326948000000016,Soup & Juice - Rue d'Amsterdam,"55 Rue d'Amsterdam, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.880351000000005&mlon=2.326948000000016#map=4/48.880351000000005/2.326948000000016/m
+48.872935,2.2974169999999963,Soup & Juice — Champs Elysées,"133 Avenue des Champs-Élysées, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.872935&mlon=2.2974169999999963#map=4/48.872935/2.2974169999999963/m
+48.876786,2.330410000000029,Soup & Juice — Rue de Londres,"4 Rue de Londres, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.876786&mlon=2.330410000000029#map=4/48.876786/2.330410000000029/m
+48.868764,2.2910620000000113,Soup & Juice — Kléber,"54 Avenue Kléber, 75116 Paris, France",http://www.openstreetmap.org/?mlat=48.868764&mlon=2.2910620000000113#map=4/48.868764/2.2910620000000113/m
+48.874342,2.3331080000000384,Cojean — Provence,"66 Rue de Provence, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.874342&mlon=2.3331080000000384#map=4/48.874342/2.3331080000000384/m
+48.868288,2.3420079999999643,Cojean — Bourse,"121 Rue Réaumur, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.868288&mlon=2.3420079999999643#map=4/48.868288/2.3420079999999643/m
+48.872631,2.3346990000000005,Cojean — Haussmann,"17 Boulevard Haussmann, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.872631&mlon=2.3346990000000005#map=4/48.872631/2.3346990000000005/m
+48.859381000000006,2.3402429999999868,Cojean — Louvre,"3 Place du Louvre, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.859381000000006&mlon=2.3402429999999868#map=4/48.859381000000006/2.3402429999999868/m
+48.870432,2.3273360000000594,Cojean — Madeleine,"6 Rue de Sèze, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.870432&mlon=2.3273360000000594#map=4/48.870432/2.3273360000000594/m
+48.853386,2.375917999999956,Le Bar à Soupes,"33 Rue de Charonne, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.853386&mlon=2.375917999999956#map=4/48.853386/2.375917999999956/m
+48.866689,2.3854730000000473,Les Trois 8,"11 Rue Victor Letalle, 75020 Paris, France",http://www.openstreetmap.org/?mlat=48.866689&mlon=2.3854730000000473#map=4/48.866689/2.3854730000000473/m
+50.634746,3.060854000000063,Be Yourself !,"2 Square Morisson, 59800 Lille, France",http://www.openstreetmap.org/?mlat=50.634746&mlon=3.060854000000063#map=4/50.634746/3.060854000000063/m
+53.54571800000001,9.951833999999963,Liberty Eiscafé & Bistro,"Fischmarkt 11, 22767 Hamburg, Allemagne",http://www.openstreetmap.org/?mlat=53.54571800000001&mlon=9.951833999999963#map=4/53.54571800000001/9.951833999999963/m
+48.85805,2.3687850000000026,Maison Bastille,"34 Rue Amelot, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.85805&mlon=2.3687850000000026#map=4/48.85805/2.3687850000000026/m
+48.875761000000004,2.3477699999999686,My free kitchen,"1bis Rue Bleue, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.875761000000004&mlon=2.3477699999999686#map=4/48.875761000000004/2.3477699999999686/m
+48.865338,2.3620819999999867,Lily of the Valley,"12 Rue Dupetit-Thouars, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.865338&mlon=2.3620819999999867#map=4/48.865338/2.3620819999999867/m
+48.87351,2.3706520000000637,Lula Lifestyle Shop,"216 Rue Saint-Maur, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.87351&mlon=2.3706520000000637#map=4/48.87351/2.3706520000000637/m
+48.869809,2.344701500000042,We Are Juice,"34 Rue des Jeuneurs, 75002 Paris",http://www.openstreetmap.org/?mlat=48.869809&mlon=2.344701500000042#map=4/48.869809/2.344701500000042/m
+43.7742839,11.250562100000025,Shake Café,"Via degli Avelli, 2, 50123 Firenze, Italie",http://www.openstreetmap.org/?mlat=43.7742839&mlon=11.250562100000025#map=4/43.7742839/11.250562100000025/m
+52.51044000000001,13.460843000000068,Der Eisbärliner,"Gärtnerstraße 11, 10245 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.51044000000001&mlon=13.460843000000068#map=4/52.51044000000001/13.460843000000068/m
+52.501052,13.431106999999997,Eissalon Tanne B,"Eisenbahnstraße 48, 10997 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.501052&mlon=13.431106999999997#map=4/52.501052/13.431106999999997/m
+52.541281,13.415170999999987,Chaostheorie,"Lychener Straße 4, 10437 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.541281&mlon=13.415170999999987#map=4/52.541281/13.415170999999987/m
+50.94072999999999,6.879979999999932,Pennycakes,"Alter Militärring 68, 50933 Köln, Allemagne",http://www.openstreetmap.org/?mlat=50.94072999999999&mlon=6.879979999999932#map=4/50.94072999999999/6.879979999999932/m
+51.461741,-0.1132999999999811,Ms. Cupcake,"408 Coldharbour Lane, London SW9 8LF, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.461741&mlon=-0.1132999999999811#map=4/51.461741/-0.1132999999999811/m
+47.214536,-1.5542540000000145,Les bien-aimés,"2 Rue de la Paix, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.214536&mlon=-1.5542540000000145#map=4/47.214536/-1.5542540000000145/m
+47.2347488,6.031991999999946,Ze Music All,"18 Rue Rivotte, 25000 Besançon, France",http://www.openstreetmap.org/?mlat=47.2347488&mlon=6.031991999999946#map=4/47.2347488/6.031991999999946/m
+43.293256,5.381930000000011,Les Délices de Plume,"1 Rue Fongate, 13001 Marseille, France",http://www.openstreetmap.org/?mlat=43.293256&mlon=5.381930000000011#map=4/43.293256/5.381930000000011/m
+50.633412,3.0681260000000066,Coffee Makers,"151 Rue de Paris, 59800 Lille, France",http://www.openstreetmap.org/?mlat=50.633412&mlon=3.0681260000000066#map=4/50.633412/3.0681260000000066/m
+43.614967,3.8769479999999703,Café Noisette,"21 Boulevard Pasteur, 34090 Montpellier, France",http://www.openstreetmap.org/?mlat=43.614967&mlon=3.8769479999999703#map=4/43.614967/3.8769479999999703/m
+45.890158,-72.54517499999997,Rose Café,"210 Boulevard Lemire Ouest, Drummondville, QC J2B 8A9, Canada",http://www.openstreetmap.org/?mlat=45.890158&mlon=-72.54517499999997#map=4/45.890158/-72.54517499999997/m
+49.1842329,-0.36439930000005916,Pancake Night Fever,"23 Rue Gemare, 14000 Caen, France",http://www.openstreetmap.org/?mlat=49.1842329&mlon=-0.36439930000005916#map=4/49.1842329/-0.36439930000005916/m
+48.8532748,2.337111400000026,Grom,"81 Rue de Seine, 75006 Paris, France",http://www.openstreetmap.org/?mlat=48.8532748&mlon=2.337111400000026#map=4/48.8532748/2.337111400000026/m
+48.5815328,7.752961599999935,Bistrot et Chocolat,"8 Rue de la Râpe, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.5815328&mlon=7.752961599999935#map=4/48.5815328/7.752961599999935/m
+48.869494,2.3286889999999403,Naked Food,"22 Rue des Capucines, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.869494&mlon=2.3286889999999403#map=4/48.869494/2.3286889999999403/m
+48.843323,2.349545,Vegan Folie's,"53-55 Rue Mouffetard, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.843323&mlon=2.349545#map=4/48.843323/2.349545/m
+48.110533,-1.678538,Le Haricot Rouge,"10 Rue Baudrairie, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.110533&mlon=-1.678538#map=4/48.110533/-1.678538/m
+47.6568428,-2.7574101000000155,L'Entrechoc,"15 Place Valencia, 56000 Vannes, France",http://www.openstreetmap.org/?mlat=47.6568428&mlon=-2.7574101000000155#map=4/47.6568428/-2.7574101000000155/m
+48.835125,2.326726000000008,Chocolatitudes,"57 Rue Daguerre, 75014 Paris, France",http://www.openstreetmap.org/?mlat=48.835125&mlon=2.326726000000008#map=4/48.835125/2.326726000000008/m
+48.8619467,2.3799421999999595,Bob's Cold Press,"10 Passage Rochebrune, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.8619467&mlon=2.3799421999999595#map=4/48.8619467/2.3799421999999595/m
+47.215567,-1.558334000000059,Sugar Blue Café,"4 Rue de l'Arche Sèche, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.215567&mlon=-1.558334000000059#map=4/47.215567/-1.558334000000059/m
+45.1916549,5.730968100000041,La Causerie Pause Bio,"3 Rue Jean-François Haché, 38000 Grenoble, France",http://www.openstreetmap.org/?mlat=45.1916549&mlon=5.730968100000041#map=4/45.1916549/5.730968100000041/m
+48.582908,7.753349000000071,Gagao,"20 Rue des Frères, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.582908&mlon=7.753349000000071#map=4/48.582908/7.753349000000071/m
+48.865666000000004,2.3401830000000245,Juice it,"8 Rue de la Vrillière, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.865666000000004&mlon=2.3401830000000245#map=4/48.865666000000004/2.3401830000000245/m
+47.319947,5.0400789999999915,La Causerie des Mondes,"16 Rue Vauban, 21000 Dijon",http://www.openstreetmap.org/?mlat=47.319947&mlon=5.0400789999999915#map=4/47.319947/5.0400789999999915/m
+45.6496192,0.15618449999999484,Phenix,"24 Rue de la Cloche Verte, 16000 Angoulême, France",http://www.openstreetmap.org/?mlat=45.6496192&mlon=0.15618449999999484#map=4/45.6496192/0.15618449999999484/m
+51.54045500000001,-0.14375300000006064,Cookies and Scream,"The Market Hall, Camden Lock Place, London NW1 8AF, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.54045500000001&mlon=-0.14375300000006064#map=4/51.54045500000001/-0.14375300000006064/m
+43.6072981,1.4396692000000257,The Coffee Pot,"41 Rue des Lois, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.6072981&mlon=1.4396692000000257#map=4/43.6072981/1.4396692000000257/m
+48.866107,2.344116999999983,Matamata Coffee Bar,"58 Rue d'Argout, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.866107&mlon=2.344116999999983#map=4/48.866107/2.344116999999983/m
+43.6022056,1.4507665999999517,Café Den Coffeeshop,"Centre Commercial Saint Georges, 51 bis, rue du Rempart St Etienne, 31000 Toulouse",http://www.openstreetmap.org/?mlat=43.6022056&mlon=1.4507665999999517#map=4/43.6022056/1.4507665999999517/m
+43.6063534,1.4424552000000403,Colombus Café,"10 Rue du Taur, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.6063534&mlon=1.4424552000000403#map=4/43.6063534/1.4424552000000403/m
+47.214483,-1.5555709999999863,"92,5° Coffee Shop","Cours des 50 Otages, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.214483&mlon=-1.5555709999999863#map=4/47.214483/-1.5555709999999863/m
+48.833924,2.243644,Panasia,"130 Avenue Victor Hugo, 92100 Boulogne-Billancourt, France",http://www.openstreetmap.org/?mlat=48.833924&mlon=2.243644#map=4/48.833924/2.243644/m
+48.875407,2.327146999999968,Zumo — Passage du Havre,"10 Passage du Havre, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.875407&mlon=2.327146999999968#map=4/48.875407/2.327146999999968/m
+48.828526,2.3555939999999964,Zumo — Italie,"30 Avenue d'Italie, 75013 Paris, France",http://www.openstreetmap.org/?mlat=48.828526&mlon=2.3555939999999964#map=4/48.828526/2.3555939999999964/m
+48.872034,2.3605669999999463,Bob's Juice Bar,"15 Rue Lucien Sampaix, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.872034&mlon=2.3605669999999463#map=4/48.872034/2.3605669999999463/m
+48.862592,2.3512000000000626,AntiCafé — Beaubourg,"79 Rue Quincampoix, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.862592&mlon=2.3512000000000626#map=4/48.862592/2.3512000000000626/m
+48.8621494,2.351975799999991,Bubble Tea Cup,"164 Rue Saint-Martin, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.8621494&mlon=2.351975799999991#map=4/48.8621494/2.351975799999991/m
+48.859837,2.3498260000000073,Bubbolitas,"17 Rue Quincampoix, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.859837&mlon=2.3498260000000073#map=4/48.859837/2.3498260000000073/m
+49.253786,4.027135000000044,Le Maharajah,"13 Rue de Thillois, 51100 Reims, France",http://www.openstreetmap.org/?mlat=49.253786&mlon=4.027135000000044#map=4/49.253786/4.027135000000044/m
+48.8828589,2.338175699999965,Ayutthaya,"5 Rue Houdon, 75018 Paris, France",http://www.openstreetmap.org/?mlat=48.8828589&mlon=2.338175699999965#map=4/48.8828589/2.338175699999965/m
+43.298504,5.382814999999937,Green Bear Coffee,"17 Rue Glandeves, 13001 Marseille",http://www.openstreetmap.org/?mlat=43.298504&mlon=5.382814999999937#map=4/43.298504/5.382814999999937/m
+48.582102,7.743210999999975,Made In France,"26 Rue des Drapiers, 67000 Strasbourg, France",http://www.openstreetmap.org/?mlat=48.582102&mlon=7.743210999999975#map=4/48.582102/7.743210999999975/m
+48.872728,2.3095479999999498,Mitsou,"3 Rue du Commandant Rivière, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.872728&mlon=2.3095479999999498#map=4/48.872728/2.3095479999999498/m
+48.825602,2.3614499999999907,Lao Lane Xang,"102 Avenue d'Ivry, 75013 Paris, France",http://www.openstreetmap.org/?mlat=48.825602&mlon=2.3614499999999907#map=4/48.825602/2.3614499999999907/m
+48.881724,2.364372000000003,le 42,"42 Rue Louis Blanc, 75010 Paris",http://www.openstreetmap.org/?mlat=48.881724&mlon=2.364372000000003#map=4/48.881724/2.364372000000003/m
+43.602995,1.4538009999999986,La Belle Verte,"50 Rue d'Aubuisson, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.602995&mlon=1.4538009999999986#map=4/43.602995/1.4538009999999986/m
+50.642755,5.573701000000028,Terre Mère,"Rue de la Régence 21, 4000 Liège, Belgique",http://www.openstreetmap.org/?mlat=50.642755&mlon=5.573701000000028#map=4/50.642755/5.573701000000028/m
+48.583819,7.742787000000022,La Pause Quinoa,"33 Rue du Jeu des Enfants, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.583819&mlon=7.742787000000022#map=4/48.583819/7.742787000000022/m
+43.701656,7.269195999999966,Speakeasy,"7 Rue Lamartine, 06000 Nice",http://www.openstreetmap.org/?mlat=43.701656&mlon=7.269195999999966#map=4/43.701656/7.269195999999966/m
+51.037004,3.7121160000000373,Lekker Gec,"Kon. Maria Hendrikaplein 6, 9000 Gent, Belgique",http://www.openstreetmap.org/?mlat=51.037004&mlon=3.7121160000000373#map=4/51.037004/3.7121160000000373/m
+51.053256,3.7303739999999834,Komkommertijd,"Reep 14, 9000 Gent, Belgique",http://www.openstreetmap.org/?mlat=51.053256&mlon=3.7303739999999834#map=4/51.053256/3.7303739999999834/m
+47.23697689999999,6.028618800000004,Basilic Instant,"93 Rue des Granges, 25000 Besançon",http://www.openstreetmap.org/?mlat=47.23697689999999&mlon=6.028618800000004#map=4/47.23697689999999/6.028618800000004/m
+42.696600000000004,2.8835730000000694,Saveurs Nature,"7 Rue Paul Massot, 66000 Perpignan",http://www.openstreetmap.org/?mlat=42.696600000000004&mlon=2.8835730000000694#map=4/42.696600000000004/2.8835730000000694/m
+43.6019472,1.4438887000000022,La faim des haricots,"3 Rue du Puits Vert, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.6019472&mlon=1.4438887000000022#map=4/43.6019472/1.4438887000000022/m
+45.7714076,4.83532660000003,Toutes Les Couleurs,"26 Rue Imbert Colomes, 69001 Lyon",http://www.openstreetmap.org/?mlat=45.7714076&mlon=4.83532660000003#map=4/45.7714076/4.83532660000003/m
+48.876062000000005,2.348478,Can Tin(e),"66 Rue du Faubourg Poissonnière, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.876062000000005&mlon=2.348478#map=4/48.876062000000005/2.348478/m
+48.90524759999992,2.34424742883607,Red Gold and Green,"43 Rue Paul Bert, 93400 Saint-Ouen",http://www.openstreetmap.org/?mlat=48.90524759999992&mlon=2.34424742883607#map=4/48.90524759999992/2.34424742883607/m
+48.510208999999946,-1.2526921711639716,Millefeuilles,"Leteurrie, 35420 Saint-Georges-de-Reintembault",http://www.openstreetmap.org/?mlat=48.510208999999946&mlon=-1.2526921711639716#map=4/48.510208999999946/-1.2526921711639716/m
+48.87518699999983,2.3329227288360244,My Bo Bun,"73 Rue de la Victoire, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.87518699999983&mlon=2.3329227288360244#map=4/48.87518699999983/2.3329227288360244/m
+44.82898269999984,-0.5743156711639585,Rise Up 'N' Shine,"49 Cours de l'Argonne, 33000 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.82898269999984&mlon=-0.5743156711639585#map=4/44.82898269999984/-0.5743156711639585/m
+46.188995599999934,6.157282728836095,Helveg Café,"Avenue de Miremont 31, 1206 Genève, Suisse",http://www.openstreetmap.org/?mlat=46.188995599999934&mlon=6.157282728836095#map=4/46.188995599999934/6.157282728836095/m
+45.768510399999904,4.831995328836001,Le Roi Falafel,"30 Rue Palais Grillet, 69002 Lyon",http://www.openstreetmap.org/?mlat=45.768510399999904&mlon=4.831995328836001#map=4/45.768510399999904/4.831995328836001/m
+48.86640599999985,2.3381447288360278,Macéo,"15 Rue des Petits Champs, 75002 Paris",http://www.openstreetmap.org/?mlat=48.86640599999985&mlon=2.3381447288360278#map=4/48.86640599999985/2.3381447288360278/m
+45.75697799999996,4.850896728836005,Soline,"89 Rue Paul Bert, 69003 Lyon",http://www.openstreetmap.org/?mlat=45.75697799999996&mlon=4.850896728836005#map=4/45.75697799999996/4.850896728836005/m
+48.1108079999999,-1.6769652711639083,Saint-Germain des Champs,"12 Rue du Vau Saint-Germain, 35000 Rennes",http://www.openstreetmap.org/?mlat=48.1108079999999&mlon=-1.6769652711639083#map=4/48.1108079999999/-1.6769652711639083/m
+47.31766399999986,5.034876728836025,Le Shanti,"69 Rue Berbisey, 21000 Dijon",http://www.openstreetmap.org/?mlat=47.31766399999986&mlon=5.034876728836025#map=4/47.31766399999986/5.034876728836025/m
+48.867543999999846,2.340889728836032,Liza,"14 Rue de la Banque, 75002 Paris",http://www.openstreetmap.org/?mlat=48.867543999999846&mlon=2.340889728836032#map=4/48.867543999999846/2.340889728836032/m
+48.86304999999991,2.351859728836075,Vert Midi - Quincampoix,"9 Rue aux Ours, 75003 Paris",http://www.openstreetmap.org/?mlat=48.86304999999991&mlon=2.351859728836075#map=4/48.86304999999991/2.351859728836075/m
+48.87019999999984,2.3421667288359913,Vert Midi - St Marc,"1 Rue Saint-Marc, 75002 Paris",http://www.openstreetmap.org/?mlat=48.87019999999984&mlon=2.3421667288359913#map=4/48.87019999999984/2.3421667288359913/m
+48.868745999999874,2.3536737288360428,An Com,"14 Rue Blondel, 75002 Paris",http://www.openstreetmap.org/?mlat=48.868745999999874&mlon=2.3536737288360428#map=4/48.868745999999874/2.3536737288360428/m
+48.86579699999988,2.34709672883605,Monthaï,"84 Rue Montorgueil, 75002 Paris",http://www.openstreetmap.org/?mlat=48.86579699999988&mlon=2.34709672883605#map=4/48.86579699999988/2.34709672883605/m
+48.877408999999794,2.351376728836044,Mussubï,"89 Rue d'Hauteville, 75010 Paris",http://www.openstreetmap.org/?mlat=48.877408999999794&mlon=2.351376728836044#map=4/48.877408999999794/2.351376728836044/m
+48.8661719999999,2.3722157288360677,Kawaii Café,"20 Rue de Nemours, 75011 Paris",http://www.openstreetmap.org/?mlat=48.8661719999999&mlon=2.3722157288360677#map=4/48.8661719999999/2.3722157288360677/m
+48.87304399999984,2.3002017288361003,Kok Ping,"4 Rue Balzac, 75008 Paris",http://www.openstreetmap.org/?mlat=48.87304399999984&mlon=2.3002017288361003#map=4/48.87304399999984/2.3002017288361003/m
+48.88976899999991,2.247600728836005,Pause,"34 Place des Reflets, 92400 Courbevoie",http://www.openstreetmap.org/?mlat=48.88976899999991&mlon=2.247600728836005#map=4/48.88976899999991/2.247600728836005/m
+48.8374349999999,2.3522937288360026,Ase Theodros,"7 Rue de la Collégiale, 75005 Paris",http://www.openstreetmap.org/?mlat=48.8374349999999&mlon=2.3522937288360026#map=4/48.8374349999999/2.3522937288360026/m
+48.83323799999987,2.3156177288360595,Aquarius,"40 Rue de Gergovie, 75014 Paris, France",http://www.openstreetmap.org/?mlat=48.83323799999987&mlon=2.3156177288360595#map=4/48.83323799999987/2.3156177288360595/m
+48.84178899999995,2.328055728836034,Dietetic shop,"11 Rue Delambre, 75014 Paris",http://www.openstreetmap.org/?mlat=48.84178899999995&mlon=2.328055728836034#map=4/48.84178899999995/2.328055728836034/m
+49.182462999999835,-0.3648502711639594,Greedy Guts,"15 Rue de Bras, 14000 Caen",http://www.openstreetmap.org/?mlat=49.182462999999835&mlon=-0.3648502711639594#map=4/49.182462999999835/-0.3648502711639594/m
+48.875246999999796,2.31908872883605,Graine,"7 Place Saint-Augustin, 75008 Paris",http://www.openstreetmap.org/?mlat=48.875246999999796&mlon=2.31908872883605#map=4/48.875246999999796/2.31908872883605/m
+50.64257999999995,3.0667367288360765,2 sous de table,"56 Rue de Gand, 59000 Lille",http://www.openstreetmap.org/?mlat=50.64257999999995&mlon=3.0667367288360765#map=4/50.64257999999995/3.0667367288360765/m
+45.94287299999993,-0.5217412711639327,Carottes et Gingembre,"36 Rue des Bancs, 17400 Saint-Jean-d'Angély",http://www.openstreetmap.org/?mlat=45.94287299999993&mlon=-0.5217412711639327#map=4/45.94287299999993/-0.5217412711639327/m
+51.057739999999924,3.7209580674591503,Avalon,"Geldmunt 32, 9000 Gent, Belgique",http://www.openstreetmap.org/?mlat=51.057739999999924&mlon=3.7209580674591503#map=4/51.057739999999924/3.7209580674591503/m
+50.877116999999735,4.705118067459125,Loving Hut - Leuven,"Tiensestraat 65, 3000 Leuven, Belgique",http://www.openstreetmap.org/?mlat=50.877116999999735&mlon=4.705118067459125#map=4/50.877116999999735/4.705118067459125/m
+48.87034399999977,2.3103210674590855,Saï Bobun,"9 Rue de Ponthieu, 75008 Paris",http://www.openstreetmap.org/?mlat=48.87034399999977&mlon=2.3103210674590855#map=4/48.87034399999977/2.3103210674590855/m
+45.76752099999974,4.831455609786985,Yaafa,"17 Rue d'Algérie, 69001 Lyon",http://www.openstreetmap.org/?mlat=45.76752099999974&mlon=4.831455609786985#map=4/45.76752099999974/4.831455609786985/m
+49.25717989999998,4.039198409786991,Le Vert en Couleur,"8, place Aristide Briand, Reims",http://www.openstreetmap.org/?mlat=49.25717989999998&mlon=4.039198409786991#map=4/49.25717989999998/4.039198409786991/m
+48.890659399999834,2.3543215097870416,Toutofu,"25 Rue Ordener, 75018 Paris",http://www.openstreetmap.org/?mlat=48.890659399999834&mlon=2.3543215097870416#map=4/48.890659399999834/2.3543215097870416/m
+49.25629279999999,4.025790709786976,Food Avenue,"77 Place Drouet d'Erlon, 51100 Reims",http://www.openstreetmap.org/?mlat=49.25629279999999&mlon=4.025790709786976#map=4/49.25629279999999/4.025790709786976/m
+48.89024909999985,2.3418518097869314,In bocca al lupo,"14 Rue Francoeur, 75018 Paris",http://www.openstreetmap.org/?mlat=48.89024909999985&mlon=2.3418518097869314#map=4/48.89024909999985/2.3418518097869314/m
+48.85614599999997,2.358976609786964,L'Escale du Liban,"1 Rue Ferdinand Duval, 75004 Paris",http://www.openstreetmap.org/?mlat=48.85614599999997&mlon=2.358976609786964#map=4/48.85614599999997/2.358976609786964/m
+43.77000399999971,7.493431609786967,Loving Hut — Menton,"649 Promenade du Soleil, 06500 Menton, France",http://www.openstreetmap.org/?mlat=43.77000399999971&mlon=7.493431609786967#map=4/43.77000399999971/7.493431609786967/m
+48.867837399999694,2.3543099097869344,Elgi — St Martin,"327 Rue Saint-Martin, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.867837399999694&mlon=2.3543099097869344#map=4/48.867837399999694/2.3543099097869344/m
+48.8623743,2.3781413000000384,Elgi — St Ambroise,"18 Rue Saint-Ambroise, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.8623743&mlon=2.3781413000000384#map=4/48.8623743/2.3781413000000384/m
+48.87509599999963,2.3067276097870035,Elgi — Haussmann,"182 Boulevard Haussmann, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.87509599999963&mlon=2.3067276097870035#map=4/48.87509599999963/2.3067276097870035/m
+48.86913199999964,2.3632546097869636,Elgi — République,"4 Rue Beaurepaire, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.86913199999964&mlon=2.3632546097869636#map=4/48.86913199999964/2.3632546097869636/m
+48.86567199999974,2.3446376097870143,Elgi — Montorgueil,"64 Rue Montmartre, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.86567199999974&mlon=2.3446376097870143#map=4/48.86567199999974/2.3446376097870143/m
+48.87409299999963,2.3373066097869923,Elgi — La Fayette,"26 Rue la Fayette, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.87409299999963&mlon=2.3373066097869923#map=4/48.87409299999963/2.3373066097869923/m
+48.8704851,2.3414877999999817,Elgi — Bourse,"10 rue saint-marc, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.8704851&mlon=2.3414877999999817#map=4/48.8704851/2.3414877999999817/m
+48.848684,2.3534576097870286,Le Puits de Légumes,"18 Rue du Cardinal Lemoine, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.848684&mlon=2.3534576097870286#map=4/48.848684/2.3534576097870286/m
+48.84697800000002,2.351788609787036,Comptoir Méditerranée,"42 Rue du Cardinal Lemoine, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.84697800000002&mlon=2.351788609787036#map=4/48.84697800000002/2.351788609787036/m
+48.857205999999906,2.359256609787053,King Falafel Palace,"26 Rue des Rosiers, 75004 Paris",http://www.openstreetmap.org/?mlat=48.857205999999906&mlon=2.359256609787053#map=4/48.857205999999906/2.359256609787053/m
+50.63086999999968,3.0555716097869663,Pica Tapas,"117 Rue Solférino, 59000 Lille",http://www.openstreetmap.org/?mlat=50.63086999999968&mlon=3.0555716097869663#map=4/50.63086999999968/3.0555716097869663/m
+48.87425429999963,2.383211009786919,Hobbes,"31 Avenue Simon Bolivar, 75019 Paris",http://www.openstreetmap.org/?mlat=48.87425429999963&mlon=2.383211009786919#map=4/48.87425429999963/2.383211009786919/m
+47.20646399999996,-1.5547213902129897,Le bistrot de l'île,"17 Rue la Tour d'Auvergne, 44200 Nantes, France",http://www.openstreetmap.org/?mlat=47.20646399999996&mlon=-1.5547213902129897#map=4/47.20646399999996/-1.5547213902129897/m
+50.636409999999806,3.0589636097870425,Pulp Kitchen,"106 Rue de l'Hôpital Militaire, 59000 Lille",http://www.openstreetmap.org/?mlat=50.636409999999806&mlon=3.0589636097870425#map=4/50.636409999999806/3.0589636097870425/m
+48.88448199999969,2.3233096097869748,Joy In Food,"2 Rue Truffaut, 75017 Paris, France",http://www.openstreetmap.org/?mlat=48.88448199999969&mlon=2.3233096097869748#map=4/48.88448199999969/2.3233096097869748/m
+48.88987299999984,2.339883609786966,Hope café,"64 Rue Lamarck, 75018 Paris, France",http://www.openstreetmap.org/?mlat=48.88987299999984&mlon=2.339883609786966#map=4/48.88987299999984/2.339883609786966/m
+48.87109199999962,2.358278609787021,Allen's Market,"33 Rue du Château d'Eau, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.87109199999962&mlon=2.358278609787021#map=4/48.87109199999962/2.358278609787021/m
+48.863618999999794,2.3488576097870464,Joe Allen,"30 Rue Pierre Lescot, 75001 Paris",http://www.openstreetmap.org/?mlat=48.863618999999794&mlon=2.3488576097870464#map=4/48.863618999999794/2.3488576097870464/m
+48.84884800000001,2.3254146097870034,Tugalik,"29 Rue Saint-Placide, 75006 Paris",http://www.openstreetmap.org/?mlat=48.84884800000001&mlon=2.3254146097870034#map=4/48.84884800000001/2.3254146097870034/m
+48.85017800000001,2.377919609787,La Gazzetta,"29 Rue de Cotte, 75012 Paris, France",http://www.openstreetmap.org/?mlat=48.85017800000001&mlon=2.377919609787#map=4/48.85017800000001/2.377919609787/m
+48.87992299999961,2.3573526097869717,Saravanaa Bhavan,"170 Rue du Faubourg Saint-Denis, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.87992299999961&mlon=2.3573526097869717#map=4/48.87992299999961/2.3573526097869717/m
+48.85400800000001,2.3357006097869544,Guen Mai,"6 Rue Cardinale, 75006 Paris",http://www.openstreetmap.org/?mlat=48.85400800000001&mlon=2.3357006097869544#map=4/48.85400800000001/2.3357006097869544/m
+48.851907000000026,2.348309609786952,Le Grenier de Notre-Dame,"18 Rue de la Bûcherie, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.851907000000026&mlon=2.348309609786952#map=4/48.851907000000026/2.348309609786952/m
+48.844019,2.317425609787051,Ma grand-mère m'a dit,"1 Rue Falguière, 75015 Paris",http://www.openstreetmap.org/?mlat=48.844019&mlon=2.317425609787051#map=4/48.844019/2.317425609787051/m
+48.86784399999971,2.335283609786984,Bioburger,"46 Passage Choiseul, 75002 Paris",http://www.openstreetmap.org/?mlat=48.86784399999971&mlon=2.335283609786984#map=4/48.86784399999971/2.335283609786984/m
+48.8607699999999,2.3454346097869347,Le Bio d'Adam et Ève,"41 Rue Saint Honoré, 75001 Paris",http://www.openstreetmap.org/?mlat=48.8607699999999&mlon=2.3454346097869347#map=4/48.8607699999999/2.3454346097869347/m
+48.860530999999874,2.345315609787008,Saveurs Végét'Halles,"41 Rue des Bourdonnais, 75001 Paris",http://www.openstreetmap.org/?mlat=48.860530999999874&mlon=2.345315609787008#map=4/48.860530999999874/2.345315609787008/m
+48.87712799999962,2.338510609787022,Pousse-Pousse,"5 Rue Notre Dame de Lorette, 75009 Paris",http://www.openstreetmap.org/?mlat=48.87712799999962&mlon=2.338510609787022#map=4/48.87712799999962/2.338510609787022/m
+48.872114999999596,2.365079609787017,Le Comptoir Général,"80 Quai de Jemmapes, 75010 Paris",http://www.openstreetmap.org/?mlat=48.872114999999596&mlon=2.365079609787017#map=4/48.872114999999596/2.365079609787017/m
+48.823432999999696,2.368391609786954,Green Garden,20 Rue nationale 75013 Paris,http://www.openstreetmap.org/?mlat=48.823432999999696&mlon=2.368391609786954#map=4/48.823432999999696/2.368391609786954/m
+48.86643999999973,2.331540609786998,Le Pain Quotidien — Paris St Honoré,"18 Place du Marché Saint-Honoré, 75001 Paris",http://www.openstreetmap.org/?mlat=48.86643999999973&mlon=2.331540609786998#map=4/48.86643999999973/2.331540609786998/m
+48.86646799999971,2.3470536097870536,Le Pain Quotidien — Paris Montorgueil,"2 Rue des Petits Carreaux, 75002 Paris",http://www.openstreetmap.org/?mlat=48.86646799999971&mlon=2.3470536097870536#map=4/48.86646799999971/2.3470536097870536/m
+48.85378200000001,2.3241876097870318,Le Pain Quotidien — Paris Varenne,"25 Rue de Varenne, 75007 Paris",http://www.openstreetmap.org/?mlat=48.85378200000001&mlon=2.3241876097870318#map=4/48.85378200000001/2.3241876097870318/m
+48.87761679999955,2.3487292097870522,42 Degrés,"109 Rue du Faubourg Poissonnière, 75009 Paris",http://www.openstreetmap.org/?mlat=48.87761679999955&mlon=2.3487292097870522#map=4/48.87761679999955/2.3487292097870522/m
+48.8750249999996,2.3480376097869566,Café Pinson — Poissonière,"58 Rue du Faubourg Poissonnière, 75010 Paris",http://www.openstreetmap.org/?mlat=48.8750249999996&mlon=2.3480376097869566#map=4/48.8750249999996/2.3480376097869566/m
+48.86094899999985,2.3542486097869646,Le Potager du Marais,"24 Rue Rambuteau, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.86094899999985&mlon=2.3542486097869646#map=4/48.86094899999985/2.3542486097869646/m
+48.862455999999824,2.3619406097869846,M.O.B. Marais,"30 Rue Charlot, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.862455999999824&mlon=2.3619406097869846#map=4/48.862455999999824/2.3619406097869846/m
+48.87305599999968,2.362993609787054,Sol Semilla,"23 Rue des Vinaigriers, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.87305599999968&mlon=2.362993609787054#map=4/48.87305599999968/2.362993609787054/m
+48.868088999999685,2.369967609786954,Soya,"20 Rue de la Pierre Levée, 75011 Paris",http://www.openstreetmap.org/?mlat=48.868088999999685&mlon=2.369967609786954#map=4/48.868088999999685/2.369967609786954/m
+48.8886441,2.320416399999999,My Kitch'n,"82 rue Lemercier, 75017, Paris",http://www.openstreetmap.org/?mlat=48.8886441&mlon=2.320416399999999#map=4/48.8886441/2.320416399999999/m
+48.852929,2.3671846097870457,Café Ginger,"9 Rue Jacques Cœur, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.852929&mlon=2.3671846097870457#map=4/48.852929/2.3671846097870457/m
+48.85984299999988,2.3674696097870083,Loving Hut — Paris,"92 Boulevard Beaumarchais, 75011 Paris 11e arrondissement",http://www.openstreetmap.org/?mlat=48.85984299999988&mlon=2.3674696097870083#map=4/48.85984299999988/2.3674696097870083/m
+48.881193999999695,2.3136676097869895,Mum Dim Sum,"14 Boulevard de Courcelles, 75017 Paris",http://www.openstreetmap.org/?mlat=48.881193999999695&mlon=2.3136676097869895#map=4/48.881193999999695/2.3136676097869895/m
+48.872043999999626,2.3402246097870147,Chipotle Mexican Grill — Montmartre,"18-20 Boulevard Montmartre, 75009 Paris",http://www.openstreetmap.org/?mlat=48.872043999999626&mlon=2.3402246097870147#map=4/48.872043999999626/2.3402246097870147/m
+48.86377399999972,2.3628876097869806,Café Pinson — Forez,"6 Rue du Forez, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.86377399999972&mlon=2.3628876097869806#map=4/48.86377399999972/2.3628876097869806/m
+48.864468999999794,2.3543756097869846,Bob's Kitchen,"74 Rue des Gravilliers, 75003 Paris",http://www.openstreetmap.org/?mlat=48.864468999999794&mlon=2.3543756097869846#map=4/48.864468999999794/2.3543756097869846/m
+48.87023199999968,2.368820609787008,Tien Hiang,"14 Rue Bichat, 75010 Paris",http://www.openstreetmap.org/?mlat=48.87023199999968&mlon=2.368820609787008#map=4/48.87023199999968/2.368820609787008/m
+48.84894500000004,2.3680916097870295,Gentle Gourmet Café,"24 Boulevard de la Bastille, 75012 Paris, France",http://www.openstreetmap.org/?mlat=48.84894500000004&mlon=2.3680916097870295#map=4/48.84894500000004/2.3680916097870295/m
+48.855493,2.374003609786996,Blue Elephant,"45 Rue de la Roquette, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.855493&mlon=2.374003609786996#map=4/48.855493/2.374003609786996/m
+48.85745099999998,2.358888609786959,L'as du Fallafel,"32-34 Rue des Rosiers, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.85745099999998&mlon=2.358888609786959#map=4/48.85745099999998/2.358888609786959/m
+48.876993999999655,2.3478516097869715,VG,"85 Rue la Fayette, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.876993999999655&mlon=2.3478516097869715#map=4/48.876993999999655/2.3478516097869715/m
+48.861315999999846,2.35804460978693,Hank,"55 Rue des Archives, 75003 Paris",http://www.openstreetmap.org/?mlat=48.861315999999846&mlon=2.35804460978693#map=4/48.861315999999846/2.35804460978693/m
+48.853276000000044,2.3414246097870546,Chez Le Libanais,"35 Rue Saint-André des Arts, 75006 Paris, France",http://www.openstreetmap.org/?mlat=48.853276000000044&mlon=2.3414246097870546#map=4/48.853276000000044/2.3414246097870546/m
+48.8618569999998,2.3729116097870246,East Side Burgers,"60 Boulevard Voltaire, 75011 Paris",http://www.openstreetmap.org/?mlat=48.8618569999998&mlon=2.3729116097870246#map=4/48.8618569999998/2.3729116097870246/m
+48.84072199999989,2.3695716097870445,M.O.B. Austerlitz,"34 Quai d'Austerlitz, 75013 Paris, France",http://www.openstreetmap.org/?mlat=48.84072199999989&mlon=2.3695716097870445#map=4/48.84072199999989/2.3695716097870445/m
+48.85795000000001,2.3461756097869966,Dernier Bar avant la Fin du Monde,"19 Avenue Victoria, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.85795000000001&mlon=2.3461756097869966#map=4/48.85795000000001/2.3461756097869966/m
+48.86690399999968,2.346972609786917,Bollynan,"13 Rue des Petits Carreaux, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.86690399999968&mlon=2.346972609786917#map=4/48.86690399999968/2.346972609786917/m
+48.873318999999675,2.344463609786999,Vegebowl,"3 Rue de la Boule Rouge, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.873318999999675&mlon=2.344463609786999#map=4/48.873318999999675/2.344463609786999/m
+48.85785699999996,2.3546596097869497,Le Pain Quotidien — Paris Archives,"18 Rue des Archives, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.85785699999996&mlon=2.3546596097869497#map=4/48.85785699999996/2.3546596097869497/m
+48.852953000000014,2.3453196097869977,Maoz,8 Rue Xavier Privas Paris,http://www.openstreetmap.org/?mlat=48.852953000000014&mlon=2.3453196097869977#map=4/48.852953000000014/2.3453196097869977/m
+48.85663,2.3581229999999778,Don's,"5 Rue des Ecouffes, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.85663&mlon=2.3581229999999778#map=4/48.85663/2.3581229999999778/m
+49.497828,0.11167999999997846,Épices et tout,"92 Rue Docteur Vigne, 76600 Le Havre, France",http://www.openstreetmap.org/?mlat=49.497828&mlon=0.11167999999997846#map=4/49.497828/0.11167999999997846/m
+50.359201,3.5221950000000106,MANKOUFU,"5 Avenue Georges Clemenceau, 59300 Valenciennes, France",http://www.openstreetmap.org/?mlat=50.359201&mlon=3.5221950000000106#map=4/50.359201/3.5221950000000106/m
+48.85815,2.365366999999992,Mai Thai,"24B Rue Saint-Gilles, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.85815&mlon=2.365366999999992#map=4/48.85815/2.365366999999992/m
+47.217724,-1.5557410000000118,La Cantine de Livresse,"9 Rue de l'Hôtel de ville, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.217724&mlon=-1.5557410000000118#map=4/47.217724/-1.5557410000000118/m
+48.897628,2.3440729999999803,La REcyclerie,"83 Boulevard Ornano, 75018 Paris, France",http://www.openstreetmap.org/?mlat=48.897628&mlon=2.3440729999999803#map=4/48.897628/2.3440729999999803/m
+48.866,2.378559999999993,L'Esprit Tchaï,"115 Rue Oberkampf, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.866&mlon=2.378559999999993#map=4/48.866/2.378559999999993/m
+48.109253,-1.6829290000000583,Apple Pie,"31 Rue de la Chalotais, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.109253&mlon=-1.6829290000000583#map=4/48.109253/-1.6829290000000583/m
+44.8322064,-0.5668818000000329,La Soupe au Caillou,"6 Place du Maucaillou, 33800 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.8322064&mlon=-0.5668818000000329#map=4/44.8322064/-0.5668818000000329/m
+50.639954,5.581915999999978,Le Mékong,"Rue Surlet 43, 4020 Liège, Belgique",http://www.openstreetmap.org/?mlat=50.639954&mlon=5.581915999999978#map=4/50.639954/5.581915999999978/m
+48.844283,2.3304450000000543,Le Lucernaire,"53 Rue Notre Dame des Champs, 75006 Paris, France",http://www.openstreetmap.org/?mlat=48.844283&mlon=2.3304450000000543#map=4/48.844283/2.3304450000000543/m
+47.9013499,1.9052822999999537,Un piano dans la théière,"31 Rue Sainte-Catherine, 45000 Orléans, France",http://www.openstreetmap.org/?mlat=47.9013499&mlon=1.9052822999999537#map=4/47.9013499/1.9052822999999537/m
+43.088433,1.875006999999982,La Cardamone,"38 Place Maréchal Leclerc, 09500 Mirepoix, France",http://www.openstreetmap.org/?mlat=43.088433&mlon=1.875006999999982#map=4/43.088433/1.875006999999982/m
+49.62794,6.129930999999942,Gourmandises Permises,"15 Place François-Joseph Dargent, 1413 Luxembourg, Luxembourg",http://www.openstreetmap.org/?mlat=49.62794&mlon=6.129930999999942#map=4/49.62794/6.129930999999942/m
+48.870195,2.3688589999999294,Le Bichat,"11 Rue Bichat, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.870195&mlon=2.3688589999999294#map=4/48.870195/2.3688589999999294/m
+46.5484965,2.9805690000000595,Château d'Ygrande,"Le Mont, 03160 Ygrande",http://www.openstreetmap.org/?mlat=46.5484965&mlon=2.9805690000000595#map=4/46.5484965/2.9805690000000595/m
+43.714883,-1.0569120000000112,Panier Amande,"25 Avenue du Sablar, 40100 Dax, France",http://www.openstreetmap.org/?mlat=43.714883&mlon=-1.0569120000000112#map=4/43.714883/-1.0569120000000112/m
+48.581268,7.757109000000013,Le Tarbouche,22 rue de la Krutenau Strasbourg,http://www.openstreetmap.org/?mlat=48.581268&mlon=7.757109000000013#map=4/48.581268/7.757109000000013/m
+48.87917800000001,2.3432339999999385,Wally Le Saharien,"36 Rue Rodier, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.87917800000001&mlon=2.3432339999999385#map=4/48.87917800000001/2.3432339999999385/m
+53.548499,9.96219700000006,Veganimbiss Befried,"Friedrichstraße 3, 20359 Hamburg, Allemagne",http://www.openstreetmap.org/?mlat=53.548499&mlon=9.96219700000006#map=4/53.548499/9.96219700000006/m
+46.8125145,1.6910550000000057,Nok Noy,"5 Place Robert Monestier, 36000 Châteauroux, France",http://www.openstreetmap.org/?mlat=46.8125145&mlon=1.6910550000000057#map=4/46.8125145/1.6910550000000057/m
+44.857322,-0.560483999999974,Rest'O,"16 Quai de Bacalan, 33300 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.857322&mlon=-0.560483999999974#map=4/44.857322/-0.560483999999974/m
+50.65225849999999,2.986229099999946,Salad & Co — Lille,14 ter rue du Château d'Isenghien 59160 Lomme,http://www.openstreetmap.org/?mlat=50.65225849999999&mlon=2.986229099999946#map=4/50.65225849999999/2.986229099999946/m
+50.615451,3.1251970000000715,Salad & Co — Villeneuve-d'Ascq,Salad&Co - Restaurant Villeneuve d'Ascq Centre commercial Heron Parc Avenue de l'Avenir 59650 Villeneuve d'Ascq,http://www.openstreetmap.org/?mlat=50.615451&mlon=3.1251970000000715#map=4/50.615451/3.1251970000000715/m
+48.583839000000005,7.745721000000003,Vert Ici,"31 Place Kléber, 67000 Strasbourg",http://www.openstreetmap.org/?mlat=48.583839000000005&mlon=7.745721000000003#map=4/48.583839000000005/7.745721000000003/m
+52.356275,4.910001999999963,Restaurant Beter & Leuk,1e Oosterparkstraat 73/91 1091 GW Amsterdam,http://www.openstreetmap.org/?mlat=52.356275&mlon=4.910001999999963#map=4/52.356275/4.910001999999963/m
+48.867786,2.336279999999988,Vietnam in Paris,"52 Rue Sainte-Anne, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.867786&mlon=2.336279999999988#map=4/48.867786/2.336279999999988/m
+48.114108,-1.6795439999999644,Al-saj,"5 Rue Motte Fablet, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.114108&mlon=-1.6795439999999644#map=4/48.114108/-1.6795439999999644/m
+45.749158300000005,4.838920499999973,BAP,"33 Rue Chevreul, 69007 Lyon, France",http://www.openstreetmap.org/?mlat=45.749158300000005&mlon=4.838920499999973#map=4/45.749158300000005/4.838920499999973/m
+48.5835562,7.754569599999968,Hot Doggy Dog,"3 Rue de l'Arc en Ciel, 67000 Strasbourg, France",http://www.openstreetmap.org/?mlat=48.5835562&mlon=7.754569599999968#map=4/48.5835562/7.754569599999968/m
+50.6296016,3.061799800000017,Bis 2 Fly,"19 Rue Nicolas Leblanc, 59000 Lille, France",http://www.openstreetmap.org/?mlat=50.6296016&mlon=3.061799800000017#map=4/50.6296016/3.061799800000017/m
+45.766515,4.854869000000008,Messob,"85 Rue Masséna, 69006 Lyon, France",http://www.openstreetmap.org/?mlat=45.766515&mlon=4.854869000000008#map=4/45.766515/4.854869000000008/m
+43.7907595,7.611582900000031,I Sapori Della Tavola,"Via Camillo Benso Cavour, 58, 18039 Ventimiglia IM, Italie",http://www.openstreetmap.org/?mlat=43.7907595&mlon=7.611582900000031#map=4/43.7907595/7.611582900000031/m
+48.857165,2.358965000000012,Miznon,"22 Rue des Ecouffes, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.857165&mlon=2.358965000000012#map=4/48.857165/2.358965000000012/m
+43.773658,11.25848700000006,Panino Vegano,"Via Maurizio Bufalini, 19, 50122 Firenze, Italie",http://www.openstreetmap.org/?mlat=43.773658&mlon=11.25848700000006#map=4/43.773658/11.25848700000006/m
+49.263575,-123.100747,The Wallflower Modern Diner,"2420 Main Street, Vancouver, BC V5T 3H9, Canada",http://www.openstreetmap.org/?mlat=49.263575&mlon=-123.100747#map=4/49.263575/-123.100747/m
+49.2644662,-123.10101810000003,Foundation Eatery,"2301 Main Street, Vancouver, BC V5T 1M6, Canada",http://www.openstreetmap.org/?mlat=49.2644662&mlon=-123.10101810000003#map=4/49.2644662/-123.10101810000003/m
+48.1153,-1.6789099999999735,Le Coucou Rennais,"20 Rue d'Antrain, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.1153&mlon=-1.6789099999999735#map=4/48.1153/-1.6789099999999735/m
+48.11200849999999,-1.675451199999998,India,"41 Rue Saint-Georges, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.11200849999999&mlon=-1.675451199999998#map=4/48.11200849999999/-1.675451199999998/m
+52.528729,13.397016000000008,Kopps,"Linienstraße 94, 10115 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.528729&mlon=13.397016000000008#map=4/52.528729/13.397016000000008/m
+52.507663,13.45446400000003,Emma Pea,"Revaler Straße 99, 10245 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.507663&mlon=13.45446400000003#map=4/52.507663/13.45446400000003/m
+52.534608,13.399108999999953,The Jivamukti Canteen,"Brunnenstraße 29, 10119 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.534608&mlon=13.399108999999953#map=4/52.534608/13.399108999999953/m
+52.53048,13.402479999999969,Daluma,"Weinbergsweg 3, 10119 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.53048&mlon=13.402479999999969#map=4/52.53048/13.402479999999969/m
+52.506726,13.46877100000006,Vöner,"Boxhagener Straße 56, 10245 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.506726&mlon=13.46877100000006#map=4/52.506726/13.46877100000006/m
+46.58078700000001,0.34106499999995776,Wasabi,"11 Rue du Chaudron d'Or, 86000 Poitiers, France",http://www.openstreetmap.org/?mlat=46.58078700000001&mlon=0.34106499999995776#map=4/46.58078700000001/0.34106499999995776/m
+48.861741,2.351496999999995,Oh' Bio,"58 Rue Rambuteau, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.861741&mlon=2.351496999999995#map=4/48.861741/2.351496999999995/m
+43.7818456,11.260254300000042,Dolce Vita Vegan,"Via San Gallo, 92, 50129 Firenze, Italie",http://www.openstreetmap.org/?mlat=43.7818456&mlon=11.260254300000042#map=4/43.7818456/11.260254300000042/m
+44.8388019,-0.5790173999999979,Le Pain Quotidien — Bordeaux,"64 Rue des Remparts, 33000 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.8388019&mlon=-0.5790173999999979#map=4/44.8388019/-0.5790173999999979/m
+48.852892,2.375100599999996,Le Pain Quotidien — Paris Charonne,"24 Rue de Charonne, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.852892&mlon=2.375100599999996#map=4/48.852892/2.375100599999996/m
+45.186912,5.71836200000007,Bombay,"60 Cours Jean Jaurès, 38000 Grenoble",http://www.openstreetmap.org/?mlat=45.186912&mlon=5.71836200000007#map=4/45.186912/5.71836200000007/m
+49.602932,6.134702000000061,Chez Julie,"17 Rue de Bonnevoie, 1260 Luxembourg, Luxembourg",http://www.openstreetmap.org/?mlat=49.602932&mlon=6.134702000000061#map=4/49.602932/6.134702000000061/m
+44.752849,5.371149999999943,Tchai Walla,"8 Rue Joseph Reynaud, 26150 Die, France",http://www.openstreetmap.org/?mlat=44.752849&mlon=5.371149999999943#map=4/44.752849/5.371149999999943/m
+48.861835,2.380388000000039,Balls,"47 Rue Saint-Maur, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.861835&mlon=2.380388000000039#map=4/48.861835/2.380388000000039/m
+43.926654,2.1468170000000555,Le Tournesol,"11 Rue de l'Ort en Salvy, 81000 Albi, France",http://www.openstreetmap.org/?mlat=43.926654&mlon=2.1468170000000555#map=4/43.926654/2.1468170000000555/m
+47.214882,-1.537924999999973,Little Wokyo,"1 Rue Marcel Paul, 44000 Nantes, France",http://www.openstreetmap.org/?mlat=47.214882&mlon=-1.537924999999973#map=4/47.214882/-1.537924999999973/m
+45.188046,5.716985000000023,Le Phenicien,"51 Cours Berriat, 38000 Grenoble, France",http://www.openstreetmap.org/?mlat=45.188046&mlon=5.716985000000023#map=4/45.188046/5.716985000000023/m
+45.757649,4.840943000000038,Mendo,"26 Quai Victor Augagneur, 69003 Lyon, France",http://www.openstreetmap.org/?mlat=45.757649&mlon=4.840943000000038#map=4/45.757649/4.840943000000038/m
+46.58642649999999,0.3381428999999798,La nouvelle cantine du plan B,"32 Boulevard du Grand Cerf, 86000 Poitiers, France",http://www.openstreetmap.org/?mlat=46.58642649999999&mlon=0.3381428999999798#map=4/46.58642649999999/0.3381428999999798/m
+49.443202,1.086561999999958,Rest'O'Rock,"15 Rue Thomas Corneille, 76000 Rouen",http://www.openstreetmap.org/?mlat=49.443202&mlon=1.086561999999958#map=4/49.443202/1.086561999999958/m
+45.7652276,4.895665600000029,Caravanserail Café,"150 Rue du 4 Août 1789, 69100 Villeurbanne",http://www.openstreetmap.org/?mlat=45.7652276&mlon=4.895665600000029#map=4/45.7652276/4.895665600000029/m
+42.697473,2.893295999999964,Bio Deux Anges,"Rue des Augustins, 66000 Perpignan",http://www.openstreetmap.org/?mlat=42.697473&mlon=2.893295999999964#map=4/42.697473/2.893295999999964/m
+47.687313,-1.7355340000000299,Veg Mama,"1 Place de la Mairie, 44290 Pierric, France",http://www.openstreetmap.org/?mlat=47.687313&mlon=-1.7355340000000299#map=4/47.687313/-1.7355340000000299/m
+51.541344,-0.14456799999993564,InSpiral Lounge,"250 Camden High Street, London NW1 8QS, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.541344&mlon=-0.14456799999993564#map=4/51.541344/-0.14456799999993564/m
+51.51687,-0.20033699999999044,Nama,"110 Talbot Road, London W11 1JR, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.51687&mlon=-0.20033699999999044#map=4/51.51687/-0.20033699999999044/m
+51.52629,-0.10815700000000561,Hummus Bros — Exmouth Market,"62 Exmouth Market, London EC1R 4QE, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.52629&mlon=-0.10815700000000561#map=4/51.52629/-0.10815700000000561/m
+51.514315,-0.09514500000000226,Hummus Bros — Cheapside,"128 Cheapside, London EC2V 6BT, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.514315&mlon=-0.09514500000000226#map=4/51.514315/-0.09514500000000226/m
+51.519228000000005,-0.12158399999998437,Hummus Bros — Southampton,"37 Southampton Row, London WC1A 2QP, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.519228000000005&mlon=-0.12158399999998437#map=4/51.519228000000005/-0.12158399999998437/m
+51.513245,-0.13374599999997372,Hummus Bros — Soho,"88 Wardour Street, Soho, London W1F, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.513245&mlon=-0.13374599999997372#map=4/51.513245/-0.13374599999997372/m
+51.440104,-0.10579299999994873,Greenz,"5 Station Rise, West Norwood, London SE27 9BW, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.440104&mlon=-0.10579299999994873#map=4/51.440104/-0.10579299999994873/m
+51.529717,-0.116092999999978,Itadaki Zen,"139 King's Cross Road, Kings Cross, London WC1X 9BJ, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.529717&mlon=-0.116092999999978#map=4/51.529717/-0.116092999999978/m
+51.615167,-0.27548699999999826,Loving Hut — Edgware,"236 Station Road, Edgware, Greater London HA8 7AU, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.615167&mlon=-0.27548699999999826#map=4/51.615167/-0.27548699999999826/m
+51.536151,-0.13915299999996478,Loving Hut — Plender Street,"3 Plender Street, London NW1 0JT, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.536151&mlon=-0.13915299999996478#map=4/51.536151/-0.13915299999996478/m
+51.564966,-0.13330199999995784,Loving Hut — Holloway Road,"669 Holloway Road, London N19 5SE, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.564966&mlon=-0.13330199999995784#map=4/51.564966/-0.13330199999995784/m
+51.514161,-0.12559299999998075,Food For Thought,"31 Neal Street, London WC2H 9PR, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.514161&mlon=-0.12559299999998075#map=4/51.514161/-0.12559299999998075/m
+51.484641,-0.12017200000002504,Bonnington Cafe,"11 Vauxhall Grove, London SW8, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.484641&mlon=-0.12017200000002504#map=4/51.484641/-0.12017200000002504/m
+51.5130496,-0.13633470000002035,Mildreds,"45 Lexington St, London W1F 9AN, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.5130496&mlon=-0.13633470000002035#map=4/51.5130496/-0.13633470000002035/m
+51.486043,-0.20304399999997713,222 Veggie Vegan,"222 North End Road, London W14 9NU, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.486043&mlon=-0.20304399999997713#map=4/51.486043/-0.20304399999997713/m
+48.8593148,2.3488503999999466,Siam,"12 boulevard sébastopol, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.8593148&mlon=2.3488503999999466#map=4/48.8593148/2.3488503999999466/m
+47.318782,5.035757999999987,Les treize lucioles,"13 Place Emile Zola, 21000 Dijon",http://www.openstreetmap.org/?mlat=47.318782&mlon=5.035757999999987#map=4/47.318782/5.035757999999987/m
+50.2877239,2.7797696000000087,Mezzaluna,"10 Rue Gambetta, 62000 Arras, France",http://www.openstreetmap.org/?mlat=50.2877239&mlon=2.7797696000000087#map=4/50.2877239/2.7797696000000087/m
+45.5015541,-73.57075409999999,Végo — McGill,"1204 Avenue McGill College, Montréal, QC H3B 4J8, Canada",http://www.openstreetmap.org/?mlat=45.5015541&mlon=-73.57075409999999#map=4/45.5015541/-73.57075409999999/m
+45.515529,-73.564684,Végo — St-Denis,"1720 Rue Saint-Denis, Montréal, QC H2X 3K4, Canada",http://www.openstreetmap.org/?mlat=45.515529&mlon=-73.564684#map=4/45.515529/-73.564684/m
+45.521636,-73.58509400000003,La Panthère Verte / The Green Panther,"2153 Rue Mackay, Montréal, QC H3G 2J2, Canada",http://www.openstreetmap.org/?mlat=45.521636&mlon=-73.58509400000003#map=4/45.521636/-73.58509400000003/m
+43.657861,7.188125000000014,Dame Nature,"167 Promenade des Flots Bleus, 06700 Saint-Laurent-du-Var, France",http://www.openstreetmap.org/?mlat=43.657861&mlon=7.188125000000014#map=4/43.657861/7.188125000000014/m
+47.39402339999999,0.6806344999999965,Goûter chez Sam,"6 Place du Grand Marché, 37000 Tours, France",http://www.openstreetmap.org/?mlat=47.39402339999999&mlon=0.6806344999999965#map=4/47.39402339999999/0.6806344999999965/m
+47.39482,0.6834800000000314,Chez Habibi,"83 Rue du Commerce, 37000 Tours, France",http://www.openstreetmap.org/?mlat=47.39482&mlon=0.6834800000000314#map=4/47.39482/0.6834800000000314/m
+48.85482900000001,2.375872999999956,DUNE,"20 Rue Keller, 75011 Paris, France",http://www.openstreetmap.org/?mlat=48.85482900000001&mlon=2.375872999999956#map=4/48.85482900000001/2.375872999999956/m
+47.745519,7.33594400000004,Pum,"7 Rue du Mittelbach, 68100 Mulhouse, France",http://www.openstreetmap.org/?mlat=47.745519&mlon=7.33594400000004#map=4/47.745519/7.33594400000004/m
+48.688581,6.184872000000041,La Table du petit Chaouen,"27 Rue des Sœurs Macarons, 54000 Nancy, France",http://www.openstreetmap.org/?mlat=48.688581&mlon=6.184872000000041#map=4/48.688581/6.184872000000041/m
+48.84924000000001,2.2825760000000628,Chipotle Mexican Grill — Beaugrenelle,"1 Rue Linois, Paris",http://www.openstreetmap.org/?mlat=48.84924000000001&mlon=2.2825760000000628#map=4/48.84924000000001/2.2825760000000628/m
+44.8360024,-0.578233100000034,Greedy,62-64 avenue du Hâ 33000 Bordeaux,http://www.openstreetmap.org/?mlat=44.8360024&mlon=-0.578233100000034#map=4/44.8360024/-0.578233100000034/m
+44.8407178,-0.5817206000000397,Smart Green Corner,"20 Rue Castelnau d'Auros, 33000 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.8407178&mlon=-0.5817206000000397#map=4/44.8407178/-0.5817206000000397/m
+49.2541254,4.02714960000003,Un indien dans la ville,"7 Place Drouet d'Erlon, 51100 Reims, France",http://www.openstreetmap.org/?mlat=49.2541254&mlon=4.02714960000003#map=4/49.2541254/4.02714960000003/m
+47.74439,7.334149000000026,La Tête de Chou,"14 Rue des Trois Rois, 68100 Mulhouse",http://www.openstreetmap.org/?mlat=47.74439&mlon=7.334149000000026#map=4/47.74439/7.334149000000026/m
+48.890961,2.2368099999999913,Chipotle Mexican Grill — La Défense,"Centre Commercial Les 4 Temps, Les 4 Temps, 15 Parvis de la Défense, 92800 Puteaux",http://www.openstreetmap.org/?mlat=48.890961&mlon=2.2368099999999913#map=4/48.890961/2.2368099999999913/m
+43.603666,1.4350239999999985,Le bonheur est dans le pot,"17 Place Saint-Pierre, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.603666&mlon=1.4350239999999985#map=4/43.603666/1.4350239999999985/m
+47.473429,-0.5509140000000343,Au murmure des carottes,"60 Rue du Mail, 49100 Angers, France",http://www.openstreetmap.org/?mlat=47.473429&mlon=-0.5509140000000343#map=4/47.473429/-0.5509140000000343/m
+48.851807,2.3178269999999657,Ô Soleil De Naples,"56 Rue de Babylone, 75007 Paris, France",http://www.openstreetmap.org/?mlat=48.851807&mlon=2.3178269999999657#map=4/48.851807/2.3178269999999657/m
+45.775967,4.834988000000067,Le jardin intérieur,"2 Rue Belfort, 69004 Lyon",http://www.openstreetmap.org/?mlat=45.775967&mlon=4.834988000000067#map=4/45.775967/4.834988000000067/m
+48.9053123,2.344394599999987,HighTall Vital,"101 Avenue Michelet, 93400 Saint-Ouen, France",http://www.openstreetmap.org/?mlat=48.9053123&mlon=2.344394599999987#map=4/48.9053123/2.344394599999987/m
+48.849172,2.3395550000000185,Indonesia,"3 Rue de Vaugirard, 75006 Paris, France",http://www.openstreetmap.org/?mlat=48.849172&mlon=2.3395550000000185#map=4/48.849172/2.3395550000000185/m
+43.292963,5.377682999999934,Country Life Marseille,"14 Rue Venture, 13001 Marseille, France",http://www.openstreetmap.org/?mlat=43.292963&mlon=5.377682999999934#map=4/43.292963/5.377682999999934/m
+43.551947,7.017914000000019,Citronelle,"16 Rue Bivouac Napoléon, 06400 Cannes, France",http://www.openstreetmap.org/?mlat=43.551947&mlon=7.017914000000019#map=4/43.551947/7.017914000000019/m
+48.840808,2.3881830000000264,Oulala Traiteur,"189 Rue de Charenton, 75012 Paris, France",http://www.openstreetmap.org/?mlat=48.840808&mlon=2.3881830000000264#map=4/48.840808/2.3881830000000264/m
+46.813198,-71.22759200000002,Om Prana,"241 Rue Saint-Joseph E, Québec, QC G1K 3E8, Canada",http://www.openstreetmap.org/?mlat=46.813198&mlon=-71.22759200000002#map=4/46.813198/-71.22759200000002/m
+43.439236,-1.590061999999989,The Nourishing Box,"Bidart, France",http://www.openstreetmap.org/?mlat=43.439236&mlon=-1.590061999999989#map=4/43.439236/-1.590061999999989/m
+41.380379,2.1773210000000063,Gopal,"Carrer dels Escudellers, 42, 08002 Barcelona, Barcelona, Espagne",http://www.openstreetmap.org/?mlat=41.380379&mlon=2.1773210000000063#map=4/41.380379/2.1773210000000063/m
+41.380213,2.1691170000000284,Juicy Jones,"Carrer del Cardenal Casañas, 7, 08002 Barcelona, Espagne",http://www.openstreetmap.org/?mlat=41.380213&mlon=2.1691170000000284#map=4/41.380213/2.1691170000000284/m
+41.382234,2.1680200000000696,Veggie Garden,"Carrer dels Àngels, 3, 08001 Barcelona, Espagne",http://www.openstreetmap.org/?mlat=41.382234&mlon=2.1680200000000696#map=4/41.382234/2.1680200000000696/m
+52.512776,13.462259000000017,Ohlala,"Mainzer Straße 18, 10247 Berlin, Allemagne",http://www.openstreetmap.org/?mlat=52.512776&mlon=13.462259000000017#map=4/52.512776/13.462259000000017/m
+48.847396,2.370420999999965,Sain bio'z,"34 Avenue Ledru-Rollin, 75012 Paris, France",http://www.openstreetmap.org/?mlat=48.847396&mlon=2.370420999999965#map=4/48.847396/2.370420999999965/m
+49.252355,4.0254019999999855,La Maison de Mademoiselle Thi,"130 Rue de Vesle, 51100 Reims, France",http://www.openstreetmap.org/?mlat=49.252355&mlon=4.0254019999999855#map=4/49.252355/4.0254019999999855/m
+48.84264,2.5024009999999635,Les Délices de Gigi,67 Avenue Ledru Rollin Le Perreux-sur-Marne,http://www.openstreetmap.org/?mlat=48.84264&mlon=2.5024009999999635#map=4/48.84264/2.5024009999999635/m
+45.779413,3.08442500000001,La BerGaMoThée,"1 Place du Mazet, 63000 Clermont-Ferrand",http://www.openstreetmap.org/?mlat=45.779413&mlon=3.08442500000001#map=4/45.779413/3.08442500000001/m
+48.859407,2.364111600000001,Jay & Joy,"3 Rue Sainte-Anastase, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.859407&mlon=2.364111600000001#map=4/48.859407/2.364111600000001/m
+50.8785463,4.7033040999999685,Vegaverso,"Tiensestraat 20, 3000 Leuven, Belgique",http://www.openstreetmap.org/?mlat=50.8785463&mlon=4.7033040999999685#map=4/50.8785463/4.7033040999999685/m
+51.5419196,-0.1576341999999613,Manna,"4 Erskine Rd, London NW3 3AJ, Royaume-Uni",http://www.openstreetmap.org/?mlat=51.5419196&mlon=-0.1576341999999613#map=4/51.5419196/-0.1576341999999613/m
+37.174185,-3.595033999999942,Hicuri Art Vegan,"Plaza de los Gironés, 4, 18009 Granada, Granada, Espagne",http://www.openstreetmap.org/?mlat=37.174185&mlon=-3.595033999999942#map=4/37.174185/-3.595033999999942/m
+50.6418979,2.9952964000000293,Celebrazioni,"121 Rue Anne Delavaux, 59160 Lille, France",http://www.openstreetmap.org/?mlat=50.6418979&mlon=2.9952964000000293#map=4/50.6418979/2.9952964000000293/m
+50.8279017,4.370428500000003,Ami,"Rue Lesbroussart 13, 1050 Ixelles, Belgique",http://www.openstreetmap.org/?mlat=50.8279017&mlon=4.370428500000003#map=4/50.8279017/4.370428500000003/m
+50.84552799999999,4.348694399999999,Kokob,"Rue des Grands Carmes 10-12, 1000 Bruxelles, Belgique",http://www.openstreetmap.org/?mlat=50.84552799999999&mlon=4.348694399999999#map=4/50.84552799999999/4.348694399999999/m
+48.584386,7.751441,Une fleur des champs,"4 Rue des Charpentiers, 67000 Strasbourg, France",http://www.openstreetmap.org/?mlat=48.584386&mlon=7.751441#map=4/48.584386/7.751441/m
+48.865864,2.3368379999999433,Damouri,"41 Rue de Richelieu, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.865864&mlon=2.3368379999999433#map=4/48.865864/2.3368379999999433/m
+48.866854,2.307657000000063,Siamin,"19 Rue Bayard, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.866854&mlon=2.307657000000063#map=4/48.866854/2.307657000000063/m
+48.832281,2.3460700000000543,Van Long,"9 Rue du Champ de l'Alouette, 75013 Paris, France",http://www.openstreetmap.org/?mlat=48.832281&mlon=2.3460700000000543#map=4/48.832281/2.3460700000000543/m
+49.184474,-0.35975699999994504,Dolly's,"16 Avenue de la Libération, 14000 Caen, France",http://www.openstreetmap.org/?mlat=49.184474&mlon=-0.35975699999994504#map=4/49.184474/-0.35975699999994504/m
+48.815483,2.3205070000000205,Le Titi Touareg,"92 Avenue Henri Ginoux, 92120 Montrouge",http://www.openstreetmap.org/?mlat=48.815483&mlon=2.3205070000000205#map=4/48.815483/2.3205070000000205/m
+46.5215074,6.63999519999993,Le Nil Bleu,"Place de l'Ours 1, 1005 Lausanne, Suisse",http://www.openstreetmap.org/?mlat=46.5215074&mlon=6.63999519999993#map=4/46.5215074/6.63999519999993/m
+52.376602,4.894639999999981,TerraZen Centre,"Sint Jacobsstraat 19 HS, 1012 NC Amsterdam, Pays-Bas",http://www.openstreetmap.org/?mlat=52.376602&mlon=4.894639999999981#map=4/52.376602/4.894639999999981/m
+46.946945,7.442001000000005,Tibits — Bern,"Gurtengasse 3, 3011 Bern, Suisse",http://www.openstreetmap.org/?mlat=46.946945&mlon=7.442001000000005#map=4/46.946945/7.442001000000005/m
+46.985813,6.837598999999955,L'Aubier Eco-Hôtel Montezillon,"Les Murailles 5, 2037 Montézillon, Suisse",http://www.openstreetmap.org/?mlat=46.985813&mlon=6.837598999999955#map=4/46.985813/6.837598999999955/m
+46.990594,6.929993999999965,L'Ami Ami,"Rue du Bassin 8, 2000 Neuchâtel, Suisse",http://www.openstreetmap.org/?mlat=46.990594&mlon=6.929993999999965#map=4/46.990594/6.929993999999965/m
+49.253018,4.02842499999997,Le Cèdre du Liban,"5, avenue du Maine 75015 Paris",http://www.openstreetmap.org/?mlat=49.253018&mlon=4.02842499999997#map=4/49.253018/4.02842499999997/m
+43.614082,3.877318999999943,L'oignon givré,"46 Rue de l'Université, 34000 Montpellier, France",http://www.openstreetmap.org/?mlat=43.614082&mlon=3.877318999999943#map=4/43.614082/3.877318999999943/m
+11.2520958,-85.87030199999998,Buddha's Garden,"Avenida la Bolsa, San Juan Del Sur, Nicaragua",http://www.openstreetmap.org/?mlat=11.2520958&mlon=-85.87030199999998#map=4/11.2520958/-85.87030199999998/m
+48.882816,2.373328000000015,Les Marmites Volantes,"69 Rue Armand Carrel, 75019 Paris, France",http://www.openstreetmap.org/?mlat=48.882816&mlon=2.373328000000015#map=4/48.882816/2.373328000000015/m
+48.871558,2.3505420000000186,La Petite Chaufferie,"32 Rue de l'Échiquier, 75010 Paris, France",http://www.openstreetmap.org/?mlat=48.871558&mlon=2.3505420000000186#map=4/48.871558/2.3505420000000186/m
+48.86125,2.3605969999999843,Yuman,"70 Rue du Chevaleret, 75013 Paris",http://www.openstreetmap.org/?mlat=48.86125&mlon=2.3605969999999843#map=4/48.86125/2.3605969999999843/m
+48.880667,2.3440650000000005,Pizza di Loretta,"62 Rue Rodier, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.880667&mlon=2.3440650000000005#map=4/48.880667/2.3440650000000005/m
+50.635617,3.063382000000047,Le Pain Quotidien — Lille Rihour,"35 Place Rihour, 59800 Lille, France",http://www.openstreetmap.org/?mlat=50.635617&mlon=3.063382000000047#map=4/50.635617/3.063382000000047/m
+48.866968,2.2787049999999454,Le Pain Quotidien — Paris Victor Hugo,"150 Avenue Victor Hugo, 75116 Paris",http://www.openstreetmap.org/?mlat=48.866968&mlon=2.2787049999999454#map=4/48.866968/2.2787049999999454/m
+37.39024700000001,-6.001637999999957,Gaia,"Calle Luis de Vargas, 4, 41001 Sevilla, Sevilla, Espagne",http://www.openstreetmap.org/?mlat=37.39024700000001&mlon=-6.001637999999957#map=4/37.39024700000001/-6.001637999999957/m
+43.610145,3.87935200000004,Tripti Kulai,"20 Rue Jacques Cœur, 34000 Montpellier",http://www.openstreetmap.org/?mlat=43.610145&mlon=3.87935200000004#map=4/43.610145/3.87935200000004/m
+48.21558000000001,16.379714000000035,Harvest Café,"Karmeliterplatz 1, 1020 Wien, Autriche",http://www.openstreetmap.org/?mlat=48.21558000000001&mlon=16.379714000000035#map=4/48.21558000000001/16.379714000000035/m
+43.5910499,1.4447410999999875,Manger autrement chez Prasad,"155 Grande Rue Saint-Michel, 31400 Toulouse, France",http://www.openstreetmap.org/?mlat=43.5910499&mlon=1.4447410999999875#map=4/43.5910499/1.4447410999999875/m
+47.90023,1.9092439999999442,Angkor,"228 Rue de Bourgogne, 45000 Orléans",http://www.openstreetmap.org/?mlat=47.90023&mlon=1.9092439999999442#map=4/47.90023/1.9092439999999442/m
+43.6044432,1.4525187,Le Yéti,"21 Rue de la Colombette, 31000 Toulouse",http://www.openstreetmap.org/?mlat=43.6044432&mlon=1.4525187#map=4/43.6044432/1.4525187/m
+50.362408,3.51729,Sushi Val,"41 Avenue du Sénateur Girard, 59300 Valenciennes, France",http://www.openstreetmap.org/?mlat=50.362408&mlon=3.51729#map=4/50.362408/3.51729/m
+48.102353,-1.71337,Pique-Prune — Cleuney,"132 Rue Eugène Pottier, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.102353&mlon=-1.71337#map=4/48.102353/-1.71337/m
+48.637804,-2.019055,Café Crêperie de la Plage,Rue des Bas Sablons Saint-Malo,http://www.openstreetmap.org/?mlat=48.637804&mlon=-2.019055#map=4/48.637804/-2.019055/m
+48.778591,2.29121,Crêperie Garnier,"4 Place du Général de Gaulle, 92330 Sceaux",http://www.openstreetmap.org/?mlat=48.778591&mlon=2.29121#map=4/48.778591/2.29121/m
+43.299375,5.377497,Grain de Sable,"34 Rue du Baignoir, 13001 Marseille, France",http://www.openstreetmap.org/?mlat=43.299375&mlon=5.377497#map=4/43.299375/5.377497/m
+48.8662633,2.3359812999999576,Nest ,"9 Rue Villedo, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.8662633&mlon=2.3359812999999576#map=4/48.8662633/2.3359812999999576/m
+48.879205,2.366604999999936,Kheak & Vero,"1 Rue Alexandre Parodi, 75010 Paris",http://www.openstreetmap.org/?mlat=48.879205&mlon=2.366604999999936#map=4/48.879205/2.366604999999936/m
+48.11528400000001,-1.6787890000000516,Black Temple Food,"4 Passage des Carmélites, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.11528400000001&mlon=-1.6787890000000516#map=4/48.11528400000001/-1.6787890000000516/m
+48.8410204,2.361677900000018,Bibimbap,"32 Boulevard de l'Hôpital, 75005 Paris, France",http://www.openstreetmap.org/?mlat=48.8410204&mlon=2.361677900000018#map=4/48.8410204/2.361677900000018/m
+48.910865,2.333677999999964,Bon Appétit,"9 Avenue Gabriel Péri, 93400 Saint-Ouen, France",http://www.openstreetmap.org/?mlat=48.910865&mlon=2.333677999999964#map=4/48.910865/2.333677999999964/m
+48.853872,2.4205560000000332,Casa Poblano,"15 Rue Lavoisier, 93100 Montreuil, France",http://www.openstreetmap.org/?mlat=48.853872&mlon=2.4205560000000332#map=4/48.853872/2.4205560000000332/m
+47.39440099999999,0.6806940000000168,Shelter,"19 Rue du Grand Marché, 37000 Tours, France",http://www.openstreetmap.org/?mlat=47.39440099999999&mlon=0.6806940000000168#map=4/47.39440099999999/0.6806940000000168/m
+43.2894616,5.387346999999977,Londonewyork,"77 Rue de Lodi, 13006 Marseille, France",http://www.openstreetmap.org/?mlat=43.2894616&mlon=5.387346999999977#map=4/43.2894616/5.387346999999977/m
+50.68932,3.170688000000041,Cooperative Baraka,"20 Rue de Sébastopol, 59100 Roubaix, France",http://www.openstreetmap.org/?mlat=50.68932&mlon=3.170688000000041#map=4/50.68932/3.170688000000041/m
+48.846793,2.2938890000000356,Brasserie Lola,99 rue du Théâtre Paris,http://www.openstreetmap.org/?mlat=48.846793&mlon=2.2938890000000356#map=4/48.846793/2.2938890000000356/m
+48.87481529999999,2.3255444000000125,La pause libanaise,"08 Rue de l'Isly, 75008 Paris, France",http://www.openstreetmap.org/?mlat=48.87481529999999&mlon=2.3255444000000125#map=4/48.87481529999999/2.3255444000000125/m
+46.34842889999999,6.3564331999999695,Ed's kitchen,"Route du Lac, 74140 Excenevex, France",http://www.openstreetmap.org/?mlat=46.34842889999999&mlon=6.3564331999999695#map=4/46.34842889999999/6.3564331999999695/m
+48.877809,2.3488139999999476,La Presqu'Ile,"113 Rue du Faubourg Poissonnière, 75009 Paris, France",http://www.openstreetmap.org/?mlat=48.877809&mlon=2.3488139999999476#map=4/48.877809/2.3488139999999476/m
+45.192513,5.730308000000037,Wokbar,"14 Rue Barnave, 38000 Grenoble, France",http://www.openstreetmap.org/?mlat=45.192513&mlon=5.730308000000037#map=4/45.192513/5.730308000000037/m
+45.1652784,5.697064899999987,Sapori Antichi,"69 Rue de la Liberté, 38180 Seyssins, France",http://www.openstreetmap.org/?mlat=45.1652784&mlon=5.697064899999987#map=4/45.1652784/5.697064899999987/m
+48.867757,2.3353889999999637,Végitaï,"39/41 Passage Choiseul, 75002 Paris",http://www.openstreetmap.org/?mlat=48.867757&mlon=2.3353889999999637#map=4/48.867757/2.3353889999999637/m
+48.863434,2.3631319999999505,Nanashi,"57 Rue Charlot, 75003 Paris, France",http://www.openstreetmap.org/?mlat=48.863434&mlon=2.3631319999999505#map=4/48.863434/2.3631319999999505/m
+48.825504,2.3537360000000263,La bonne heure,"72 Rue du Moulin des Prés, 75013 Paris, France",http://www.openstreetmap.org/?mlat=48.825504&mlon=2.3537360000000263#map=4/48.825504/2.3537360000000263/m
+16.2417301,-61.565840200000025,Vapor é Vous,"Immeuble Tsahal, 51 rue Becquerel, Jarry, Guadeloupe",http://www.openstreetmap.org/?mlat=16.2417301&mlon=-61.565840200000025#map=4/16.2417301/-61.565840200000025/m
+45.88187,-1.251585,Maha Prana,"20 Route du Large, 17550 Dolus-d'Oléron",http://www.openstreetmap.org/?mlat=45.88187&mlon=-1.251585#map=4/45.88187/-1.251585/m
+46.207108,6.145691,Qibi Urban Smart Food,"Rue Kléberg 12, 1201 Genève, Suisse",http://www.openstreetmap.org/?mlat=46.207108&mlon=6.145691#map=4/46.207108/6.145691/m
+48.885204,2.365449,Cantine Vagabonde,"11 Rue d'Aubervilliers, 75019 Paris, France",http://www.openstreetmap.org/?mlat=48.885204&mlon=2.365449#map=4/48.885204/2.365449/m
+48.861174,2.344402,Beytouti,"44 Rue Saint Honoré, 75001 Paris, France",http://www.openstreetmap.org/?mlat=48.861174&mlon=2.344402#map=4/48.861174/2.344402/m
+48.851807,2.366342,Grand Appétit,"9 Rue de la Cerisaie, 75004 Paris, France",http://www.openstreetmap.org/?mlat=48.851807&mlon=2.366342#map=4/48.851807/2.366342/m
+44.8355503,-0.5836331,La cuisine de Johanna,"44 Cours Anatole France, 33000 Bordeaux, France",http://www.openstreetmap.org/?mlat=44.8355503&mlon=-0.5836331#map=4/44.8355503/-0.5836331/m
+48.114765,-1.676024,Dolma,"36 Rue Saint-Melaine, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.114765&mlon=-1.676024#map=4/48.114765/-1.676024/m
+48.114367,-1.679732,Ethnic Food,"3 Place Sainte-Anne, 35000 Rennes, France",http://www.openstreetmap.org/?mlat=48.114367&mlon=-1.679732#map=4/48.114367/-1.679732/m
+48.867429,2.344029,Loumi's,"106 Rue Montmartre, 75002 Paris, France",http://www.openstreetmap.org/?mlat=48.867429&mlon=2.344029#map=4/48.867429/2.344029/m
+48.908821,0.26453,La Maison du Vert,"70 Le Bourg, 61120 Ticheville, France",http://www.openstreetmap.org/?mlat=48.908821&mlon=0.26453#map=4/48.908821/0.26453/m
+43.608501,1.449604,Ô Bali,"31 Rue Denfert Rochereau, 31000 Toulouse, France",http://www.openstreetmap.org/?mlat=43.608501&mlon=1.449604#map=4/43.608501/1.449604/m
+51.217365,4.403891,Lombardia Natural Food,"Lombardenvest 78, 2000 Antwerpen, Belgique",http://www.openstreetmap.org/?mlat=51.217365&mlon=4.403891#map=4/51.217365/4.403891/m
+50.630081,3.057225,Sushi Boutik,"133 Rue Solférino, 59000 Lille, France",http://www.openstreetmap.org/?mlat=50.630081&mlon=3.057225#map=4/50.630081/3.057225/m
+48.1392776,-1.6910584,Pique-Prune — St Grégoire,"8 Allée de la Cerisaie, 35760 Saint-Grégoire, France",http://www.openstreetmap.org/?mlat=48.1392776&mlon=-1.6910584#map=4/48.1392776/-1.6910584/m
+48.1132017,-1.6069621000000003,Pique-Prune — Cesson,"8 Avenue des Peupliers, 35510 Cesson-Sévigné, France",http://www.openstreetmap.org/?mlat=48.1132017&mlon=-1.6069621000000003#map=4/48.1132017/-1.6069621000000003/m
+50.63257,3.065109,La Source,"13 Rue du Plat, 59800 Lille, France",http://www.openstreetmap.org/?mlat=50.63257&mlon=3.065109#map=4/50.63257/3.065109/m
+50.6296873,3.061069599999996,Cô Dô Huê,"16 Rue Nicolas Leblanc, 59000 Lille, France",http://www.openstreetmap.org/?mlat=50.6296873&mlon=3.061069599999996#map=4/50.6296873/3.061069599999996/m
+43.609681,3.875809000000004,Umiyaki,"9 Rue de la Friperie, 34000 Montpellier, France",http://www.openstreetmap.org/?mlat=43.609681&mlon=3.875809000000004#map=4/43.609681/3.875809000000004/m
+43.579882,7.125550999999973,Chez Helen,"35 Rue des Revennes, 06600 Antibes",http://www.openstreetmap.org/?mlat=43.579882&mlon=7.125550999999973#map=4/43.579882/7.125550999999973/m
+47.899667,1.909366999999975,Hikari,"28 Rue de la Poterne, 45000 Orléans, France",http://www.openstreetmap.org/?mlat=47.899667&mlon=1.909366999999975#map=4/47.899667/1.909366999999975/m
