@@ -1,11 +1,11 @@
 # Vegan Places
 Vegan or Veg-friendly places around the world!
 
-##Vegan-Mafia 
-[![Vegan Mafia](https://api.mapbox.com/v4/mapbox.run-bike-hike/3,35,1/600x200@2x.png?access_token=pk.eyJ1Ijoiam9sZyIsImEiOiJjaWt5aHltaHQwMDVwd29tNGU0eDFjb2VmIn0.MbgvyGVOysHMIjDdEFoaHw)](Vegan-Mafia/vegan-mafia.geojson)
+##Vegan Mafia 
+[![Vegan Mafia](https://api.mapbox.com/v4/mapbox.run-bike-hike/3,35,1/600x200@2x.png?access_token=pk.eyJ1Ijoiam9sZyIsImEiOiJjaWt5aHltaHQwMDVwd29tNGU0eDFjb2VmIn0.MbgvyGVOysHMIjDdEFoaHw)](VeganMafia/vegan-mafia.geojson)
 
-###[View Vegan Mafia Map](Vegan-Mafia/vegan-mafia.geojson)
-###[View Vegan-Mafia Searchable List](Vegan-Mafia/vegan-mafia.csv)
+###[View Vegan Mafia Map](VeganMafia/vegan-mafia.geojson)
+###[View Vegan-Mafia Searchable List](VeganMafia/vegan-mafia.csv)
 
 ##VegOresto (Only Restaurants)
 [![VegOresto](https://api.mapbox.com/v4/mapbox.streets-basic/3,35,1/600x200@2x.png?access_token=pk.eyJ1Ijoiam9sZyIsImEiOiJjaWt5aHltaHQwMDVwd29tNGU0eDFjb2VmIn0.MbgvyGVOysHMIjDdEFoaHw)](VegOresto/vegoresto.geojson)
