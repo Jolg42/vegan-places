@@ -4,6 +4,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8991593,
+          1.906665299999986
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Au bon marché",
         "address": "12 Place du châtelet, 45000 Orléans"
@@ -12,6 +19,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6117398,
+          3.878945799999997
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Mezzanine",
         "address": "39 Rue de l'Aiguillerie 34000 Montpellier"
@@ -20,6 +34,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8628544,
+          2.3495186000000103
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ravioli Nord Est",
         "address": "115 Rue Saint-Denis 75001 Paris"
@@ -28,6 +49,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5981845,
+          1.4442781999999852
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Batbat",
         "address": "8 Rue des Filatiers, 31000 Toulouse"
@@ -36,6 +64,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2996407,
+          5.384010799999942
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Ondines",
         "address": "19 rue St-Bazile 13001 Marseille"
@@ -44,6 +79,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03530259999999,
+          2.379811199999949
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Green is better",
         "address": "35 Rue du Président Poincaré, 59140 Dunkerque"
@@ -52,6 +94,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.182863,
+          -0.37067899999999554
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Un sourire dans l'assiette",
         "address": "Caen\n"
@@ -60,6 +109,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6202627,
+          3.0520354000000225
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cantine vegan du Centre Culturel Libertaire",
         "address": "4 rue de Colmar 59000 LILLE"
@@ -68,6 +124,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8238121,
+          4.7920345
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cigkoftem — Lyon",
         "address": "17 avenue Jean Jaurès, 69003 Lyon"
@@ -76,6 +139,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8432286,
+          2.3853430000000344
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "PIGUT Stages gourmands de cuisine bio végétale",
         "address": "Rue de Charenton 75012 Paris"
@@ -84,6 +154,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3234548,
+          5.036514500000067
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lulu Graine d'un Monde",
         "address": "12 Rue de la Poste, 21000 Dijon"
@@ -92,6 +169,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6379514,
+          3.0694588000000067
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Houé",
         "address": "15 Rue du Vieux Faubourg 59000 Lille"
@@ -100,6 +184,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1220943,
+          6.177954799999952
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les petits zozios",
         "address": "35 rue des Jardins, 57000 Metz"
@@ -108,6 +199,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.827477,
+          2.3256708539454
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Caprice café",
         "address": "12 avenue Jean Moulin, 75014 Paris"
@@ -116,6 +214,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6983003,
+          2.8962433000000374
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La révolution verte",
         "address": "5 Rue du Théâtre, 66000 Perpignan"
@@ -124,6 +229,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.61173360000001,
+          3.8781593999999586
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les demoiselles de Montpellier",
         "address": "2, rue de la Carbonnerie, 34000 Montpellier"
@@ -132,6 +244,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.620909,
+          4.389862999999991
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La pause verte",
         "address": "Aubenas"
@@ -140,6 +259,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0842523,
+          2.398937599999954
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les trois cuillères",
         "address": "38 rue Bourbonnoux 18000 Bourges"
@@ -148,6 +274,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7468644,
+          7.3336289999999735
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "BIOfresh",
         "address": "36 rue de l'arsenal 68100 Mulhouse"
@@ -156,6 +289,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8811256,
+          2.312641900000017
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Rimal",
         "address": "94 bd Malesherbes, 75017 Paris"
@@ -164,6 +304,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7039464,
+          7.265218600000026
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Alounak",
         "address": "3, rue Alsace Lorraine, 06000 Nice"
@@ -172,6 +319,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8283773,
+          2.3261454999999387
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'éphémère",
         "address": "228 Avenue du Maine, 75014 Paris"
@@ -180,6 +334,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.624249,
+          3.0644181999999773
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Liquium",
         "address": "71 Rue Jeanne d'Arc, 59000 Lille"
@@ -188,6 +349,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8629889,
+          2.3640720999999303
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ob-La-Di Café",
         "address": "54 rue de Saintonge, 75003 Paris"
@@ -196,6 +364,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8754847,
+          2.349204900000018
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le tricycle",
         "address": "51 rue de Paradis, 75010 Paris"
@@ -204,6 +379,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.394694,
+          0.6829205000000229
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Habibi 2.0",
         "address": "100 rue du commerce 37000 Tours"
@@ -212,6 +394,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4978279,
+          0.11168050000003404
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Casse-Noisette",
         "address": "92 rue Docteur Vigne 76600 Le Havre"
@@ -220,6 +409,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8985272,
+          1.9074282999999923
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Oh Terroir (version Fast Good)",
         "address": "3 rue des Halles 45000 Orléans"
@@ -228,6 +424,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.107342,
+          6.179083499999933
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le GREEN se met au Vert",
         "address": "24, avenue Francois Mitterrand 57000 Metz"
@@ -236,6 +439,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88816809999999,
+          2.3624482999999827
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Petites Gouttes",
         "address": "12 esplanade Nathalie Sarraute, 75018 PARIS"
@@ -244,6 +454,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8653337,
+          2.350294500000018
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Twinkie",
         "address": "167 Rue Saint-Denis, 75002 Paris"
@@ -252,6 +469,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4366525,
+          30.52031110000007
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "I Live Coffee",
         "address": "Esplanadna St, 32, Kiev, Ukraine"
@@ -260,6 +484,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2572048,
+          4.031408599999963
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chez Lou",
         "address": "4 rue de Pouilly, 51100 Reims"
@@ -268,6 +499,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5860789,
+          7.770806799999946
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Velicious",
         "address": "43 rue Geiler, 67000 Strasbourg"
@@ -276,6 +514,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9040336,
+          6.1303067000000055
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Granny Smith",
         "address": "4, Rue Louis Revon, 74000 Annecy"
@@ -284,6 +529,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.62750570000001,
+          3.0621737999999823
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Wally's coffee",
         "address": "19 place Philippe Lebon, 59000 Lille"
@@ -292,6 +544,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869522,
+          2.356062100000031
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Distrito Francés",
         "address": "10 rue du faubourg Saint Martin, 75010 Paris"
@@ -300,6 +559,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.591055,
+          4.0725932000000284
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Aux idées reçues",
         "address": "15 rue de st antheme 42600 moingt (Monbrison)"
@@ -308,6 +574,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.96010709999999,
+          4.723457999999937
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ooh la la Obanyaki",
         "address": "Vaucluse, Gard, Hérault"
@@ -316,6 +589,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8487257,
+          2.3402840999999626
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Furahaa Candy",
         "address": "44, rue Monsieur le Prince 75006 Paris"
@@ -324,6 +604,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8790612,
+          2.3447297000000162
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Potager de Charlotte",
         "address": "12 Rue de la Tour d'Auvergne, 75009 Paris"
@@ -332,6 +619,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8671055,
+          2.3325439000000188
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Terra Culinaria Gastronomie Végétale",
         "address": "36 Place du Marché Saint Honoré 75001 Paris"
@@ -340,6 +634,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.630458,
+          3.050794699999983
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pizza Jazz",
         "address": "56 rue des Stations, 59000 Lille"
@@ -348,6 +649,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.645516,
+          5.577735100000041
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bo Bun",
         "address": "19-21 rue de la Boucherie Liège, Belgique"
@@ -356,6 +664,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8509611,
+          2.3325241000000005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yoom — Maison de la Chine",
         "address": "76 rue Bonaparte 75006 Paris"
@@ -364,6 +679,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8736475,
+          2.332238299999972
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yoom — Galeries Lafayette",
         "address": "40 boulevard Haussmann 75009 Paris"
@@ -372,6 +694,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8779067,
+          2.339644099999987
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yoom — Rue des Martyrs",
         "address": "20 rue des Martyrs 75009 Paris"
@@ -380,6 +709,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88377329999999,
+          2.321624799999995
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yoom — Batignolles",
         "address": "59 rue des Dames 75017 Paris"
@@ -388,6 +724,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8534332,
+          2.3379712999999356
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yoom — St Germain des Prés",
         "address": "5 rue Grégoire de Tours 75006 Paris"
@@ -396,6 +739,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5138205,
+          6.617969600000038
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veganopolis Café",
         "address": "Avenue des Bains 4C, 1007 Lausanne, Suisse"
@@ -404,6 +754,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8643649,
+          2.341499399999975
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La guinguette d'Angèle",
         "address": "34 rue Coquillière 75001 Paris"
@@ -412,6 +769,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8521295,
+          2.340991499999973
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La vie en fruits",
         "address": "116 Boulevard Saint-Germain, 75006 Paris"
@@ -420,6 +784,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8554002,
+          2.381553800000006
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bears & Raccoons",
         "address": "21 Rue Richard Lenoir, 75011 Paris"
@@ -428,6 +799,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8755834,
+          2.3487668000000212
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Veganovore",
         "address": "55 rue de Paradis 75010 Paris"
@@ -436,6 +814,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5516251,
+          -149.5584758
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le J'Âm",
         "address": "10, rue Charles Vienot - BP 42430, Papeete"
@@ -444,6 +829,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5826194,
+          7.7390764916568
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Fior di pizza",
         "address": "2 Grand Rue, 67000 Strasbourg"
@@ -452,6 +844,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.864588,
+          2.3686749999999392
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veg'Art",
         "address": "123 rue d'Oberkampf 75011 Paris"
@@ -460,6 +859,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8733032,
+          2.3647123000000647
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Carmen Ragosta",
         "address": "8 rue de la grange aux belles 75010 Paris"
@@ -468,6 +874,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7521535,
+          4.840260899999976
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Fahima Tandoori",
         "address": "36 Rue de Marseille, 69007 Lyon"
@@ -476,6 +889,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6633635,
+          139.71274979999998
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pure Cafe",
         "address": "5 Chome-5-２１ Minamiaoyama, Minato, Tokyo 107-0062, Japon"
@@ -484,6 +904,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.82747699999999,
+          2.3255344000000377
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Caprice Café",
         "address": "12 Avenue Jean Moulin, 75014 Paris"
@@ -492,6 +919,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8484638,
+          2.3781980999999632
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La boucherie végétarienne",
         "address": "10 place d'aligre, 75012 Paris"
@@ -500,6 +934,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86782909999999,
+          2.343478399999981
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le So",
         "address": "93 Rue Montmartre, 75002 Paris"
@@ -508,6 +949,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1302222,
+          -61.593810899999994
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Passe le mic",
         "address": "Chemin des Mineurs, Goyave, Guadeloupe"
@@ -516,6 +964,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6128233,
+          3.876791899999944
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Coutinelle",
         "address": "25 rue de l'université 34070 Montpellier"
@@ -524,6 +979,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.265,
+          -61.55099999999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Smooth'Sea",
         "address": "Rue Benoît Cassin, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
@@ -532,6 +994,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.265,
+          -61.55099999999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Snack",
         "address": "Rue Théodore Samson, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
@@ -540,6 +1009,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.265,
+          -61.55099999999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Escale Créole",
         "address": "419 Route du Bois-Joli, Les Saintes (commune de Terre-de-Haut), Guadeloupe"
@@ -548,6 +1024,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0741097,
+          7.356944500000054
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "100% le bar à jus",
         "address": "2 rue Saint Jean 68000 Colmar"
@@ -556,6 +1039,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.08851,
+          -1.3131465000000162
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Psychédélice",
         "address": "1003 avenue de l'océean, 40170 Contis Plage"
@@ -564,6 +1054,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8750843,
+          2.3484588999999687
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Eatme — Poissonnière",
         "address": "58 Rue du Faubourg Poissonnière, 75010 Paris, France"
@@ -572,6 +1069,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8739998,
+          2.3037233000000015
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Eatme — Washington",
         "address": "35 Rue de Washington, 75008 Paris, France"
@@ -580,6 +1084,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8715061,
+          2.3215324000000237
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Eatme — Anjou",
         "address": "29 Rue d'Anjou, Paris, France"
@@ -588,6 +1099,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8667452,
+          2.3444887000000563
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Eatme — Montorgueil",
         "address": "38 Rue Léopold Bellan, 75002 Paris, France"
@@ -596,6 +1114,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87369839999999,
+          2.3480606000000535
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Fée Nature — Paris 10",
         "address": "40 bis, rue du faubourg Poissonnière 75010 Paris"
@@ -604,6 +1129,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866398,
+          2.343939999999975
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Fée Nature — Paris 2",
         "address": "69 rue d'Argout 75002 Paris"
@@ -612,6 +1144,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.121399,
+          3.42154000000005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Keck's Café",
         "address": "16 Rue d'Allier, 03200 Vichy"
@@ -620,6 +1159,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8649903,
+          2.375336500000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Slize",
         "address": "52 avenue de la République, 75011 Paris"
@@ -628,6 +1174,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85221010000001,
+          2.3714182999999593
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Végé saveurs",
         "address": "29 rue de Charenton 75012 Paris"
@@ -636,6 +1189,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5290148,
+          5.447942900000044
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Aix en Provence",
         "address": "5 place Richelme, 13100 Aix en Provence"
@@ -644,6 +1204,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5581675,
+          -46.67939799999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Barão Natural",
         "address": "Rua João Moura, 861. Pinheiros. São Paulo - SP. Brasil"
@@ -652,6 +1219,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5835936,
+          7.742047299999967
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cigkoftem — Strasbourg",
         "address": "3 Place du Vieux Marché aux Vins, 67000 Strasbourg"
@@ -660,6 +1234,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5826194,
+          7.738940700000057
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lacocina",
         "address": "2 Grand Rue, 67000 Strasbourg"
@@ -668,6 +1249,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0187693,
+          -2.2970560999999634
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "D'île en île",
         "address": "104 avenue Mourain, l'Herbaudière, Noirmoutier"
@@ -676,6 +1264,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2920007,
+          5.383589499999971
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La baie du dragon",
         "address": "8 Place Notre Dame du Mont, 13006 Marseille"
@@ -684,6 +1279,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2685623,
+          2.960196300000007
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Integral",
         "address": "c/La Jonquera, 30 Figueres, Espagne"
@@ -692,6 +1294,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9750089,
+          2.822330700000066
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veggana",
         "address": "c/ Rutlla, 108 Girona, Espagne"
@@ -700,6 +1309,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9832309,
+          2.8245881999999938
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "B12",
         "address": "Plaça del vi, 11 Girona, Espagne"
@@ -708,6 +1324,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9840818,
+          2.8217054000000417
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bionectar",
         "address": "Carrer Eiximenis, 8 Girona, Espagne"
@@ -716,6 +1339,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88938230000001,
+          2.3467008999999734
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Super Naturelle",
         "address": "34 Rue Ramey, 75018 Paris"
@@ -724,6 +1354,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5062708,
+          13.46531129999994
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Laauma",
         "address": "Sonntagstraße 26, 10245 Berlin, Allemagne"
@@ -732,6 +1369,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5078805,
+          13.45003029999998
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "The Bowl",
         "address": "Warschauer Str. 33, 10243 Berlin, Allemagne"
@@ -740,6 +1384,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8669756,
+          2.3372008999999707
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kapunka",
         "address": "59 Rue de Richelieu, 75002 Paris"
@@ -748,6 +1399,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8518726,
+          2.3487846000000445
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Aux Arts etc",
         "address": "15 Quai de Montebello, 75005 Paris, France"
@@ -756,6 +1414,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8707923,
+          2.349901300000056
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Las Vegans",
         "address": "30 Boulevard de Bonne Nouvelle, 75010 Paris"
@@ -764,6 +1429,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.216883,
+          -1.554871300000059
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Table des Roy",
         "address": "4 Rue des Trois Croissants, 44000 Nantes"
@@ -772,6 +1444,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87338889999999,
+          2.342957100000035
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Nick's Pizza",
         "address": "24 Rue du Faubourg Montmartre, 75009 Paris"
@@ -780,6 +1459,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.860764,
+          1.4544869999999719
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Aneth et Ciboulette",
         "address": "2 boulevard des 4 Arpents ZA le Débucher 28260 Anet"
@@ -788,6 +1474,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83968850000001,
+          2.35583280000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Crêpe de la joie",
         "address": "4 rue du Fer à Moulin 75005 Paris"
@@ -796,6 +1489,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2059528,
+          -1.5565034999999625
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Terroirs Bio",
         "address": "9 Rue Alain Barbe Torte, 44000 Nantes"
@@ -804,6 +1504,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8570739,
+          2.3659651000000395
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le café chinois",
         "address": "7 Rue de Béarn, 75003 Paris"
@@ -812,6 +1519,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5090912,
+          13.46599029999993
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Almodóvar Hotel",
         "address": "Boxhagener Str. 83, 10245 Berlin, Allemagne"
@@ -820,6 +1534,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.853568,
+          2.340033500000004
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Crêperie Saint Germain",
         "address": "33 rue St André des Arts 75006 Paris"
@@ -828,6 +1549,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8641804,
+          2.3362478999999894
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "AntiCafé — Louvre",
         "address": "10 rue de Richelieu 75001 Paris"
@@ -836,6 +1564,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8254416,
+          2.3665593000000626
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Anticafé — Olympiades",
         "address": "59 Rue Nationale 75013 PARIS"
@@ -844,6 +1579,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.77952519999999,
+          4.834411100000011
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Color Vegan",
         "address": "23 rue pailleron 69004 Lyon"
@@ -852,6 +1594,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.64660259999999,
+          5.576818099999969
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Goveg vegan shop",
         "address": "Rue Hors-Château 14, 4000 Liège, Belgique"
@@ -860,6 +1609,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2164303,
+          -1.5560659000000214
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Trésors Partagés",
         "address": "10 Rue des 3 Croissants, 44000 Nantes, France"
@@ -868,6 +1624,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.923248,
+          4.5269570000000385
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Pierrafeu",
         "address": "Chemin de Ledenon, 30210 Saint-Bonnet-du-Gard, France"
@@ -876,6 +1639,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8795607,
+          2.39215020000006
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Paint It Green Vegan",
         "address": "78 rue Compans, Paris XIX"
@@ -884,6 +1654,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.59167500000001,
+          1.433854999999994
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le cri de la carotte",
         "address": "304 Avenue de Muret, 31300 Toulouse, France"
@@ -892,6 +1669,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86785,
+          2.3567849999999453
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Un Monde Vegan",
         "address": "64 Rue Notre Dame de Nazareth, 75003 Paris, France"
@@ -900,6 +1684,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.904802,
+          2.3220039999999926
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Saint Ouen",
         "address": "150 Boulevard Victor Hugo, 93400 Saint-Ouen, France"
@@ -908,6 +1699,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5822782,
+          7.743225100000018
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "What the cake ?",
         "address": "51 Rue du Fossé des Tanneurs, 67000 Strasbourg"
@@ -916,6 +1714,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867677,
+          2.3244770000000017
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Toraya Paris",
         "address": "10 Rue Saint-Florentin, 75001 Paris, France"
@@ -924,6 +1729,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.863751,
+          2.346375999999964
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Charles Chocolatier",
         "address": "15 Rue Montorgueil, 75001 Paris, France"
@@ -932,6 +1744,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8614105,
+          2.380804399999988
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "In the Garden",
         "address": "39 Rue Saint-Maur, 75011 Paris, France"
@@ -940,6 +1759,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.447988,
+          1.4870769999999993
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Cloitre Gourmand",
         "address": "21 Cloître Notre Dame, 28000 Chartres, France"
@@ -948,6 +1774,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.579457,
+          0.3393019999999751
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Bonheur est dans le Thé",
         "address": "7 Rue Sadi Carnot, 86000 Poitiers, France"
@@ -956,6 +1789,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869021,
+          2.304100999999946
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Charbon Rouge",
         "address": "25 Rue Marbeuf, 75008 Paris, France"
@@ -964,6 +1804,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.860754,
+          2.3670190000000275
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cantine Merci",
         "address": "111 Boulevard Beaumarchais, 75003 Paris, France"
@@ -972,6 +1819,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.05039800000001,
+          2.0970519999999624
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Cerise Gourmande",
         "address": "49 Rue de l'Hôtel de ville, 95300 Pontoise, France"
@@ -980,6 +1834,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.898255,
+          2.2821460000000116
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soup & Juice — Levallois",
         "address": "34 Avenue de l'Europe, 92300 Levallois-Perret, France"
@@ -988,6 +1849,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.880351000000005,
+          2.326948000000016
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soup & Juice - Rue d'Amsterdam",
         "address": "55 Rue d'Amsterdam, 75009 Paris, France"
@@ -996,6 +1864,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872935,
+          2.2974169999999963
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soup & Juice — Champs Elysées",
         "address": "133 Avenue des Champs-Élysées, 75008 Paris, France"
@@ -1004,6 +1879,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.876786,
+          2.330410000000029
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soup & Juice — Rue de Londres",
         "address": "4 Rue de Londres, 75009 Paris, France"
@@ -1012,6 +1894,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.868764,
+          2.2910620000000113
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soup & Juice — Kléber",
         "address": "54 Avenue Kléber, 75116 Paris, France"
@@ -1020,6 +1909,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.874342,
+          2.3331080000000384
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Provence",
         "address": "66 Rue de Provence, 75009 Paris, France"
@@ -1028,6 +1924,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.868288,
+          2.3420079999999643
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Bourse",
         "address": "121 Rue Réaumur, 75002 Paris, France"
@@ -1036,6 +1939,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872631,
+          2.3346990000000005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Haussmann",
         "address": "17 Boulevard Haussmann, 75009 Paris, France"
@@ -1044,6 +1954,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.859381000000006,
+          2.3402429999999868
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Louvre",
         "address": "3 Place du Louvre, 75001 Paris, France"
@@ -1052,6 +1969,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870432,
+          2.3273360000000594
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cojean — Madeleine",
         "address": "6 Rue de Sèze, 75009 Paris, France"
@@ -1060,6 +1984,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.853386,
+          2.375917999999956
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Bar à Soupes",
         "address": "33 Rue de Charonne, 75011 Paris, France"
@@ -1068,6 +1999,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866689,
+          2.3854730000000473
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Trois 8",
         "address": "11 Rue Victor Letalle, 75020 Paris, France"
@@ -1076,6 +2014,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.634746,
+          3.060854000000063
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Be Yourself !",
         "address": "2 Square Morisson, 59800 Lille, France"
@@ -1084,6 +2029,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.54571800000001,
+          9.951833999999963
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Liberty Eiscafé & Bistro",
         "address": "Fischmarkt 11, 22767 Hamburg, Allemagne"
@@ -1092,6 +2044,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85805,
+          2.3687850000000026
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Maison Bastille",
         "address": "34 Rue Amelot, 75011 Paris, France"
@@ -1100,6 +2059,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.875761000000004,
+          2.3477699999999686
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "My free kitchen",
         "address": "1bis Rue Bleue, 75010 Paris, France"
@@ -1108,6 +2074,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.865338,
+          2.3620819999999867
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lily of the Valley",
         "address": "12 Rue Dupetit-Thouars, 75003 Paris, France"
@@ -1116,6 +2089,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87351,
+          2.3706520000000637
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lula Lifestyle Shop",
         "address": "216 Rue Saint-Maur, 75010 Paris, France"
@@ -1124,6 +2104,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869809,
+          2.344701500000042
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "We Are Juice",
         "address": "34 Rue des Jeuneurs, 75002 Paris"
@@ -1132,6 +2119,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7742839,
+          11.250562100000025
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Shake Café",
         "address": "Via degli Avelli, 2, 50123 Firenze, Italie"
@@ -1140,6 +2134,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51044000000001,
+          13.460843000000068
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Der Eisbärliner",
         "address": "Gärtnerstraße 11, 10245 Berlin, Allemagne"
@@ -1148,6 +2149,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.501052,
+          13.431106999999997
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Eissalon Tanne B",
         "address": "Eisenbahnstraße 48, 10997 Berlin, Allemagne"
@@ -1156,6 +2164,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.541281,
+          13.415170999999987
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chaostheorie",
         "address": "Lychener Straße 4, 10437 Berlin, Allemagne"
@@ -1164,6 +2179,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.94072999999999,
+          6.879979999999932
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pennycakes",
         "address": "Alter Militärring 68, 50933 Köln, Allemagne"
@@ -1172,6 +2194,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.461741,
+          -0.1132999999999811
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ms. Cupcake",
         "address": "408 Coldharbour Lane, London SW9 8LF, Royaume-Uni"
@@ -1180,6 +2209,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.214536,
+          -1.5542540000000145
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les bien-aimés",
         "address": "2 Rue de la Paix, 44000 Nantes, France"
@@ -1188,6 +2224,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2347488,
+          6.031991999999946
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ze Music All",
         "address": "18 Rue Rivotte, 25000 Besançon, France"
@@ -1196,6 +2239,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.293256,
+          5.381930000000011
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Délices de Plume",
         "address": "1 Rue Fongate, 13001 Marseille, France"
@@ -1204,6 +2254,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.633412,
+          3.0681260000000066
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Coffee Makers",
         "address": "151 Rue de Paris, 59800 Lille, France"
@@ -1212,6 +2269,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.614967,
+          3.8769479999999703
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Noisette",
         "address": "21 Boulevard Pasteur, 34090 Montpellier, France"
@@ -1220,6 +2284,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.890158,
+          -72.54517499999997
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Rose Café",
         "address": "210 Boulevard Lemire Ouest, Drummondville, QC J2B 8A9, Canada"
@@ -1228,6 +2299,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1842329,
+          -0.36439930000005916
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pancake Night Fever",
         "address": "23 Rue Gemare, 14000 Caen, France"
@@ -1236,6 +2314,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8532748,
+          2.337111400000026
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Grom",
         "address": "81 Rue de Seine, 75006 Paris, France"
@@ -1244,6 +2329,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5815328,
+          7.752961599999935
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bistrot et Chocolat",
         "address": "8 Rue de la Râpe, 67000 Strasbourg"
@@ -1252,6 +2344,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869494,
+          2.3286889999999403
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Naked Food",
         "address": "22 Rue des Capucines, 75001 Paris, France"
@@ -1260,6 +2359,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.843323,
+          2.349545
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vegan Folie's",
         "address": "53-55 Rue Mouffetard, 75005 Paris, France"
@@ -1268,6 +2374,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.110533,
+          -1.678538
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Haricot Rouge",
         "address": "10 Rue Baudrairie, 35000 Rennes, France"
@@ -1276,6 +2389,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6568428,
+          -2.7574101000000155
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'Entrechoc",
         "address": "15 Place Valencia, 56000 Vannes, France"
@@ -1284,6 +2404,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.835125,
+          2.326726000000008
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chocolatitudes",
         "address": "57 Rue Daguerre, 75014 Paris, France"
@@ -1292,6 +2419,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8619467,
+          2.3799421999999595
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bob's Cold Press",
         "address": "10 Passage Rochebrune, 75011 Paris, France"
@@ -1300,6 +2434,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.215567,
+          -1.558334000000059
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sugar Blue Café",
         "address": "4 Rue de l'Arche Sèche, 44000 Nantes, France"
@@ -1308,6 +2449,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1916549,
+          5.730968100000041
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Causerie Pause Bio",
         "address": "3 Rue Jean-François Haché, 38000 Grenoble, France"
@@ -1316,6 +2464,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.582908,
+          7.753349000000071
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Gagao",
         "address": "20 Rue des Frères, 67000 Strasbourg"
@@ -1324,6 +2479,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.865666000000004,
+          2.3401830000000245
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Juice it",
         "address": "8 Rue de la Vrillière, 75001 Paris, France"
@@ -1332,6 +2494,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.319947,
+          5.0400789999999915
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Causerie des Mondes",
         "address": "16 Rue Vauban, 21000 Dijon"
@@ -1340,6 +2509,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6496192,
+          0.15618449999999484
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Phenix",
         "address": "24 Rue de la Cloche Verte, 16000 Angoulême, France"
@@ -1348,6 +2524,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54045500000001,
+          -0.14375300000006064
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cookies and Scream",
         "address": "The Market Hall, Camden Lock Place, London NW1 8AF, Royaume-Uni"
@@ -1356,6 +2539,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6072981,
+          1.4396692000000257
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "The Coffee Pot",
         "address": "41 Rue des Lois, 31000 Toulouse, France"
@@ -1364,6 +2554,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866107,
+          2.344116999999983
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Matamata Coffee Bar",
         "address": "58 Rue d'Argout, 75002 Paris, France"
@@ -1372,6 +2569,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6022056,
+          1.4507665999999517
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Den Coffeeshop",
         "address": "Centre Commercial Saint Georges, 51 bis, rue du Rempart St Etienne, 31000 Toulouse"
@@ -1380,6 +2584,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6063534,
+          1.4424552000000403
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Colombus Café",
         "address": "10 Rue du Taur, 31000 Toulouse, France"
@@ -1388,6 +2599,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.214483,
+          -1.5555709999999863
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "92,5° Coffee Shop",
         "address": "Cours des 50 Otages, 44000 Nantes, France"
@@ -1396,6 +2614,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.833924,
+          2.243644
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Panasia",
         "address": "130 Avenue Victor Hugo, 92100 Boulogne-Billancourt, France"
@@ -1404,6 +2629,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.875407,
+          2.327146999999968
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Zumo — Passage du Havre",
         "address": "10 Passage du Havre, 75009 Paris, France"
@@ -1412,6 +2644,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.828526,
+          2.3555939999999964
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Zumo — Italie",
         "address": "30 Avenue d'Italie, 75013 Paris, France"
@@ -1420,6 +2659,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872034,
+          2.3605669999999463
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bob's Juice Bar",
         "address": "15 Rue Lucien Sampaix, 75010 Paris, France"
@@ -1428,6 +2674,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.862592,
+          2.3512000000000626
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "AntiCafé — Beaubourg",
         "address": "79 Rue Quincampoix, 75003 Paris, France"
@@ -1436,6 +2689,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8621494,
+          2.351975799999991
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bubble Tea Cup",
         "address": "164 Rue Saint-Martin, 75003 Paris, France"
@@ -1444,6 +2704,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.859837,
+          2.3498260000000073
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bubbolitas",
         "address": "17 Rue Quincampoix, 75004 Paris, France"
@@ -1452,6 +2719,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.253786,
+          4.027135000000044
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Maharajah",
         "address": "13 Rue de Thillois, 51100 Reims, France"
@@ -1460,6 +2734,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8828589,
+          2.338175699999965
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ayutthaya",
         "address": "5 Rue Houdon, 75018 Paris, France"
@@ -1468,6 +2749,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298504,
+          5.382814999999937
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Green Bear Coffee",
         "address": "17 Rue Glandeves, 13001 Marseille"
@@ -1476,6 +2764,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.582102,
+          7.743210999999975
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Made In France",
         "address": "26 Rue des Drapiers, 67000 Strasbourg, France"
@@ -1484,6 +2779,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872728,
+          2.3095479999999498
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mitsou",
         "address": "3 Rue du Commandant Rivière, 75008 Paris, France"
@@ -1492,6 +2794,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.825602,
+          2.3614499999999907
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lao Lane Xang",
         "address": "102 Avenue d'Ivry, 75013 Paris, France"
@@ -1500,6 +2809,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.881724,
+          2.364372000000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "le 42",
         "address": "42 Rue Louis Blanc, 75010 Paris"
@@ -1508,6 +2824,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.602995,
+          1.4538009999999986
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Belle Verte",
         "address": "50 Rue d'Aubuisson, 31000 Toulouse, France"
@@ -1516,6 +2839,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.642755,
+          5.573701000000028
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Terre Mère",
         "address": "Rue de la Régence 21, 4000 Liège, Belgique"
@@ -1524,6 +2854,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.583819,
+          7.742787000000022
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Pause Quinoa",
         "address": "33 Rue du Jeu des Enfants, 67000 Strasbourg"
@@ -1532,6 +2869,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.701656,
+          7.269195999999966
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Speakeasy",
         "address": "7 Rue Lamartine, 06000 Nice"
@@ -1540,6 +2884,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.037004,
+          3.7121160000000373
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lekker Gec",
         "address": "Kon. Maria Hendrikaplein 6, 9000 Gent, Belgique"
@@ -1548,6 +2899,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.053256,
+          3.7303739999999834
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Komkommertijd",
         "address": "Reep 14, 9000 Gent, Belgique"
@@ -1556,6 +2914,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.23697689999999,
+          6.028618800000004
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Basilic Instant",
         "address": "93 Rue des Granges, 25000 Besançon"
@@ -1564,6 +2929,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.696600000000004,
+          2.8835730000000694
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Saveurs Nature",
         "address": "7 Rue Paul Massot, 66000 Perpignan"
@@ -1572,6 +2944,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6019472,
+          1.4438887000000022
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La faim des haricots",
         "address": "3 Rue du Puits Vert, 31000 Toulouse, France"
@@ -1580,6 +2959,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7714076,
+          4.83532660000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Toutes Les Couleurs",
         "address": "26 Rue Imbert Colomes, 69001 Lyon"
@@ -1588,6 +2974,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.876062000000005,
+          2.348478
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Can Tin(e)",
         "address": "66 Rue du Faubourg Poissonnière, 75010 Paris, France"
@@ -1596,6 +2989,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90524759999992,
+          2.34424742883607
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Red Gold and Green",
         "address": "43 Rue Paul Bert, 93400 Saint-Ouen"
@@ -1604,6 +3004,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.510208999999946,
+          -1.2526921711639716
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Millefeuilles",
         "address": "Leteurrie, 35420 Saint-Georges-de-Reintembault"
@@ -1612,6 +3019,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87518699999983,
+          2.3329227288360244
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "My Bo Bun",
         "address": "73 Rue de la Victoire, 75009 Paris, France"
@@ -1620,6 +3034,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.82898269999984,
+          -0.5743156711639585
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Rise Up 'N' Shine",
         "address": "49 Cours de l'Argonne, 33000 Bordeaux, France"
@@ -1628,6 +3049,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.188995599999934,
+          6.157282728836095
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Helveg Café",
         "address": "Avenue de Miremont 31, 1206 Genève, Suisse"
@@ -1636,6 +3064,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.768510399999904,
+          4.831995328836001
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Roi Falafel",
         "address": "30 Rue Palais Grillet, 69002 Lyon"
@@ -1644,6 +3079,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86640599999985,
+          2.3381447288360278
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Macéo",
         "address": "15 Rue des Petits Champs, 75002 Paris"
@@ -1652,6 +3094,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.75697799999996,
+          4.850896728836005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soline",
         "address": "89 Rue Paul Bert, 69003 Lyon"
@@ -1660,6 +3109,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1108079999999,
+          -1.6769652711639083
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Saint-Germain des Champs",
         "address": "12 Rue du Vau Saint-Germain, 35000 Rennes"
@@ -1668,6 +3124,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.31766399999986,
+          5.034876728836025
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Shanti",
         "address": "69 Rue Berbisey, 21000 Dijon"
@@ -1676,6 +3139,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867543999999846,
+          2.340889728836032
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Liza",
         "address": "14 Rue de la Banque, 75002 Paris"
@@ -1684,6 +3154,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86304999999991,
+          2.351859728836075
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vert Midi - Quincampoix",
         "address": "9 Rue aux Ours, 75003 Paris"
@@ -1692,6 +3169,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87019999999984,
+          2.3421667288359913
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vert Midi - St Marc",
         "address": "1 Rue Saint-Marc, 75002 Paris"
@@ -1700,6 +3184,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.868745999999874,
+          2.3536737288360428
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "An Com",
         "address": "14 Rue Blondel, 75002 Paris"
@@ -1708,6 +3199,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86579699999988,
+          2.34709672883605
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Monthaï",
         "address": "84 Rue Montorgueil, 75002 Paris"
@@ -1716,6 +3214,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.877408999999794,
+          2.351376728836044
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mussubï",
         "address": "89 Rue d'Hauteville, 75010 Paris"
@@ -1724,6 +3229,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8661719999999,
+          2.3722157288360677
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kawaii Café",
         "address": "20 Rue de Nemours, 75011 Paris"
@@ -1732,6 +3244,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87304399999984,
+          2.3002017288361003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kok Ping",
         "address": "4 Rue Balzac, 75008 Paris"
@@ -1740,6 +3259,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88976899999991,
+          2.247600728836005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pause",
         "address": "34 Place des Reflets, 92400 Courbevoie"
@@ -1748,6 +3274,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8374349999999,
+          2.3522937288360026
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ase Theodros",
         "address": "7 Rue de la Collégiale, 75005 Paris"
@@ -1756,6 +3289,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83323799999987,
+          2.3156177288360595
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Aquarius",
         "address": "40 Rue de Gergovie, 75014 Paris, France"
@@ -1764,6 +3304,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84178899999995,
+          2.328055728836034
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dietetic shop",
         "address": "11 Rue Delambre, 75014 Paris"
@@ -1772,6 +3319,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.182462999999835,
+          -0.3648502711639594
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Greedy Guts",
         "address": "15 Rue de Bras, 14000 Caen"
@@ -1780,6 +3334,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.875246999999796,
+          2.31908872883605
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Graine",
         "address": "7 Place Saint-Augustin, 75008 Paris"
@@ -1788,6 +3349,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.64257999999995,
+          3.0667367288360765
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "2 sous de table",
         "address": "56 Rue de Gand, 59000 Lille"
@@ -1796,6 +3364,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.94287299999993,
+          -0.5217412711639327
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Carottes et Gingembre",
         "address": "36 Rue des Bancs, 17400 Saint-Jean-d'Angély"
@@ -1804,6 +3379,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.057739999999924,
+          3.7209580674591503
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Avalon",
         "address": "Geldmunt 32, 9000 Gent, Belgique"
@@ -1812,6 +3394,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.877116999999735,
+          4.705118067459125
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut - Leuven",
         "address": "Tiensestraat 65, 3000 Leuven, Belgique"
@@ -1820,6 +3409,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87034399999977,
+          2.3103210674590855
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Saï Bobun",
         "address": "9 Rue de Ponthieu, 75008 Paris"
@@ -1828,6 +3424,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.76752099999974,
+          4.831455609786985
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yaafa",
         "address": "17 Rue d'Algérie, 69001 Lyon"
@@ -1836,6 +3439,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.25717989999998,
+          4.039198409786991
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Vert en Couleur",
         "address": "8, place Aristide Briand, Reims"
@@ -1844,6 +3454,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.890659399999834,
+          2.3543215097870416
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Toutofu",
         "address": "25 Rue Ordener, 75018 Paris"
@@ -1852,6 +3469,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.25629279999999,
+          4.025790709786976
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Food Avenue",
         "address": "77 Place Drouet d'Erlon, 51100 Reims"
@@ -1860,6 +3484,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89024909999985,
+          2.3418518097869314
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "In bocca al lupo",
         "address": "14 Rue Francoeur, 75018 Paris"
@@ -1868,6 +3499,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85614599999997,
+          2.358976609786964
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'Escale du Liban",
         "address": "1 Rue Ferdinand Duval, 75004 Paris"
@@ -1876,6 +3514,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.77000399999971,
+          7.493431609786967
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut — Menton",
         "address": "649 Promenade du Soleil, 06500 Menton, France"
@@ -1884,6 +3529,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867837399999694,
+          2.3543099097869344
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — St Martin",
         "address": "327 Rue Saint-Martin, 75003 Paris, France"
@@ -1892,6 +3544,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8623743,
+          2.3781413000000384
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — St Ambroise",
         "address": "18 Rue Saint-Ambroise, 75011 Paris, France"
@@ -1900,6 +3559,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87509599999963,
+          2.3067276097870035
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — Haussmann",
         "address": "182 Boulevard Haussmann, 75008 Paris, France"
@@ -1908,6 +3574,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86913199999964,
+          2.3632546097869636
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — République",
         "address": "4 Rue Beaurepaire, 75010 Paris, France"
@@ -1916,6 +3589,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86567199999974,
+          2.3446376097870143
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — Montorgueil",
         "address": "64 Rue Montmartre, 75002 Paris, France"
@@ -1924,6 +3604,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87409299999963,
+          2.3373066097869923
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — La Fayette",
         "address": "26 Rue la Fayette, 75009 Paris, France"
@@ -1932,6 +3619,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8704851,
+          2.3414877999999817
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Elgi — Bourse",
         "address": "10 rue saint-marc, 75002 Paris, France"
@@ -1940,6 +3634,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.848684,
+          2.3534576097870286
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Puits de Légumes",
         "address": "18 Rue du Cardinal Lemoine, 75005 Paris, France"
@@ -1948,6 +3649,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84697800000002,
+          2.351788609787036
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Comptoir Méditerranée",
         "address": "42 Rue du Cardinal Lemoine, 75005 Paris, France"
@@ -1956,6 +3664,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.857205999999906,
+          2.359256609787053
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "King Falafel Palace",
         "address": "26 Rue des Rosiers, 75004 Paris"
@@ -1964,6 +3679,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63086999999968,
+          3.0555716097869663
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pica Tapas",
         "address": "117 Rue Solférino, 59000 Lille"
@@ -1972,6 +3694,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87425429999963,
+          2.383211009786919
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hobbes",
         "address": "31 Avenue Simon Bolivar, 75019 Paris"
@@ -1980,6 +3709,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.20646399999996,
+          -1.5547213902129897
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le bistrot de l'île",
         "address": "17 Rue la Tour d'Auvergne, 44200 Nantes, France"
@@ -1988,6 +3724,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.636409999999806,
+          3.0589636097870425
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pulp Kitchen",
         "address": "106 Rue de l'Hôpital Militaire, 59000 Lille"
@@ -1996,6 +3739,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88448199999969,
+          2.3233096097869748
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Joy In Food",
         "address": "2 Rue Truffaut, 75017 Paris, France"
@@ -2004,6 +3754,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88987299999984,
+          2.339883609786966
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hope café",
         "address": "64 Rue Lamarck, 75018 Paris, France"
@@ -2012,6 +3769,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87109199999962,
+          2.358278609787021
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Allen's Market",
         "address": "33 Rue du Château d'Eau, 75010 Paris, France"
@@ -2020,6 +3784,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.863618999999794,
+          2.3488576097870464
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Joe Allen",
         "address": "30 Rue Pierre Lescot, 75001 Paris"
@@ -2028,6 +3799,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84884800000001,
+          2.3254146097870034
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Tugalik",
         "address": "29 Rue Saint-Placide, 75006 Paris"
@@ -2036,6 +3814,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85017800000001,
+          2.377919609787
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Gazzetta",
         "address": "29 Rue de Cotte, 75012 Paris, France"
@@ -2044,6 +3829,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87992299999961,
+          2.3573526097869717
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Saravanaa Bhavan",
         "address": "170 Rue du Faubourg Saint-Denis, 75010 Paris, France"
@@ -2052,6 +3844,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85400800000001,
+          2.3357006097869544
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Guen Mai",
         "address": "6 Rue Cardinale, 75006 Paris"
@@ -2060,6 +3859,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.851907000000026,
+          2.348309609786952
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Grenier de Notre-Dame",
         "address": "18 Rue de la Bûcherie, 75005 Paris, France"
@@ -2068,6 +3874,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.844019,
+          2.317425609787051
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ma grand-mère m'a dit",
         "address": "1 Rue Falguière, 75015 Paris"
@@ -2076,6 +3889,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86784399999971,
+          2.335283609786984
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bioburger",
         "address": "46 Passage Choiseul, 75002 Paris"
@@ -2084,6 +3904,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8607699999999,
+          2.3454346097869347
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Bio d'Adam et Ève",
         "address": "41 Rue Saint Honoré, 75001 Paris"
@@ -2092,6 +3919,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.860530999999874,
+          2.345315609787008
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Saveurs Végét'Halles",
         "address": "41 Rue des Bourdonnais, 75001 Paris"
@@ -2100,6 +3934,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87712799999962,
+          2.338510609787022
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pousse-Pousse",
         "address": "5 Rue Notre Dame de Lorette, 75009 Paris"
@@ -2108,6 +3949,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872114999999596,
+          2.365079609787017
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Comptoir Général",
         "address": "80 Quai de Jemmapes, 75010 Paris"
@@ -2116,6 +3964,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.823432999999696,
+          2.368391609786954
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Green Garden",
         "address": "20 Rue nationale 75013 Paris"
@@ -2124,6 +3979,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86643999999973,
+          2.331540609786998
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris St Honoré",
         "address": "18 Place du Marché Saint-Honoré, 75001 Paris"
@@ -2132,6 +3994,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86646799999971,
+          2.3470536097870536
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris Montorgueil",
         "address": "2 Rue des Petits Carreaux, 75002 Paris"
@@ -2140,6 +4009,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85378200000001,
+          2.3241876097870318
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris Varenne",
         "address": "25 Rue de Varenne, 75007 Paris"
@@ -2148,6 +4024,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87761679999955,
+          2.3487292097870522
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "42 Degrés",
         "address": "109 Rue du Faubourg Poissonnière, 75009 Paris"
@@ -2156,6 +4039,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8750249999996,
+          2.3480376097869566
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Pinson — Poissonière",
         "address": "58 Rue du Faubourg Poissonnière, 75010 Paris"
@@ -2164,6 +4054,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86094899999985,
+          2.3542486097869646
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Potager du Marais",
         "address": "24 Rue Rambuteau, 75004 Paris, France"
@@ -2172,6 +4069,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.862455999999824,
+          2.3619406097869846
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "M.O.B. Marais",
         "address": "30 Rue Charlot, 75003 Paris, France"
@@ -2180,6 +4084,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87305599999968,
+          2.362993609787054
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sol Semilla",
         "address": "23 Rue des Vinaigriers, 75010 Paris, France"
@@ -2188,6 +4099,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.868088999999685,
+          2.369967609786954
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Soya",
         "address": "20 Rue de la Pierre Levée, 75011 Paris"
@@ -2196,6 +4114,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8886441,
+          2.320416399999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "My Kitch'n",
         "address": "82 rue Lemercier, 75017, Paris"
@@ -2204,6 +4129,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.852929,
+          2.3671846097870457
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Ginger",
         "address": "9 Rue Jacques Cœur, 75004 Paris, France"
@@ -2212,6 +4144,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85984299999988,
+          2.3674696097870083
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut — Paris",
         "address": "92 Boulevard Beaumarchais, 75011 Paris 11e arrondissement"
@@ -2220,6 +4159,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.881193999999695,
+          2.3136676097869895
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mum Dim Sum",
         "address": "14 Boulevard de Courcelles, 75017 Paris"
@@ -2228,6 +4174,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872043999999626,
+          2.3402246097870147
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chipotle Mexican Grill — Montmartre",
         "address": "18-20 Boulevard Montmartre, 75009 Paris"
@@ -2236,6 +4189,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86377399999972,
+          2.3628876097869806
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Pinson — Forez",
         "address": "6 Rue du Forez, 75003 Paris, France"
@@ -2244,6 +4204,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.864468999999794,
+          2.3543756097869846
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bob's Kitchen",
         "address": "74 Rue des Gravilliers, 75003 Paris"
@@ -2252,6 +4219,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87023199999968,
+          2.368820609787008
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Tien Hiang",
         "address": "14 Rue Bichat, 75010 Paris"
@@ -2260,6 +4234,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84894500000004,
+          2.3680916097870295
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Gentle Gourmet Café",
         "address": "24 Boulevard de la Bastille, 75012 Paris, France"
@@ -2268,6 +4249,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.855493,
+          2.374003609786996
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Blue Elephant",
         "address": "45 Rue de la Roquette, 75011 Paris, France"
@@ -2276,6 +4264,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85745099999998,
+          2.358888609786959
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'as du Fallafel",
         "address": "32-34 Rue des Rosiers, 75004 Paris, France"
@@ -2284,6 +4279,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.876993999999655,
+          2.3478516097869715
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "VG",
         "address": "85 Rue la Fayette, 75009 Paris, France"
@@ -2292,6 +4294,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.861315999999846,
+          2.35804460978693
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hank",
         "address": "55 Rue des Archives, 75003 Paris"
@@ -2300,6 +4309,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.853276000000044,
+          2.3414246097870546
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chez Le Libanais",
         "address": "35 Rue Saint-André des Arts, 75006 Paris, France"
@@ -2308,6 +4324,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8618569999998,
+          2.3729116097870246
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "East Side Burgers",
         "address": "60 Boulevard Voltaire, 75011 Paris"
@@ -2316,6 +4339,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84072199999989,
+          2.3695716097870445
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "M.O.B. Austerlitz",
         "address": "34 Quai d'Austerlitz, 75013 Paris, France"
@@ -2324,6 +4354,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85795000000001,
+          2.3461756097869966
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dernier Bar avant la Fin du Monde",
         "address": "19 Avenue Victoria, 75001 Paris, France"
@@ -2332,6 +4369,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86690399999968,
+          2.346972609786917
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bollynan",
         "address": "13 Rue des Petits Carreaux, 75002 Paris, France"
@@ -2340,6 +4384,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.873318999999675,
+          2.344463609786999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vegebowl",
         "address": "3 Rue de la Boule Rouge, 75009 Paris, France"
@@ -2348,6 +4399,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85785699999996,
+          2.3546596097869497
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris Archives",
         "address": "18 Rue des Archives, 75004 Paris, France"
@@ -2356,6 +4414,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.852953000000014,
+          2.3453196097869977
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Maoz",
         "address": "8 Rue Xavier Privas Paris"
@@ -2364,6 +4429,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85663,
+          2.3581229999999778
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Don's",
         "address": "5 Rue des Ecouffes, 75004 Paris, France"
@@ -2372,6 +4444,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.497828,
+          0.11167999999997846
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Épices et tout",
         "address": "92 Rue Docteur Vigne, 76600 Le Havre, France"
@@ -2380,6 +4459,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.359201,
+          3.5221950000000106
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "MANKOUFU",
         "address": "5 Avenue Georges Clemenceau, 59300 Valenciennes, France"
@@ -2388,6 +4474,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85815,
+          2.365366999999992
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mai Thai",
         "address": "24B Rue Saint-Gilles, 75003 Paris, France"
@@ -2396,6 +4489,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.217724,
+          -1.5557410000000118
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Cantine de Livresse",
         "address": "9 Rue de l'Hôtel de ville, 44000 Nantes, France"
@@ -2404,6 +4504,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.897628,
+          2.3440729999999803
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La REcyclerie",
         "address": "83 Boulevard Ornano, 75018 Paris, France"
@@ -2412,6 +4519,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866,
+          2.378559999999993
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'Esprit Tchaï",
         "address": "115 Rue Oberkampf, 75011 Paris, France"
@@ -2420,6 +4534,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.109253,
+          -1.6829290000000583
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Apple Pie",
         "address": "31 Rue de la Chalotais, 35000 Rennes, France"
@@ -2428,6 +4549,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8322064,
+          -0.5668818000000329
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Soupe au Caillou",
         "address": "6 Place du Maucaillou, 33800 Bordeaux, France"
@@ -2436,6 +4564,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.639954,
+          5.581915999999978
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Mékong",
         "address": "Rue Surlet 43, 4020 Liège, Belgique"
@@ -2444,6 +4579,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.844283,
+          2.3304450000000543
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Lucernaire",
         "address": "53 Rue Notre Dame des Champs, 75006 Paris, France"
@@ -2452,6 +4594,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9013499,
+          1.9052822999999537
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Un piano dans la théière",
         "address": "31 Rue Sainte-Catherine, 45000 Orléans, France"
@@ -2460,6 +4609,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.088433,
+          1.875006999999982
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Cardamone",
         "address": "38 Place Maréchal Leclerc, 09500 Mirepoix, France"
@@ -2468,6 +4624,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.62794,
+          6.129930999999942
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Gourmandises Permises",
         "address": "15 Place François-Joseph Dargent, 1413 Luxembourg, Luxembourg"
@@ -2476,6 +4639,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870195,
+          2.3688589999999294
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Bichat",
         "address": "11 Rue Bichat, 75010 Paris, France"
@@ -2484,6 +4654,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5484965,
+          2.9805690000000595
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Château d'Ygrande",
         "address": "Le Mont, 03160 Ygrande"
@@ -2492,6 +4669,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.714883,
+          -1.0569120000000112
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Panier Amande",
         "address": "25 Avenue du Sablar, 40100 Dax, France"
@@ -2500,6 +4684,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.581268,
+          7.757109000000013
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Tarbouche",
         "address": "22 rue de la Krutenau Strasbourg"
@@ -2508,6 +4699,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87917800000001,
+          2.3432339999999385
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Wally Le Saharien",
         "address": "36 Rue Rodier, 75009 Paris, France"
@@ -2516,6 +4714,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.548499,
+          9.96219700000006
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veganimbiss Befried",
         "address": "Friedrichstraße 3, 20359 Hamburg, Allemagne"
@@ -2524,6 +4729,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8125145,
+          1.6910550000000057
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Nok Noy",
         "address": "5 Place Robert Monestier, 36000 Châteauroux, France"
@@ -2532,6 +4744,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.857322,
+          -0.560483999999974
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Rest'O",
         "address": "16 Quai de Bacalan, 33300 Bordeaux, France"
@@ -2540,6 +4759,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.65225849999999,
+          2.986229099999946
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Salad & Co — Lille",
         "address": "14 ter rue du Château d'Isenghien 59160 Lomme"
@@ -2548,6 +4774,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.615451,
+          3.1251970000000715
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Salad & Co — Villeneuve-d'Ascq",
         "address": "Salad&Co - Restaurant Villeneuve d'Ascq Centre commercial Heron Parc Avenue de l'Avenir 59650 Villeneuve d'Ascq"
@@ -2556,6 +4789,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.583839000000005,
+          7.745721000000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vert Ici",
         "address": "31 Place Kléber, 67000 Strasbourg"
@@ -2564,6 +4804,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.356275,
+          4.910001999999963
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Restaurant Beter & Leuk",
         "address": "1e Oosterparkstraat 73/91 1091 GW Amsterdam"
@@ -2572,6 +4819,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867786,
+          2.336279999999988
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vietnam in Paris",
         "address": "52 Rue Sainte-Anne, 75002 Paris, France"
@@ -2580,6 +4834,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.114108,
+          -1.6795439999999644
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Al-saj",
         "address": "5 Rue Motte Fablet, 35000 Rennes, France"
@@ -2588,6 +4849,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.749158300000005,
+          4.838920499999973
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "BAP",
         "address": "33 Rue Chevreul, 69007 Lyon, France"
@@ -2596,6 +4864,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5835562,
+          7.754569599999968
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hot Doggy Dog",
         "address": "3 Rue de l'Arc en Ciel, 67000 Strasbourg, France"
@@ -2604,6 +4879,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6296016,
+          3.061799800000017
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bis 2 Fly",
         "address": "19 Rue Nicolas Leblanc, 59000 Lille, France"
@@ -2612,6 +4894,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.766515,
+          4.854869000000008
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Messob",
         "address": "85 Rue Masséna, 69006 Lyon, France"
@@ -2620,6 +4909,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7907595,
+          7.611582900000031
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "I Sapori Della Tavola",
         "address": "Via Camillo Benso Cavour, 58, 18039 Ventimiglia IM, Italie"
@@ -2628,6 +4924,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.857165,
+          2.358965000000012
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Miznon",
         "address": "22 Rue des Ecouffes, 75004 Paris, France"
@@ -2636,6 +4939,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.773658,
+          11.25848700000006
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Panino Vegano",
         "address": "Via Maurizio Bufalini, 19, 50122 Firenze, Italie"
@@ -2644,6 +4954,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.263575,
+          -123.100747
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "The Wallflower Modern Diner",
         "address": "2420 Main Street, Vancouver, BC V5T 3H9, Canada"
@@ -2652,6 +4969,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2644662,
+          -123.10101810000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Foundation Eatery",
         "address": "2301 Main Street, Vancouver, BC V5T 1M6, Canada"
@@ -2660,6 +4984,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1153,
+          -1.6789099999999735
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Coucou Rennais",
         "address": "20 Rue d'Antrain, 35000 Rennes, France"
@@ -2668,6 +4999,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.11200849999999,
+          -1.675451199999998
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "India",
         "address": "41 Rue Saint-Georges, 35000 Rennes, France"
@@ -2676,6 +5014,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.528729,
+          13.397016000000008
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kopps",
         "address": "Linienstraße 94, 10115 Berlin, Allemagne"
@@ -2684,6 +5029,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.507663,
+          13.45446400000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Emma Pea",
         "address": "Revaler Straße 99, 10245 Berlin, Allemagne"
@@ -2692,6 +5044,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.534608,
+          13.399108999999953
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "The Jivamukti Canteen",
         "address": "Brunnenstraße 29, 10119 Berlin, Allemagne"
@@ -2700,6 +5059,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53048,
+          13.402479999999969
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Daluma",
         "address": "Weinbergsweg 3, 10119 Berlin, Allemagne"
@@ -2708,6 +5074,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.506726,
+          13.46877100000006
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vöner",
         "address": "Boxhagener Straße 56, 10245 Berlin, Allemagne"
@@ -2716,6 +5089,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58078700000001,
+          0.34106499999995776
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Wasabi",
         "address": "11 Rue du Chaudron d'Or, 86000 Poitiers, France"
@@ -2724,6 +5104,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.861741,
+          2.351496999999995
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Oh' Bio",
         "address": "58 Rue Rambuteau, 75004 Paris, France"
@@ -2732,6 +5119,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7818456,
+          11.260254300000042
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dolce Vita Vegan",
         "address": "Via San Gallo, 92, 50129 Firenze, Italie"
@@ -2740,6 +5134,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8388019,
+          -0.5790173999999979
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Bordeaux",
         "address": "64 Rue des Remparts, 33000 Bordeaux, France"
@@ -2748,6 +5149,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.852892,
+          2.375100599999996
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris Charonne",
         "address": "24 Rue de Charonne, 75011 Paris, France"
@@ -2756,6 +5164,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.186912,
+          5.71836200000007
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bombay",
         "address": "60 Cours Jean Jaurès, 38000 Grenoble"
@@ -2764,6 +5179,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.602932,
+          6.134702000000061
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chez Julie",
         "address": "17 Rue de Bonnevoie, 1260 Luxembourg, Luxembourg"
@@ -2772,6 +5194,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.752849,
+          5.371149999999943
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Tchai Walla",
         "address": "8 Rue Joseph Reynaud, 26150 Die, France"
@@ -2780,6 +5209,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.861835,
+          2.380388000000039
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Balls",
         "address": "47 Rue Saint-Maur, 75011 Paris, France"
@@ -2788,6 +5224,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.926654,
+          2.1468170000000555
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Tournesol",
         "address": "11 Rue de l'Ort en Salvy, 81000 Albi, France"
@@ -2796,6 +5239,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.214882,
+          -1.537924999999973
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Little Wokyo",
         "address": "1 Rue Marcel Paul, 44000 Nantes, France"
@@ -2804,6 +5254,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.188046,
+          5.716985000000023
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Phenicien",
         "address": "51 Cours Berriat, 38000 Grenoble, France"
@@ -2812,6 +5269,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.757649,
+          4.840943000000038
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mendo",
         "address": "26 Quai Victor Augagneur, 69003 Lyon, France"
@@ -2820,6 +5284,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58642649999999,
+          0.3381428999999798
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La nouvelle cantine du plan B",
         "address": "32 Boulevard du Grand Cerf, 86000 Poitiers, France"
@@ -2828,6 +5299,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.443202,
+          1.086561999999958
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Rest'O'Rock",
         "address": "15 Rue Thomas Corneille, 76000 Rouen"
@@ -2836,6 +5314,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7652276,
+          4.895665600000029
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Caravanserail Café",
         "address": "150 Rue du 4 Août 1789, 69100 Villeurbanne"
@@ -2844,6 +5329,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.697473,
+          2.893295999999964
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bio Deux Anges",
         "address": "Rue des Augustins, 66000 Perpignan"
@@ -2852,6 +5344,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.687313,
+          -1.7355340000000299
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veg Mama",
         "address": "1 Place de la Mairie, 44290 Pierric, France"
@@ -2860,6 +5359,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.541344,
+          -0.14456799999993564
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "InSpiral Lounge",
         "address": "250 Camden High Street, London NW1 8QS, Royaume-Uni"
@@ -2868,6 +5374,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51687,
+          -0.20033699999999044
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Nama",
         "address": "110 Talbot Road, London W11 1JR, Royaume-Uni"
@@ -2876,6 +5389,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52629,
+          -0.10815700000000561
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hummus Bros — Exmouth Market",
         "address": "62 Exmouth Market, London EC1R 4QE, Royaume-Uni"
@@ -2884,6 +5404,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.514315,
+          -0.09514500000000226
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hummus Bros — Cheapside",
         "address": "128 Cheapside, London EC2V 6BT, Royaume-Uni"
@@ -2892,6 +5419,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.519228000000005,
+          -0.12158399999998437
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hummus Bros — Southampton",
         "address": "37 Southampton Row, London WC1A 2QP, Royaume-Uni"
@@ -2900,6 +5434,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.513245,
+          -0.13374599999997372
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hummus Bros — Soho",
         "address": "88 Wardour Street, Soho, London W1F, Royaume-Uni"
@@ -2908,6 +5449,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.440104,
+          -0.10579299999994873
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Greenz",
         "address": "5 Station Rise, West Norwood, London SE27 9BW, Royaume-Uni"
@@ -2916,6 +5464,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.529717,
+          -0.116092999999978
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Itadaki Zen",
         "address": "139 King's Cross Road, Kings Cross, London WC1X 9BJ, Royaume-Uni"
@@ -2924,6 +5479,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.615167,
+          -0.27548699999999826
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut — Edgware",
         "address": "236 Station Road, Edgware, Greater London HA8 7AU, Royaume-Uni"
@@ -2932,6 +5494,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.536151,
+          -0.13915299999996478
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut — Plender Street",
         "address": "3 Plender Street, London NW1 0JT, Royaume-Uni"
@@ -2940,6 +5509,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.564966,
+          -0.13330199999995784
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loving Hut — Holloway Road",
         "address": "669 Holloway Road, London N19 5SE, Royaume-Uni"
@@ -2948,6 +5524,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.514161,
+          -0.12559299999998075
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Food For Thought",
         "address": "31 Neal Street, London WC2H 9PR, Royaume-Uni"
@@ -2956,6 +5539,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.484641,
+          -0.12017200000002504
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bonnington Cafe",
         "address": "11 Vauxhall Grove, London SW8, Royaume-Uni"
@@ -2964,6 +5554,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5130496,
+          -0.13633470000002035
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mildreds",
         "address": "45 Lexington St, London W1F 9AN, Royaume-Uni"
@@ -2972,6 +5569,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.486043,
+          -0.20304399999997713
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "222 Veggie Vegan",
         "address": "222 North End Road, London W14 9NU, Royaume-Uni"
@@ -2980,6 +5584,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8593148,
+          2.3488503999999466
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Siam",
         "address": "12 boulevard sébastopol, 75004 Paris, France"
@@ -2988,6 +5599,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.318782,
+          5.035757999999987
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les treize lucioles",
         "address": "13 Place Emile Zola, 21000 Dijon"
@@ -2996,6 +5614,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2877239,
+          2.7797696000000087
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Mezzaluna",
         "address": "10 Rue Gambetta, 62000 Arras, France"
@@ -3004,6 +5629,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5015541,
+          -73.57075409999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Végo — McGill",
         "address": "1204 Avenue McGill College, Montréal, QC H3B 4J8, Canada"
@@ -3012,6 +5644,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.515529,
+          -73.564684
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Végo — St-Denis",
         "address": "1720 Rue Saint-Denis, Montréal, QC H2X 3K4, Canada"
@@ -3020,6 +5659,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.521636,
+          -73.58509400000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Panthère Verte / The Green Panther",
         "address": "2153 Rue Mackay, Montréal, QC H3G 2J2, Canada"
@@ -3028,6 +5674,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.657861,
+          7.188125000000014
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dame Nature",
         "address": "167 Promenade des Flots Bleus, 06700 Saint-Laurent-du-Var, France"
@@ -3036,6 +5689,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.39402339999999,
+          0.6806344999999965
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Goûter chez Sam",
         "address": "6 Place du Grand Marché, 37000 Tours, France"
@@ -3044,6 +5704,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.39482,
+          0.6834800000000314
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chez Habibi",
         "address": "83 Rue du Commerce, 37000 Tours, France"
@@ -3052,6 +5719,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85482900000001,
+          2.375872999999956
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "DUNE",
         "address": "20 Rue Keller, 75011 Paris, France"
@@ -3060,6 +5734,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.745519,
+          7.33594400000004
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pum",
         "address": "7 Rue du Mittelbach, 68100 Mulhouse, France"
@@ -3068,6 +5749,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.688581,
+          6.184872000000041
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Table du petit Chaouen",
         "address": "27 Rue des Sœurs Macarons, 54000 Nancy, France"
@@ -3076,6 +5764,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84924000000001,
+          2.2825760000000628
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chipotle Mexican Grill — Beaugrenelle",
         "address": "1 Rue Linois, Paris"
@@ -3084,6 +5779,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8360024,
+          -0.578233100000034
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Greedy",
         "address": "62-64 avenue du Hâ 33000 Bordeaux"
@@ -3092,6 +5794,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8407178,
+          -0.5817206000000397
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Smart Green Corner",
         "address": "20 Rue Castelnau d'Auros, 33000 Bordeaux, France"
@@ -3100,6 +5809,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2541254,
+          4.02714960000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Un indien dans la ville",
         "address": "7 Place Drouet d'Erlon, 51100 Reims, France"
@@ -3108,6 +5824,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.74439,
+          7.334149000000026
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Tête de Chou",
         "address": "14 Rue des Trois Rois, 68100 Mulhouse"
@@ -3116,6 +5839,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.890961,
+          2.2368099999999913
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chipotle Mexican Grill — La Défense",
         "address": "Centre Commercial Les 4 Temps, Les 4 Temps, 15 Parvis de la Défense, 92800 Puteaux"
@@ -3124,6 +5854,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.603666,
+          1.4350239999999985
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le bonheur est dans le pot",
         "address": "17 Place Saint-Pierre, 31000 Toulouse, France"
@@ -3132,6 +5869,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.473429,
+          -0.5509140000000343
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Au murmure des carottes",
         "address": "60 Rue du Mail, 49100 Angers, France"
@@ -3140,6 +5884,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.851807,
+          2.3178269999999657
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ô Soleil De Naples",
         "address": "56 Rue de Babylone, 75007 Paris, France"
@@ -3148,6 +5899,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.775967,
+          4.834988000000067
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le jardin intérieur",
         "address": "2 Rue Belfort, 69004 Lyon"
@@ -3156,6 +5914,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9053123,
+          2.344394599999987
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "HighTall Vital",
         "address": "101 Avenue Michelet, 93400 Saint-Ouen, France"
@@ -3164,6 +5929,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.849172,
+          2.3395550000000185
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Indonesia",
         "address": "3 Rue de Vaugirard, 75006 Paris, France"
@@ -3172,6 +5944,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.292963,
+          5.377682999999934
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Country Life Marseille",
         "address": "14 Rue Venture, 13001 Marseille, France"
@@ -3180,6 +5959,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.551947,
+          7.017914000000019
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Citronelle",
         "address": "16 Rue Bivouac Napoléon, 06400 Cannes, France"
@@ -3188,6 +5974,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.840808,
+          2.3881830000000264
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Oulala Traiteur",
         "address": "189 Rue de Charenton, 75012 Paris, France"
@@ -3196,6 +5989,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.813198,
+          -71.22759200000002
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Om Prana",
         "address": "241 Rue Saint-Joseph E, Québec, QC G1K 3E8, Canada"
@@ -3204,6 +6004,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.439236,
+          -1.590061999999989
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "The Nourishing Box",
         "address": "Bidart, France"
@@ -3212,6 +6019,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.380379,
+          2.1773210000000063
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Gopal",
         "address": "Carrer dels Escudellers, 42, 08002 Barcelona, Barcelona, Espagne"
@@ -3220,6 +6034,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.380213,
+          2.1691170000000284
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Juicy Jones",
         "address": "Carrer del Cardenal Casañas, 7, 08002 Barcelona, Espagne"
@@ -3228,6 +6049,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.382234,
+          2.1680200000000696
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Veggie Garden",
         "address": "Carrer dels Àngels, 3, 08001 Barcelona, Espagne"
@@ -3236,6 +6064,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.512776,
+          13.462259000000017
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ohlala",
         "address": "Mainzer Straße 18, 10247 Berlin, Allemagne"
@@ -3244,6 +6079,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.847396,
+          2.370420999999965
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sain bio'z",
         "address": "34 Avenue Ledru-Rollin, 75012 Paris, France"
@@ -3252,6 +6094,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.252355,
+          4.0254019999999855
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Maison de Mademoiselle Thi",
         "address": "130 Rue de Vesle, 51100 Reims, France"
@@ -3260,6 +6109,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84264,
+          2.5024009999999635
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Délices de Gigi",
         "address": "67 Avenue Ledru Rollin Le Perreux-sur-Marne"
@@ -3268,6 +6124,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.779413,
+          3.08442500000001
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La BerGaMoThée",
         "address": "1 Place du Mazet, 63000 Clermont-Ferrand"
@@ -3276,6 +6139,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.859407,
+          2.364111600000001
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Jay & Joy",
         "address": "3 Rue Sainte-Anastase, 75003 Paris, France"
@@ -3284,6 +6154,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8785463,
+          4.7033040999999685
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vegaverso",
         "address": "Tiensestraat 20, 3000 Leuven, Belgique"
@@ -3292,6 +6169,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5419196,
+          -0.1576341999999613
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Manna",
         "address": "4 Erskine Rd, London NW3 3AJ, Royaume-Uni"
@@ -3300,6 +6184,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.174185,
+          -3.595033999999942
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hicuri Art Vegan",
         "address": "Plaza de los Gironés, 4, 18009 Granada, Granada, Espagne"
@@ -3308,6 +6199,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6418979,
+          2.9952964000000293
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Celebrazioni",
         "address": "121 Rue Anne Delavaux, 59160 Lille, France"
@@ -3316,6 +6214,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8279017,
+          4.370428500000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ami",
         "address": "Rue Lesbroussart 13, 1050 Ixelles, Belgique"
@@ -3324,6 +6229,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84552799999999,
+          4.348694399999999
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kokob",
         "address": "Rue des Grands Carmes 10-12, 1000 Bruxelles, Belgique"
@@ -3332,6 +6244,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.584386,
+          7.751441
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Une fleur des champs",
         "address": "4 Rue des Charpentiers, 67000 Strasbourg, France"
@@ -3340,6 +6259,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.865864,
+          2.3368379999999433
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Damouri",
         "address": "41 Rue de Richelieu, 75001 Paris, France"
@@ -3348,6 +6274,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866854,
+          2.307657000000063
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Siamin",
         "address": "19 Rue Bayard, 75008 Paris, France"
@@ -3356,6 +6289,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.832281,
+          2.3460700000000543
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Van Long",
         "address": "9 Rue du Champ de l'Alouette, 75013 Paris, France"
@@ -3364,6 +6304,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.184474,
+          -0.35975699999994504
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dolly's",
         "address": "16 Avenue de la Libération, 14000 Caen, France"
@@ -3372,6 +6319,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.815483,
+          2.3205070000000205
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Titi Touareg",
         "address": "92 Avenue Henri Ginoux, 92120 Montrouge"
@@ -3380,6 +6334,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5215074,
+          6.63999519999993
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Nil Bleu",
         "address": "Place de l'Ours 1, 1005 Lausanne, Suisse"
@@ -3388,6 +6349,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.376602,
+          4.894639999999981
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "TerraZen Centre",
         "address": "Sint Jacobsstraat 19 HS, 1012 NC Amsterdam, Pays-Bas"
@@ -3396,6 +6364,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.946945,
+          7.442001000000005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Tibits — Bern",
         "address": "Gurtengasse 3, 3011 Bern, Suisse"
@@ -3404,6 +6379,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.985813,
+          6.837598999999955
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'Aubier Eco-Hôtel Montezillon",
         "address": "Les Murailles 5, 2037 Montézillon, Suisse"
@@ -3412,6 +6394,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990594,
+          6.929993999999965
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'Ami Ami",
         "address": "Rue du Bassin 8, 2000 Neuchâtel, Suisse"
@@ -3420,6 +6409,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.253018,
+          4.02842499999997
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Cèdre du Liban",
         "address": "5, avenue du Maine 75015 Paris"
@@ -3428,6 +6424,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.614082,
+          3.877318999999943
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "L'oignon givré",
         "address": "46 Rue de l'Université, 34000 Montpellier, France"
@@ -3436,6 +6439,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2520958,
+          -85.87030199999998
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Buddha's Garden",
         "address": "Avenida la Bolsa, San Juan Del Sur, Nicaragua"
@@ -3444,6 +6454,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.882816,
+          2.373328000000015
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Les Marmites Volantes",
         "address": "69 Rue Armand Carrel, 75019 Paris, France"
@@ -3452,6 +6469,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.871558,
+          2.3505420000000186
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Petite Chaufferie",
         "address": "32 Rue de l'Échiquier, 75010 Paris, France"
@@ -3460,6 +6484,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86125,
+          2.3605969999999843
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Yuman",
         "address": "70 Rue du Chevaleret, 75013 Paris"
@@ -3468,6 +6499,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.880667,
+          2.3440650000000005
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pizza di Loretta",
         "address": "62 Rue Rodier, 75009 Paris, France"
@@ -3476,6 +6514,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.635617,
+          3.063382000000047
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Lille Rihour",
         "address": "35 Place Rihour, 59800 Lille, France"
@@ -3484,6 +6529,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.866968,
+          2.2787049999999454
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Pain Quotidien — Paris Victor Hugo",
         "address": "150 Avenue Victor Hugo, 75116 Paris"
@@ -3492,6 +6544,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39024700000001,
+          -6.001637999999957
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Gaia",
         "address": "Calle Luis de Vargas, 4, 41001 Sevilla, Sevilla, Espagne"
@@ -3500,6 +6559,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.610145,
+          3.87935200000004
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Tripti Kulai",
         "address": "20 Rue Jacques Cœur, 34000 Montpellier"
@@ -3508,6 +6574,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.21558000000001,
+          16.379714000000035
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Harvest Café",
         "address": "Karmeliterplatz 1, 1020 Wien, Autriche"
@@ -3516,6 +6589,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5910499,
+          1.4447410999999875
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Manger autrement chez Prasad",
         "address": "155 Grande Rue Saint-Michel, 31400 Toulouse, France"
@@ -3524,6 +6604,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90023,
+          1.9092439999999442
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Angkor",
         "address": "228 Rue de Bourgogne, 45000 Orléans"
@@ -3532,6 +6619,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6044432,
+          1.4525187
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Le Yéti",
         "address": "21 Rue de la Colombette, 31000 Toulouse"
@@ -3540,6 +6634,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.362408,
+          3.51729
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sushi Val",
         "address": "41 Avenue du Sénateur Girard, 59300 Valenciennes, France"
@@ -3548,6 +6649,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.102353,
+          -1.71337
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pique-Prune — Cleuney",
         "address": "132 Rue Eugène Pottier, 35000 Rennes, France"
@@ -3556,6 +6664,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.637804,
+          -2.019055
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Café Crêperie de la Plage",
         "address": "Rue des Bas Sablons Saint-Malo"
@@ -3564,6 +6679,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.778591,
+          2.29121
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Crêperie Garnier",
         "address": "4 Place du Général de Gaulle, 92330 Sceaux"
@@ -3572,6 +6694,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.299375,
+          5.377497
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Grain de Sable",
         "address": "34 Rue du Baignoir, 13001 Marseille, France"
@@ -3580,6 +6709,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8662633,
+          2.3359812999999576
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Nest ",
         "address": "9 Rue Villedo, 75001 Paris, France"
@@ -3588,6 +6724,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.879205,
+          2.366604999999936
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Kheak & Vero",
         "address": "1 Rue Alexandre Parodi, 75010 Paris"
@@ -3596,6 +6739,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.11528400000001,
+          -1.6787890000000516
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Black Temple Food",
         "address": "4 Passage des Carmélites, 35000 Rennes, France"
@@ -3604,6 +6754,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8410204,
+          2.361677900000018
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bibimbap",
         "address": "32 Boulevard de l'Hôpital, 75005 Paris, France"
@@ -3612,6 +6769,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.910865,
+          2.333677999999964
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Bon Appétit",
         "address": "9 Avenue Gabriel Péri, 93400 Saint-Ouen, France"
@@ -3620,6 +6784,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.853872,
+          2.4205560000000332
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Casa Poblano",
         "address": "15 Rue Lavoisier, 93100 Montreuil, France"
@@ -3628,6 +6799,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.39440099999999,
+          0.6806940000000168
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Shelter",
         "address": "19 Rue du Grand Marché, 37000 Tours, France"
@@ -3636,6 +6814,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2894616,
+          5.387346999999977
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Londonewyork",
         "address": "77 Rue de Lodi, 13006 Marseille, France"
@@ -3644,6 +6829,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.68932,
+          3.170688000000041
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cooperative Baraka",
         "address": "20 Rue de Sébastopol, 59100 Roubaix, France"
@@ -3652,6 +6844,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.846793,
+          2.2938890000000356
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Brasserie Lola",
         "address": "99 rue du Théâtre Paris"
@@ -3660,6 +6859,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87481529999999,
+          2.3255444000000125
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La pause libanaise",
         "address": "08 Rue de l'Isly, 75008 Paris, France"
@@ -3668,6 +6874,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34842889999999,
+          6.3564331999999695
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ed's kitchen",
         "address": "Route du Lac, 74140 Excenevex, France"
@@ -3676,6 +6889,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.877809,
+          2.3488139999999476
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Presqu'Ile",
         "address": "113 Rue du Faubourg Poissonnière, 75009 Paris, France"
@@ -3684,6 +6904,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.192513,
+          5.730308000000037
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Wokbar",
         "address": "14 Rue Barnave, 38000 Grenoble, France"
@@ -3692,6 +6919,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1652784,
+          5.697064899999987
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sapori Antichi",
         "address": "69 Rue de la Liberté, 38180 Seyssins, France"
@@ -3700,6 +6934,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867757,
+          2.3353889999999637
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Végitaï",
         "address": "39/41 Passage Choiseul, 75002 Paris"
@@ -3708,6 +6949,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.863434,
+          2.3631319999999505
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Nanashi",
         "address": "57 Rue Charlot, 75003 Paris, France"
@@ -3716,6 +6964,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.825504,
+          2.3537360000000263
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La bonne heure",
         "address": "72 Rue du Moulin des Prés, 75013 Paris, France"
@@ -3724,6 +6979,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2417301,
+          -61.565840200000025
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Vapor é Vous",
         "address": "Immeuble Tsahal, 51 rue Becquerel, Jarry, Guadeloupe"
@@ -3732,6 +6994,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.88187,
+          -1.251585
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Maha Prana",
         "address": "20 Route du Large, 17550 Dolus-d'Oléron"
@@ -3740,6 +7009,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.207108,
+          6.145691
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Qibi Urban Smart Food",
         "address": "Rue Kléberg 12, 1201 Genève, Suisse"
@@ -3748,6 +7024,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.885204,
+          2.365449
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cantine Vagabonde",
         "address": "11 Rue d'Aubervilliers, 75019 Paris, France"
@@ -3756,6 +7039,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.861174,
+          2.344402
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Beytouti",
         "address": "44 Rue Saint Honoré, 75001 Paris, France"
@@ -3764,6 +7054,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.851807,
+          2.366342
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Grand Appétit",
         "address": "9 Rue de la Cerisaie, 75004 Paris, France"
@@ -3772,6 +7069,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8355503,
+          -0.5836331
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La cuisine de Johanna",
         "address": "44 Cours Anatole France, 33000 Bordeaux, France"
@@ -3780,6 +7084,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.114765,
+          -1.676024
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Dolma",
         "address": "36 Rue Saint-Melaine, 35000 Rennes, France"
@@ -3788,6 +7099,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.114367,
+          -1.679732
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ethnic Food",
         "address": "3 Place Sainte-Anne, 35000 Rennes, France"
@@ -3796,6 +7114,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867429,
+          2.344029
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Loumi's",
         "address": "106 Rue Montmartre, 75002 Paris, France"
@@ -3804,6 +7129,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.908821,
+          0.26453
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Maison du Vert",
         "address": "70 Le Bourg, 61120 Ticheville, France"
@@ -3812,6 +7144,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.608501,
+          1.449604
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Ô Bali",
         "address": "31 Rue Denfert Rochereau, 31000 Toulouse, France"
@@ -3820,6 +7159,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.217365,
+          4.403891
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Lombardia Natural Food",
         "address": "Lombardenvest 78, 2000 Antwerpen, Belgique"
@@ -3828,6 +7174,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.630081,
+          3.057225
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Sushi Boutik",
         "address": "133 Rue Solférino, 59000 Lille, France"
@@ -3836,6 +7189,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1392776,
+          -1.6910584
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pique-Prune — St Grégoire",
         "address": "8 Allée de la Cerisaie, 35760 Saint-Grégoire, France"
@@ -3844,6 +7204,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1132017,
+          -1.6069621000000003
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Pique-Prune — Cesson",
         "address": "8 Avenue des Peupliers, 35510 Cesson-Sévigné, France"
@@ -3852,6 +7219,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63257,
+          3.065109
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "La Source",
         "address": "13 Rue du Plat, 59800 Lille, France"
@@ -3860,6 +7234,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6296873,
+          3.061069599999996
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Cô Dô Huê",
         "address": "16 Rue Nicolas Leblanc, 59000 Lille, France"
@@ -3868,6 +7249,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.609681,
+          3.875809000000004
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Umiyaki",
         "address": "9 Rue de la Friperie, 34000 Montpellier, France"
@@ -3876,6 +7264,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.579882,
+          7.125550999999973
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Chez Helen",
         "address": "35 Rue des Revennes, 06600 Antibes"
@@ -3884,6 +7279,13 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.899667,
+          1.909366999999975
+        ]
+      },
+      "properties": {
         "marker-symbol": "place",
         "name": "Hikari",
         "address": "28 Rue de la Poterne, 45000 Orléans, France"
